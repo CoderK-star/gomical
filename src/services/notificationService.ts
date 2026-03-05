@@ -1,5 +1,3 @@
-import * as Notifications from 'expo-notifications';
-import * as Device from 'expo-device';
 import { Platform } from 'react-native';
 import type { GarbageType } from '../types/models';
 import {
@@ -10,21 +8,32 @@ import {
 } from './calendarEngine';
 import { formatDateISO } from '../utils/dateUtils';
 
-// Configure how notifications appear when the app is in foreground
-Notifications.setNotificationHandler({
-  handleNotification: async () => ({
-    shouldShowAlert: true,
-    shouldShowBanner: true,
-    shouldShowList: true,
-    shouldPlaySound: true,
-    shouldSetBadge: false,
-  }),
-});
+const isNative = Platform.OS !== 'web';
+
+// Lazy-load native-only modules to avoid Web warnings
+const Notifications: typeof import('expo-notifications') = isNative
+  ? require('expo-notifications')
+  : null;
+const Device: typeof import('expo-device') = isNative
+  ? require('expo-device')
+  : null;
+
+if (isNative && Notifications) {
+  Notifications.setNotificationHandler({
+    handleNotification: async () => ({
+      shouldShowAlert: true,
+      shouldShowBanner: true,
+      shouldShowList: true,
+      shouldPlaySound: true,
+      shouldSetBadge: false,
+    }),
+  });
+}
 
 const CHANNEL_ID = 'garbage-collection';
 
 export async function setupNotificationChannel(): Promise<void> {
-  if (Platform.OS === 'android') {
+  if (Platform.OS === 'android' && Notifications) {
     await Notifications.setNotificationChannelAsync(CHANNEL_ID, {
       name: 'ごみ収集通知',
       description: 'ごみ収集日の前日・当日にお知らせします',
@@ -35,10 +44,8 @@ export async function setupNotificationChannel(): Promise<void> {
 }
 
 export async function requestPermissions(): Promise<boolean> {
-  if (!Device.isDevice) {
-    // Notifications don't work on simulator/emulator
-    return false;
-  }
+  if (!isNative || !Notifications || !Device) return false;
+  if (!Device.isDevice) return false;
 
   const { status: existing } = await Notifications.getPermissionsAsync();
   if (existing === 'granted') return true;
@@ -48,6 +55,7 @@ export async function requestPermissions(): Promise<boolean> {
 }
 
 export async function cancelAllScheduled(): Promise<void> {
+  if (!isNative || !Notifications) return;
   await Notifications.cancelAllScheduledNotificationsAsync();
 }
 
@@ -69,7 +77,8 @@ export async function scheduleNotifications(
   morningHour: number,
   daysAhead: number = 30
 ): Promise<number> {
-  // Cancel existing
+  if (!isNative || !Notifications) return 0;
+
   await cancelAllScheduled();
 
   const municipality = loadMunicipalityData();
@@ -96,24 +105,20 @@ export async function scheduleNotifications(
 
     if (collections.length === 0) continue;
 
-    // Determine trigger time
     let triggerDate: Date;
     let isEvening: boolean;
 
     if (notificationTime === 'evening') {
-      // Night before the collection day
       triggerDate = new Date(targetDate);
       triggerDate.setDate(triggerDate.getDate() - 1);
       triggerDate.setHours(eveningHour, 0, 0, 0);
       isEvening = true;
     } else {
-      // Morning of the collection day
       triggerDate = new Date(targetDate);
       triggerDate.setHours(morningHour, 0, 0, 0);
       isEvening = false;
     }
 
-    // Skip if trigger time is in the past
     if (triggerDate.getTime() <= Date.now()) continue;
 
     const title = buildNotificationTitle(isEvening, collections);
@@ -140,6 +145,7 @@ export async function scheduleNotifications(
 }
 
 export async function getScheduledCount(): Promise<number> {
+  if (!isNative || !Notifications) return 0;
   const all = await Notifications.getAllScheduledNotificationsAsync();
   return all.length;
 }

@@ -372,13 +372,16 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderRadius: borderRadius.sm,
   },
-  toggleActive: {
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.1,
-    shadowRadius: 2,
-    elevation: 1,
-  },
+  toggleActive: Platform.select({
+    web: { boxShadow: '0px 1px 2px rgba(0, 0, 0, 0.1)' },
+    default: {
+      shadowColor: '#000',
+      shadowOffset: { width: 0, height: 1 },
+      shadowOpacity: 0.1,
+      shadowRadius: 2,
+      elevation: 1,
+    },
+  }),
   toggleText: {
     fontSize: fontSize.md,
   },

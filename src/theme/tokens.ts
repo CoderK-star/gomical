@@ -1,3 +1,5 @@
+import { Platform } from 'react-native';
+
 // Design tokens for the Gomical app
 // Pastel color palette with rounded, friendly UI
 
@@ -79,28 +81,37 @@ export const fontWeight = {
 };
 
 export const shadow = {
-  sm: {
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 1 },
-    shadowOpacity: 0.05,
-    shadowRadius: 2,
-    elevation: 1,
-  },
-  md: {
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.08,
-    shadowRadius: 4,
-    elevation: 2,
-  },
-  lg: {
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.1,
-    shadowRadius: 8,
-    elevation: 3,
-  },
-} as const;
+  sm: Platform.select({
+    web: { boxShadow: '0px 1px 2px rgba(0, 0, 0, 0.05)' },
+    default: {
+      shadowColor: '#000',
+      shadowOffset: { width: 0, height: 1 },
+      shadowOpacity: 0.05,
+      shadowRadius: 2,
+      elevation: 1,
+    },
+  }),
+  md: Platform.select({
+    web: { boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.08)' },
+    default: {
+      shadowColor: '#000',
+      shadowOffset: { width: 0, height: 2 },
+      shadowOpacity: 0.08,
+      shadowRadius: 4,
+      elevation: 2,
+    },
+  }),
+  lg: Platform.select({
+    web: { boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.1)' },
+    default: {
+      shadowColor: '#000',
+      shadowOffset: { width: 0, height: 4 },
+      shadowOpacity: 0.1,
+      shadowRadius: 8,
+      elevation: 3,
+    },
+  }),
+};
 
 export interface ThemeColors {
   background: string;
