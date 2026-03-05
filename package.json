@@ -8,7 +8,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "build:web": "npx expo export --platform web",
-    "deploy": "npx expo export --platform web && npx wrangler pages deploy dist --project-name=gomical"
+    "deploy": "vercel --prod",
+    "deploy:cf": "npx expo export --platform web && npx wrangler pages deploy dist --project-name=gomical"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",

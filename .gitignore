@@ -22,6 +22,9 @@ ios/
 .env.local
 .env.production
 
+# Vercel
+.vercel/
+
 # IDE
 .idea/
 .vscode/
