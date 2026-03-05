@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { View, Text, FlatList, TouchableOpacity, StyleSheet } from 'react-native';
+import { View, Text, ScrollView, TouchableOpacity, StyleSheet } from 'react-native';
 import { useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -114,12 +114,10 @@ export default function OnboardingScreen() {
       </View>
 
       {step === 'prefecture' && (
-        <FlatList
-          data={prefectureGroups}
-          keyExtractor={(item) => item.prefecture}
-          contentContainerStyle={styles.listContent}
-          renderItem={({ item }) => (
+        <ScrollView style={styles.list} contentContainerStyle={styles.listContent}>
+          {prefectureGroups.map((item) => (
             <TouchableOpacity
+              key={item.prefecture}
               style={[styles.card, { backgroundColor: colors.surface, borderColor: colors.border }]}
               onPress={() => handlePrefectureSelect(item.prefecture)}
             >
@@ -129,37 +127,33 @@ export default function OnboardingScreen() {
               </Text>
               <Ionicons name="chevron-forward" size={18} color={colors.textTertiary} />
             </TouchableOpacity>
-          )}
-        />
+          ))}
+        </ScrollView>
       )}
 
       {step === 'municipality' && (
-        <FlatList
-          data={municipalitiesInPrefecture}
-          keyExtractor={(item) => item.id}
-          contentContainerStyle={styles.listContent}
-          renderItem={({ item }) => (
+        <ScrollView style={styles.list} contentContainerStyle={styles.listContent}>
+          {municipalitiesInPrefecture.map((item) => (
             <TouchableOpacity
+              key={item.id}
               style={[styles.card, { backgroundColor: colors.surface, borderColor: colors.border }]}
               onPress={() => handleMunicipalitySelect(item)}
             >
               <Text style={[styles.cardTitle, { color: colors.text }]}>{item.name}</Text>
               <Ionicons name="chevron-forward" size={18} color={colors.textTertiary} />
             </TouchableOpacity>
-          )}
-        />
+          ))}
+        </ScrollView>
       )}
 
       {step === 'area' && (
         <>
-          <FlatList
-            data={areas}
-            keyExtractor={(item) => item.areaId}
-            contentContainerStyle={styles.listContent}
-            renderItem={({ item: area }) => {
+          <ScrollView style={styles.list} contentContainerStyle={styles.listContent}>
+            {areas.map((area) => {
               const isSelected = area.areaId === selectedAreaId;
               return (
                 <TouchableOpacity
+                  key={area.areaId}
                   style={[
                     styles.card,
                     { backgroundColor: colors.surface, borderColor: colors.border },
@@ -184,8 +178,8 @@ export default function OnboardingScreen() {
                   {isSelected && <Ionicons name="checkmark-circle" size={24} color={tokenColors.primary} />}
                 </TouchableOpacity>
               );
-            }}
-          />
+            })}
+          </ScrollView>
 
           <View style={[styles.footer, { paddingBottom: insets.bottom + spacing.lg }]}>
             <TouchableOpacity
@@ -292,6 +286,9 @@ const styles = StyleSheet.create({
   hint: {
     fontSize: fontSize.sm,
     marginTop: spacing.xs,
+  },
+  list: {
+    flex: 1,
   },
   listContent: {
     paddingHorizontal: spacing.lg,

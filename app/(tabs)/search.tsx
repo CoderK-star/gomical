@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { View, Text, TextInput, FlatList, StyleSheet } from 'react-native';
+import { View, Text, TextInput, ScrollView, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { ScreenContainer, SectionHeader } from '@/src/components/common';
 import { GarbageBadge } from '@/src/components/garbage';
@@ -53,11 +53,8 @@ export default function SearchScreen() {
       </View>
 
       {query.length > 0 ? (
-        <FlatList
-          data={results}
-          keyExtractor={(item, index) => `${item.keyword}-${index}`}
-          contentContainerStyle={styles.listContent}
-          ListEmptyComponent={
+        <ScrollView style={styles.list} contentContainerStyle={styles.listContent}>
+          {results.length === 0 ? (
             <View style={styles.noResults}>
               <Ionicons name="help-circle-outline" size={48} color={colors.textTertiary} />
               <Text style={[styles.noResultsText, { color: colors.textSecondary }]}>
@@ -67,21 +64,17 @@ export default function SearchScreen() {
                 自治体の公式情報をご確認ください
               </Text>
             </View>
-          }
-          renderItem={({ item }) => (
-            <SearchResultRow item={item} colors={colors} />
+          ) : (
+            results.map((item, index) => (
+              <SearchResultRow key={`${item.keyword}-${index}`} item={item} colors={colors} />
+            ))
           )}
-        />
+        </ScrollView>
       ) : (
-        <FlatList
-          data={categories}
-          keyExtractor={(item) => item.garbageType.typeId}
-          contentContainerStyle={styles.listContent}
-          ListHeaderComponent={
-            <SectionHeader title="分別カテゴリ" style={{ marginBottom: spacing.sm }} />
-          }
-          renderItem={({ item }) => (
-            <View style={[styles.categoryCard, { backgroundColor: colors.surface }]}>
+        <ScrollView style={styles.list} contentContainerStyle={styles.listContent}>
+          <SectionHeader title="分別カテゴリ" style={{ marginBottom: spacing.sm }} />
+          {categories.map((item) => (
+            <View key={item.garbageType.typeId} style={[styles.categoryCard, { backgroundColor: colors.surface }]}>
               <View style={styles.categoryHeader}>
                 <GarbageBadge garbageType={item.garbageType} size="sm" />
                 <Text style={[styles.categoryTitle, { color: colors.text }]}>
@@ -92,8 +85,8 @@ export default function SearchScreen() {
                 {item.items.join('、')}
               </Text>
             </View>
-          )}
-        />
+          ))}
+        </ScrollView>
       )}
     </ScreenContainer>
   );
@@ -153,6 +146,9 @@ const styles = StyleSheet.create({
     flex: 1,
     fontSize: fontSize.md,
     paddingVertical: 0,
+  },
+  list: {
+    flex: 1,
   },
   listContent: {
     paddingHorizontal: spacing.lg,

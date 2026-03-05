@@ -3,7 +3,7 @@ import {
   View,
   Text,
   TextInput,
-  FlatList,
+  ScrollView,
   TouchableOpacity,
   StyleSheet,
   KeyboardAvoidingView,
@@ -33,7 +33,7 @@ export default function ChatScreen() {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [conversationId, setConversationId] = useState<string | null>(null);
-  const flatListRef = useRef<FlatList<ChatMessage>>(null);
+  const scrollViewRef = useRef<ScrollView>(null);
 
   const handleSend = useCallback(async () => {
     const text = input.trim();
@@ -78,10 +78,11 @@ export default function ChatScreen() {
     );
   }
 
-  const renderMessage = ({ item }: { item: ChatMessage }) => {
+  const renderMessage = (item: ChatMessage) => {
     const isUser = item.role === 'user';
     return (
       <View
+        key={item.id}
         style={[
           styles.messageBubbleRow,
           isUser ? styles.userRow : styles.botRow,
@@ -119,14 +120,14 @@ export default function ChatScreen() {
       behavior={Platform.OS === 'ios' ? 'padding' : undefined}
       keyboardVerticalOffset={Platform.OS === 'ios' ? 90 : 0}
     >
-      <FlatList
-        ref={flatListRef}
-        data={messages}
-        keyExtractor={(item) => item.id}
-        renderItem={renderMessage}
+      <ScrollView
+        ref={scrollViewRef}
+        style={styles.chatScroll}
         contentContainerStyle={styles.messageList}
-        onContentSizeChange={() => flatListRef.current?.scrollToEnd({ animated: true })}
-      />
+        onContentSizeChange={() => scrollViewRef.current?.scrollToEnd({ animated: true })}
+      >
+        {messages.map(renderMessage)}
+      </ScrollView>
 
       {loading && (
         <View style={[styles.typingRow]}>
@@ -182,6 +183,9 @@ const styles = StyleSheet.create({
   emptyText: {
     fontSize: fontSize.md,
     textAlign: 'center',
+  },
+  chatScroll: {
+    flex: 1,
   },
   messageList: {
     paddingHorizontal: spacing.lg,
