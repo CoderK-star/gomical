@@ -1,0 +1,25 @@
+[
+  {
+    "keyword": "アイスクリームのカップ容器(プラスチック）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "紙類",
+    "notes": "紙製のものは燃やすごみ"
+  },
+  {
+    "keyword": "アイスノン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "可燃物"
+  },
+  {
+    "keyword": "一升びん",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "ビン-カン-不燃物",
+    "notes": "酒屋さんなどへ返しましょう・キャップを外してひと洗い"
+  }
+]

@@ -1,0 +1,9222 @@
+{
+  "municipalityId": "ibaraki-town",
+  "municipalityName": "茨城町",
+  "prefecture": "茨城県",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "燃えるごみ",
+      "name": "燃えるごみ",
+      "shortName": "燃えるごみ",
+      "color": "#e61000",
+      "icon": "燃えるごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "カン-金属類",
+      "name": "カン・金属類",
+      "shortName": "カン・金属類",
+      "color": "#898a7c",
+      "icon": "カン-金属類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "粗大ごみ",
+      "name": "粗大ごみ",
+      "shortName": "粗大ごみ",
+      "color": "#2a2a2a",
+      "icon": "粗大ごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "無色のビン",
+      "name": "無色のビン",
+      "shortName": "無色のビン",
+      "color": "#0052ff",
+      "icon": "無色のビン",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "茶色のビン",
+      "name": "茶色のビン",
+      "shortName": "茶色のビン",
+      "color": "#191970",
+      "icon": "茶色のビン",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "その他のビン",
+      "name": "その他のビン",
+      "shortName": "その他のビン",
+      "color": "#4682b4",
+      "icon": "その他のビン",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "ガラス-陶磁器類",
+      "name": "ガラス・陶磁器類",
+      "shortName": "ガラス・陶磁器類",
+      "color": "#681fa4",
+      "icon": "ガラス-陶磁器類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "古紙類",
+      "name": "古紙類",
+      "shortName": "古紙類",
+      "color": "#d2691e",
+      "icon": "古紙類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "ペットボトル",
+      "name": "ペットボトル",
+      "shortName": "ペットボトル",
+      "color": "#90bb00",
+      "icon": "ペットボトル",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "秋葉",
+      "districts": [
+        "秋葉"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "赤坂",
+      "districts": [
+        "赤坂"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "3",
+      "areaName": "網掛",
+      "districts": [
+        "網掛"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "4",
+      "areaName": "飯沼",
+      "districts": [
+        "飯沼"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "5",
+      "areaName": "飯塚",
+      "districts": [
+        "飯塚"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "6",
+      "areaName": "後谷",
+      "districts": [
+        "後谷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "7",
+      "areaName": "植農",
+      "districts": [
+        "植農"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "8",
+      "areaName": "馬渡",
+      "districts": [
+        "馬渡"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "9",
+      "areaName": "海老沢",
+      "districts": [
+        "海老沢"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "10",
+      "areaName": "奥谷",
+      "districts": [
+        "奥谷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "11",
+      "areaName": "小堤",
+      "districts": [
+        "小堤"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "12",
+      "areaName": "小幡",
+      "districts": [
+        "小幡"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "13",
+      "areaName": "小山団地",
+      "districts": [
+        "小山団地"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "14",
+      "areaName": "小幡緑台",
+      "districts": [
+        "小幡緑台"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "15",
+      "areaName": "大畑",
+      "districts": [
+        "大畑"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "16",
+      "areaName": "大山原",
+      "districts": [
+        "大山原"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "17",
+      "areaName": "町営奥谷団地",
+      "districts": [
+        "町営奥谷団地"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "18",
+      "areaName": "金沢",
+      "districts": [
+        "金沢"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "19",
+      "areaName": "上郷",
+      "districts": [
+        "上郷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "20",
+      "areaName": "上雨ヶ谷",
+      "districts": [
+        "上雨ヶ谷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "21",
+      "areaName": "上飯沼",
+      "districts": [
+        "上飯沼"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "22",
+      "areaName": "上飯沼南部",
+      "districts": [
+        "上飯沼南部"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "23",
+      "areaName": "神宿",
+      "districts": [
+        "神宿"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "24",
+      "areaName": "神谷",
+      "districts": [
+        "神谷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "25",
+      "areaName": "片岡ハイツ",
+      "districts": [
+        "片岡ハイツ"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "26",
+      "areaName": "木部西部",
+      "districts": [
+        "木部西部"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "27",
+      "areaName": "木部東部",
+      "districts": [
+        "木部東部"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "28",
+      "areaName": "木部東部グリーンタウン",
+      "districts": [
+        "木部東部グリーンタウン"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "29",
+      "areaName": "木部南部",
+      "districts": [
+        "木部南部"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "30",
+      "areaName": "下座",
+      "districts": [
+        "下座"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "31",
+      "areaName": "越安",
+      "districts": [
+        "越安"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "32",
+      "areaName": "近藤",
+      "districts": [
+        "近藤"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "33",
+      "areaName": "駒場",
+      "districts": [
+        "駒場"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "34",
+      "areaName": "駒渡",
+      "districts": [
+        "駒渡"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "35",
+      "areaName": "五里峰",
+      "districts": [
+        "五里峰"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "36",
+      "areaName": "小鶴",
+      "districts": [
+        "小鶴"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "37",
+      "areaName": "サングリーン奥谷",
+      "districts": [
+        "サングリーン奥谷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "38",
+      "areaName": "桜ヶ丘ニュータウン",
+      "districts": [
+        "桜ヶ丘ニュータウン"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "39",
+      "areaName": "桜の郷",
+      "districts": [
+        "桜の郷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "40",
+      "areaName": "桜丘団地",
+      "districts": [
+        "桜丘団地"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "41",
+      "areaName": "桜団地",
+      "districts": [
+        "桜団地"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "42",
+      "areaName": "下郷",
+      "districts": [
+        "下郷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "43",
+      "areaName": "下雨ヶ谷",
+      "districts": [
+        "下雨ヶ谷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "44",
+      "areaName": "下土師宿",
+      "districts": [
+        "下土師宿"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "45",
+      "areaName": "下土師新地",
+      "districts": [
+        "下土師新地"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "46",
+      "areaName": "下土師仲塚",
+      "districts": [
+        "下土師仲塚"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "47",
+      "areaName": "下飯沼",
+      "districts": [
+        "下飯沼"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "48",
+      "areaName": "昭和",
+      "districts": [
+        "昭和"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "49",
+      "areaName": "城之内",
+      "districts": [
+        "城之内"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "50",
+      "areaName": "新興",
+      "districts": [
+        "新興"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "51",
+      "areaName": "千貫桜",
+      "districts": [
+        "千貫桜"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "52",
+      "areaName": "蕎麦原",
+      "districts": [
+        "蕎麦原"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "53",
+      "areaName": "台",
+      "districts": [
+        "台"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "54",
+      "areaName": "千勝",
+      "districts": [
+        "千勝"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "55",
+      "areaName": "遠西",
+      "districts": [
+        "遠西"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "56",
+      "areaName": "常井",
+      "districts": [
+        "常井"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "57",
+      "areaName": "鳥羽田",
+      "districts": [
+        "鳥羽田"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "58",
+      "areaName": "鳥羽田大山",
+      "districts": [
+        "鳥羽田大山"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "59",
+      "areaName": "東永寺",
+      "districts": [
+        "東永寺"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "60",
+      "areaName": "生井沢協栄",
+      "districts": [
+        "生井沢協栄"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "61",
+      "areaName": "生井沢憲生",
+      "districts": [
+        "生井沢憲生"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "62",
+      "areaName": "中山",
+      "districts": [
+        "中山"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "63",
+      "areaName": "中石崎",
+      "districts": [
+        "中石崎"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "64",
+      "areaName": "長岡",
+      "districts": [
+        "長岡"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "65",
+      "areaName": "長洲",
+      "districts": [
+        "長洲"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "66",
+      "areaName": "長岡第二",
+      "districts": [
+        "長岡第二"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "67",
+      "areaName": "野曽",
+      "districts": [
+        "野曽"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "68",
+      "areaName": "野曽後谷",
+      "districts": [
+        "野曽後谷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "69",
+      "areaName": "坂東",
+      "districts": [
+        "坂東"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "70",
+      "areaName": "古宿",
+      "districts": [
+        "古宿"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "71",
+      "areaName": "船渡",
+      "districts": [
+        "船渡"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "72",
+      "areaName": "本郷",
+      "districts": [
+        "本郷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "73",
+      "areaName": "前原",
+      "districts": [
+        "前原"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "74",
+      "areaName": "前谷",
+      "districts": [
+        "前谷"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "75",
+      "areaName": "前田第一",
+      "districts": [
+        "前田第一"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "76",
+      "areaName": "前田第二",
+      "districts": [
+        "前田第二"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "77",
+      "areaName": "前田第三",
+      "districts": [
+        "前田第三"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "78",
+      "areaName": "前田東",
+      "districts": [
+        "前田東"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "79",
+      "areaName": "増山",
+      "districts": [
+        "増山"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "80",
+      "areaName": "桝原",
+      "districts": [
+        "桝原"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "81",
+      "areaName": "宮前",
+      "districts": [
+        "宮前"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "82",
+      "areaName": "宮ヶ崎",
+      "districts": [
+        "宮ヶ崎"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "83",
+      "areaName": "宮ヶ崎第五",
+      "districts": [
+        "宮ヶ崎第五"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "84",
+      "areaName": "宮ヶ崎第四",
+      "districts": [
+        "宮ヶ崎第四"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "85",
+      "areaName": "宮ヶ崎第六",
+      "districts": [
+        "宮ヶ崎第六"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "86",
+      "areaName": "宮ヶ崎日進",
+      "districts": [
+        "宮ヶ崎日進"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "87",
+      "areaName": "三島",
+      "districts": [
+        "三島"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "88",
+      "areaName": "瑞穂",
+      "districts": [
+        "瑞穂"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "89",
+      "areaName": "南栗崎",
+      "districts": [
+        "南栗崎"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "90",
+      "areaName": "南川又",
+      "districts": [
+        "南川又"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "91",
+      "areaName": "南島田",
+      "districts": [
+        "南島田"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "92",
+      "areaName": "明光台団地",
+      "districts": [
+        "明光台団地"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "93",
+      "areaName": "谷田部",
+      "districts": [
+        "谷田部"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "94",
+      "areaName": "矢頭西",
+      "districts": [
+        "矢頭西"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "95",
+      "areaName": "矢頭中丸原",
+      "districts": [
+        "矢頭中丸原"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "96",
+      "areaName": "矢頭東",
+      "districts": [
+        "矢頭東"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "97",
+      "areaName": "矢頭南町会",
+      "districts": [
+        "矢頭南町会"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "98",
+      "areaName": "矢頭北",
+      "districts": [
+        "矢頭北"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "99",
+      "areaName": "若宮",
+      "districts": [
+        "若宮"
+      ],
+      "schedule": {
+        "燃えるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "カン-金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "粗大ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3,
+            5
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "無色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "茶色のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "その他のビン": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ガラス-陶磁器類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古紙類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:00"
+}

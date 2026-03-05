@@ -1,0 +1,24 @@
+[
+  {
+    "keyword": "IHクッキングヒーター",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えるゴミ"
+  },
+  {
+    "keyword": "アイスクリームのカップ容器(プラスチック）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "びん-かん",
+    "notes": "紙製のものは燃やすごみ"
+  },
+  {
+    "keyword": "アイスノン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不有資"
+  }
+]

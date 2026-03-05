@@ -1,0 +1,868 @@
+{
+  "municipalityId": "sasayama",
+  "municipalityName": "丹波篠山市",
+  "prefecture": "兵庫県",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "燃やすごみ",
+      "name": "燃やすごみ",
+      "shortName": "燃やすごみ",
+      "color": "#ea3b13",
+      "icon": "燃やすごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "プラスチック-製容器包装",
+      "name": "プラスチック・製容器包装",
+      "shortName": "プラスチック・製容器包装",
+      "color": "#77ae1f",
+      "icon": "プラスチック-製容器包装",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "ペットボトル",
+      "name": "ペットボトル",
+      "shortName": "ペットボトル",
+      "color": "#77ae1f",
+      "icon": "ペットボトル",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "かん",
+      "name": "かん",
+      "shortName": "かん",
+      "color": "#77ae1f",
+      "icon": "かん",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "びん",
+      "name": "びん",
+      "shortName": "びん",
+      "color": "#2dc7aa",
+      "icon": "びん",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "金属類",
+      "name": "金属類",
+      "shortName": "金属類",
+      "color": "#733b96",
+      "icon": "金属類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "ガラス-陶器類",
+      "name": "ガラス・陶器類",
+      "shortName": "ガラス・陶器類",
+      "color": "#77ae1f",
+      "icon": "ガラス-陶器類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "紙パック-蛍光灯-電池類",
+      "name": "紙パック・蛍光灯・電池類",
+      "shortName": "紙パック・蛍光灯・電池類",
+      "color": "#733b96",
+      "icon": "紙パック-蛍光灯-電池類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "新聞",
+      "name": "新聞",
+      "shortName": "新聞",
+      "color": "#77ae1f",
+      "icon": "新聞",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "雑誌-雑がみ",
+      "name": "雑誌・雑がみ",
+      "shortName": "雑誌・雑がみ",
+      "color": "#77ae1f",
+      "icon": "雑誌-雑がみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "段ボール",
+      "name": "段ボール",
+      "shortName": "段ボール",
+      "color": "#77ae1f",
+      "icon": "段ボール",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "古着類",
+      "name": "古着類",
+      "shortName": "古着類",
+      "color": "#ea3b13",
+      "icon": "古着類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "ビールびん-酒びん",
+      "name": "ビールびん・酒びん",
+      "shortName": "ビールびん・酒びん",
+      "color": "#733b96",
+      "icon": "ビールびん-酒びん",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "氷上",
+      "districts": [
+        "氷上"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "プラスチック-製容器包装": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "びん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ガラス-陶器類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "紙パック-蛍光灯-電池類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "新聞": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "雑誌-雑がみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "段ボール": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古着類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ビールびん-酒びん": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "柏原",
+      "districts": [
+        "柏原"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "プラスチック-製容器包装": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "びん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ガラス-陶器類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "紙パック-蛍光灯-電池類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "新聞": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "雑誌-雑がみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "段ボール": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古着類": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ビールびん-酒びん": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "3",
+      "areaName": "青垣",
+      "districts": [
+        "青垣"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "プラスチック-製容器包装": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "びん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ガラス-陶器類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "紙パック-蛍光灯-電池類": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "新聞": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "雑誌-雑がみ": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "段ボール": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古着類": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ビールびん-酒びん": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "4",
+      "areaName": "春日",
+      "districts": [
+        "春日"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "プラスチック-製容器包装": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "びん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ガラス-陶器類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "紙パック-蛍光灯-電池類": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "新聞": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "雑誌-雑がみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "段ボール": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古着類": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ビールびん-酒びん": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "5",
+      "areaName": "市島",
+      "districts": [
+        "市島"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "プラスチック-製容器包装": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "びん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ガラス-陶器類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "紙パック-蛍光灯-電池類": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "新聞": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "雑誌-雑がみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "段ボール": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古着類": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ビールびん-酒びん": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "6",
+      "areaName": "山南",
+      "districts": [
+        "山南"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "プラスチック-製容器包装": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "びん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ガラス-陶器類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "紙パック-蛍光灯-電池類": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "新聞": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "雑誌-雑がみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "段ボール": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "古着類": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ビールびん-酒びん": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:00"
+}

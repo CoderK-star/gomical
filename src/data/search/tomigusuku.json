@@ -1,0 +1,501 @@
+[
+  {
+    "keyword": "カセットコンロのボンベ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "完全に使い切って風通しの良い場所で安全に穴を開けてから出してください。フタはもやせるごみ又はもやせないごみへ"
+  },
+  {
+    "keyword": "かさ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "ガラス類",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "カミソリ(危険ごみ)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "カッター(危険ごみ)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "乾電池(危険ごみ)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "金属類",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "化粧びん",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "蛍光灯(危険ごみ)",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "小型の電化製品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "小型の包丁(危険ごみ)",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "殺虫剤",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "完全に使い切って風通しの良い場所で安全に穴を開けてから出してください"
+  },
+  {
+    "keyword": "皿",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "完全に使い切って風通しの良い場所で安全に穴を開けてから出してください"
+  },
+  {
+    "keyword": "耐熱ガラス",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "茶碗",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "陶器",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "なべ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "のこぎり(危険ごみ)",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "ハンガー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "ヘアスプレー",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "完全に使い切って風通しの良い場所で安全に穴を開けてから出してください"
+  },
+  {
+    "keyword": "やかん",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "もやせない-危険",
+    "notes": "おおむね長さ30cm以内のもの"
+  },
+  {
+    "keyword": "ライター(危険ごみ)",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "割れたガラス(危険ごみ)",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "割れたびん(危険ごみ)",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "もやせない-危険"
+  },
+  {
+    "keyword": "衣類",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "カセット",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "紙くず等",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "感熱紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "カーボン用紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせる",
+    "notes": "ウンチ等はトイレに流す。"
+  },
+  {
+    "keyword": "革製品",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "草",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "もやせる",
+    "notes": "およそ長さ50cm以内、直径3cm以内、重量5kg以下で束ねて、指定の袋に入れて出してください。"
+  },
+  {
+    "keyword": "細かい枝",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "もやせる",
+    "notes": "およそ長さ50cm以内、直径3cm以内、重量5kg以下で束ねて、指定の袋に入れて出してください。"
+  },
+  {
+    "keyword": "ゴム",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "食用油",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "もやせる",
+    "notes": "牛乳パックなどに新聞紙・布等を詰め染み込ませて出すか、市販の油を固める商品の使用も可能です。"
+  },
+  {
+    "keyword": "CD",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "ティッシュペーパー",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "生ごみ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "もやせる",
+    "notes": "水切りをしてから出してください。"
+  },
+  {
+    "keyword": "葉",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "もやせる",
+    "notes": "およそ長さ50cm以内、直径3cm以内、重量5kg以下で束ねて、指定の袋に入れて出してください。"
+  },
+  {
+    "keyword": "ビデオテープ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "ビニール",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "プラスチック類",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "ファクス用紙",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "ポリ袋",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "もやせる"
+  },
+  {
+    "keyword": "アルミ缶",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中身は取り除き、軽く水洗いをして出してください。"
+  },
+  {
+    "keyword": "泡盛",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ウィスキー",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "菓子缶",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中身は取り除き、軽く水洗いをして出してください。"
+  },
+  {
+    "keyword": "缶詰の缶",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中身は取り除き、軽く水洗いをして出してください。"
+  },
+  {
+    "keyword": "ジュース",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スチール缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中身は取り除き、軽く水洗いをして出してください。"
+  },
+  {
+    "keyword": "ドリンク剤",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ビール",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ワイン",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "飲料用",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "フタをはずして、軽く水洗いして出してください。ラベルははがして、もやせるへ。"
+  },
+  {
+    "keyword": "菓子箱",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙ひもで十字にしばる"
+  },
+  {
+    "keyword": "牛乳パック",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙ひもで十字にしばる"
+  },
+  {
+    "keyword": "食品トレイ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "軽く水洗いし、乾かして出して下さい。"
+  },
+  {
+    "keyword": "新聞紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙ひもで十字にしばる"
+  },
+  {
+    "keyword": "ダンボール",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙ひもで十字にしばる"
+  },
+  {
+    "keyword": "調味料用",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "フタをはずして、軽く水洗いして出してください。ラベルははがして、もやせるへ。"
+  },
+  {
+    "keyword": "チラシ",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙ひもで十字にしばる"
+  },
+  {
+    "keyword": "図書",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙ひもで十字にしばる"
+  },
+  {
+    "keyword": "文庫本",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙ひもで十字にしばる"
+  },
+  {
+    "keyword": "漫画本",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙ひもで十字にしばる"
+  }
+]

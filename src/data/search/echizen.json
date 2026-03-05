@@ -1,0 +1,32 @@
+[
+  {
+    "keyword": "IHクッキングヒーター",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないごみ"
+  },
+  {
+    "keyword": "アイスクリームのカップ容器(プラスチック）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙製のものは燃やすごみ"
+  },
+  {
+    "keyword": "アイスノン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やすごみ"
+  },
+  {
+    "keyword": "一升びん",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "びん",
+    "notes": "酒屋さんなどへ返しましょう・キャップを外してひと洗い"
+  }
+]

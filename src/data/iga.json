@@ -1,0 +1,2123 @@
+{
+  "municipalityId": "iga",
+  "municipalityName": "伊賀市",
+  "prefecture": "三重県",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "可燃ごみ",
+      "name": "可燃ごみ",
+      "shortName": "可燃ごみ",
+      "color": "#ea3b13",
+      "icon": "可燃ごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "硬プラ-革製品類",
+      "name": "硬プラ・革製品類",
+      "shortName": "硬プラ・革製品類",
+      "color": "#ff9137",
+      "icon": "硬プラ-革製品類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "容器包装プラスチック",
+      "name": "容器包装プラスチック",
+      "shortName": "容器包装プラスチック",
+      "color": "#77ae1f",
+      "icon": "容器包装プラスチック",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "紙-布類",
+      "name": "紙・布類",
+      "shortName": "紙・布類",
+      "color": "#bbe400",
+      "icon": "紙-布類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "びん類",
+      "name": "びん類",
+      "shortName": "びん類",
+      "color": "#2dc7aa",
+      "icon": "びん類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "金属類",
+      "name": "金属類",
+      "shortName": "金属類",
+      "color": "#81d12e",
+      "icon": "金属類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "ペットボトル",
+      "name": "ペットボトル",
+      "shortName": "ペットボトル",
+      "color": "#91dde7",
+      "icon": "ペットボトル",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "アルミ缶",
+      "name": "アルミ缶",
+      "shortName": "アルミ缶",
+      "color": "#00b7c0",
+      "icon": "アルミ缶",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "廃食用油",
+      "name": "廃食用油",
+      "shortName": "廃食用油",
+      "color": "#733b96",
+      "icon": "廃食用油",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "埋立ごみ",
+      "name": "埋立ごみ",
+      "shortName": "埋立ごみ",
+      "color": "#685ecf",
+      "icon": "埋立ごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "上野A(小田町　城北　北平野)",
+      "districts": [
+        "上野A(小田町　城北　北平野)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "上野A(上野東丸之内　上野西丸之内　上野赤坂町　上野農人町　上野玄蕃町)",
+      "districts": [
+        "上野A(上野東丸之内　上野西丸之内　上野赤坂町　上野農人町　上野玄蕃町)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "3",
+      "areaName": "上野A(上野西大手町　上野片原町　上野東町　上野中町　上野西町　上野幸坂町　上野下幸坂町　上野向島町　上野新町　上野鍛冶町　上野魚町　上野小玉町　上野福居町　上野相生町　上野紺屋町　上野三之西町　上野徳居町)",
+      "districts": [
+        "上野A(上野西大手町　上野片原町　上野東町　上野中町　上野西町　上野幸坂町　上野下幸坂町　上野向島町　上野新町　上野鍛冶町　上野魚町　上野小玉町　上野福居町　上野相生町　上野紺屋町　上野三之西町　上野徳居町)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "4",
+      "areaName": "上野A(花垣地区)",
+      "districts": [
+        "上野A(花垣地区)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "5",
+      "areaName": "上野B(三田地区　諏訪地区)",
+      "districts": [
+        "上野B(三田地区　諏訪地区)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "6",
+      "areaName": "上野B(猪田地区　古山地区　きじが台)",
+      "districts": [
+        "上野B(猪田地区　古山地区　きじが台)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "7",
+      "areaName": "上野B(依那古地区　比自岐地区)",
+      "districts": [
+        "上野B(依那古地区　比自岐地区)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "8",
+      "areaName": "上野C(府中地区)",
+      "districts": [
+        "上野C(府中地区)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "9",
+      "areaName": "上野C(中瀬地区)",
+      "districts": [
+        "上野C(中瀬地区)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "10",
+      "areaName": "上野C(友生地区　ゆめが丘)",
+      "districts": [
+        "上野C(友生地区　ゆめが丘)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "11",
+      "areaName": "上野D(上野桑町　上野恵美須町　上野池町　上野鉄砲町)",
+      "districts": [
+        "上野D(上野桑町　上野恵美須町　上野池町　上野鉄砲町)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "12",
+      "areaName": "上野D(上野愛宕町　上野万町　木興町　八幡町)",
+      "districts": [
+        "上野D(上野愛宕町　上野万町　木興町　八幡町)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "13",
+      "areaName": "上野D(久米町　守田町　陽光台　四十九町　問屋町)",
+      "districts": [
+        "上野D(久米町　守田町　陽光台　四十九町　問屋町)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "14",
+      "areaName": "上野E(上野車坂町　上野田端町　上野伊予町　上野西忍町　上野東忍町)",
+      "districts": [
+        "上野E(上野車坂町　上野田端町　上野伊予町　上野西忍町　上野東忍町)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "15",
+      "areaName": "上野E(上野東日野町　上野西日南町　上野寺町　上野茅町　緑ヶ丘東町　緑ヶ丘中町　緑ヶ丘本町)",
+      "districts": [
+        "上野E(上野東日野町　上野西日南町　上野寺町　上野茅町　緑ヶ丘東町　緑ヶ丘中町　緑ヶ丘本町)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "16",
+      "areaName": "上野E(緑ヶ丘西町　緑ヶ丘南町)",
+      "districts": [
+        "上野E(緑ヶ丘西町　緑ヶ丘南町)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "17",
+      "areaName": "上野F(新居地区)",
+      "districts": [
+        "上野F(新居地区)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "18",
+      "areaName": "上野F(長田地区　花之木地区)",
+      "districts": [
+        "上野F(長田地区　花之木地区)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "19",
+      "areaName": "上野F(神戸地区　きじか台を除く)",
+      "districts": [
+        "上野F(神戸地区　きじか台を除く)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "20",
+      "areaName": "伊賀(柘植)",
+      "districts": [
+        "伊賀(柘植)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "21",
+      "areaName": "伊賀(西柘植)",
+      "districts": [
+        "伊賀(西柘植)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "22",
+      "areaName": "伊賀(壬生野)",
+      "districts": [
+        "伊賀(壬生野)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "23",
+      "areaName": "阿山(丸柱)",
+      "districts": [
+        "阿山(丸柱)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "アルミ缶": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "24",
+      "areaName": "阿山(玉滝)",
+      "districts": [
+        "阿山(玉滝)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "アルミ缶": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "25",
+      "areaName": "阿山(鞆田)",
+      "districts": [
+        "阿山(鞆田)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "アルミ缶": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "26",
+      "areaName": "阿山(河合)",
+      "districts": [
+        "阿山(河合)"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "アルミ缶": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "27",
+      "areaName": "島ケ原",
+      "districts": [
+        "島ケ原"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "アルミ缶": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "28",
+      "areaName": "大山田",
+      "districts": [
+        "大山田"
+      ],
+      "schedule": {
+        "可燃ごみ": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "硬プラ-革製品類": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙-布類": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "びん類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "金属類": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ペットボトル": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "アルミ缶": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "廃食用油": {
+          "pattern": "weekday",
+          "days": [],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "埋立ごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:00"
+}

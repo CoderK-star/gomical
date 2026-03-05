@@ -1,0 +1,442 @@
+[
+  {
+    "keyword": "アルミはく",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "紙くず",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "貝がら",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "木くず",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "草花類",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ゴム類",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "じゅうたん",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "1m以下に切断し、ごみの量に応じて指定袋を付けてください"
+  },
+  {
+    "keyword": "タバコの吸いがら",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "完全に消してから出してください"
+  },
+  {
+    "keyword": "ディスク（CD、DVD、BD）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "生ごみ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "水を切って出してください"
+  },
+  {
+    "keyword": "発砲スチロール",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "皮革類",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "古衣類",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "布団",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "丸めてひもで縛って、ごみの量に応じて指定袋を付けてください"
+  },
+  {
+    "keyword": "プラスチック類",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "マットレス",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "1m以下に切断し、ごみの量に応じて指定袋を付けてください"
+  },
+  {
+    "keyword": "空きカン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "ガス缶",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "カン-金属類",
+    "notes": "完全に使い切って、穴を空けてガスを抜いてから出してください"
+  },
+  {
+    "keyword": "乾電池",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "かがみ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "釘",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "カン-金属類",
+    "notes": "スチール缶に入れて出してください"
+  },
+  {
+    "keyword": "蛍光管",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "コード類",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "カン-金属類",
+    "notes": "20cm以下に切断してから出してください"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "カン-金属類",
+    "notes": "完全に使い切って、穴を空けてガスを抜いてから出してください"
+  },
+  {
+    "keyword": "金属製調理器具",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "小型電気製品",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "電球",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "縫い針",
+    "aliases": [
+      "ぬ"
+    ],
+    "garbageTypeId": "カン-金属類",
+    "notes": "スチール缶に入れて出してください"
+  },
+  {
+    "keyword": "金属ハンガー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "カン-金属類"
+  },
+  {
+    "keyword": "針金類",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "カン-金属類",
+    "notes": "20cm以下に切断してから出してください"
+  },
+  {
+    "keyword": "ライター",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "カン-金属類",
+    "notes": "ガスを完全に使い切ってから出してください"
+  },
+  {
+    "keyword": "ガスレンジ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "粗大ごみ"
+  },
+  {
+    "keyword": "自転車",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "粗大ごみ"
+  },
+  {
+    "keyword": "照明器具",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "粗大ごみ"
+  },
+  {
+    "keyword": "ストーブ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "粗大ごみ",
+    "notes": "燃料を抜き取り、タンク及び電池を取り外してください"
+  },
+  {
+    "keyword": "せん風機",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "粗大ごみ"
+  },
+  {
+    "keyword": "そうじ機",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "粗大ごみ"
+  },
+  {
+    "keyword": "ファンヒーター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "粗大ごみ"
+  },
+  {
+    "keyword": "ラジカセ",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "粗大ごみ"
+  },
+  {
+    "keyword": "無色の一升びん",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "無色のビン"
+  },
+  {
+    "keyword": "牛乳びん",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "無色のビン"
+  },
+  {
+    "keyword": "栄養ドリンク",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "茶色のビン"
+  },
+  {
+    "keyword": "ビールびん",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "茶色のビン"
+  },
+  {
+    "keyword": "青、緑、黒色のびん　など",
+    "aliases": [
+      "他"
+    ],
+    "garbageTypeId": "その他のビン"
+  },
+  {
+    "keyword": "花びん",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "ガラス-陶磁器類"
+  },
+  {
+    "keyword": "ガラス",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "ガラス-陶磁器類"
+  },
+  {
+    "keyword": "せともの",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "ガラス-陶磁器類"
+  },
+  {
+    "keyword": "コップ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "ガラス-陶磁器類"
+  },
+  {
+    "keyword": "茶わん",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "ガラス-陶磁器類"
+  },
+  {
+    "keyword": "ほ乳びん",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "ガラス-陶磁器類"
+  },
+  {
+    "keyword": "雑誌",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "古紙類"
+  },
+  {
+    "keyword": "新聞",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "古紙類"
+  },
+  {
+    "keyword": "書籍",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "古紙類"
+  },
+  {
+    "keyword": "チラシ",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "古紙類"
+  },
+  {
+    "keyword": "ダンボール",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "古紙類"
+  },
+  {
+    "keyword": "酒類",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "ペットボトル"
+  },
+  {
+    "keyword": "清涼飲料",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "ペットボトル"
+  },
+  {
+    "keyword": "しょうゆ等の調味料",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "ペットボトル"
+  },
+  {
+    "keyword": "乳飲料のペットボトル",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "ペットボトル"
+  }
+]

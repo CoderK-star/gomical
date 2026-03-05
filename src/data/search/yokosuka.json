@@ -1,0 +1,3945 @@
+[
+  {
+    "keyword": "ICレコーダー",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "個人情報を消去する。使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "アイスキャンディーの棒（木製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "アイスクリームのカップ（紙製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "アイスまくら",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "あさりの貝殻",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "足拭きマット",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "裏にすべり止めゴムがついているものは不燃ごみ"
+  },
+  {
+    "keyword": "油（食用）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "紙・布にしみこませるか、固める。"
+  },
+  {
+    "keyword": "油の缶（食用油、エンジンオイルなど）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切り中をすすぐ。"
+  },
+  {
+    "keyword": "雨ガッパ",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "雨どい",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "網戸の網（プラスチック製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "あめの1個ごとの包み紙（プラスチック製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "あめの外袋（プラスチック製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "あらい桶（プラスチック製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "アルバム",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "外せるプラスチック部分は不燃ごみ"
+  },
+  {
+    "keyword": "アルミ缶",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "アルミコーティング袋（菓子・レトルト食品など）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "アルミホイル（アルミ箔）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "アルミホイル（アルミ箔）の芯",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "アルミ容器（うどん、グラタンなど）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "アンプル",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "中をすすぐ。プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "EM処理容器",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "板ガラス",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包み「危険・ガラス」と書く。"
+  },
+  {
+    "keyword": "いちごのパック・ラップフィルム",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "一斗缶（食用油など）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切り中をすすぐ。つぶさないでください。"
+  },
+  {
+    "keyword": "一斗缶（ペンキ缶）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "中身が残っている場合は専門の処理業者へ（P.21 参照）"
+  },
+  {
+    "keyword": "一升びんのフタ（プラスチック製）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "金属製は缶・びん・ペットボトル"
+  },
+  {
+    "keyword": "糸",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "入れ歯",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "色鉛筆",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "印鑑（プラスチック製）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "象牙・動物の角製・木製は燃せるごみ"
+  },
+  {
+    "keyword": "インラインスケート",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "植木・枝木",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "長さ 50cm 直径 20cm 以内にし、ひもで束ねる。"
+  },
+  {
+    "keyword": "木鉢（素焼き・陶器製・プラスチック製）",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "木製は燃せるごみ"
+  },
+  {
+    "keyword": "植木鉢（苗ポット）",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "苗などを購入したときに入っていたもの。土を落とす。"
+  },
+  {
+    "keyword": "ウェットスーツ",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ウォーターサーバーの空き容器",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "うきわ",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "うちわ（柄がプラスチック製のもの）",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "うちわ（柄が木製のもの）",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "腕時計",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "裏カーボン紙（宅配便の複写伝票など）",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ウレタン",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "運動靴",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "エアークッション（梱包材）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "衛生用品",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ＡＣアダプタ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使用済み小型家電（P.13 参照）として出すことができます"
+  },
+  {
+    "keyword": "絵の具ケース（プラスチック製）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "絵の具のケースの中敷（プラスチック製）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "絵の具のチューブ（プラスチック製・金属製）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "MD（ケースも含む）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "園芸用給水スポンジ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "延長コード（電化製品用）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "鉛筆",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "鉛筆けずり（手動式）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電動式は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "オイル（食用油）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "紙・布にしみこませるか、固める。"
+  },
+  {
+    "keyword": "OAケーブル",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "おしぼり",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "おしゃぶり",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "落ち葉",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "おもちゃ（プラスチック製）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」。木製は燃せるごみ"
+  },
+  {
+    "keyword": "温度計",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "水銀使用製品は P.16 の回収場所へ"
+  },
+  {
+    "keyword": "カーボン紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "カード類（プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "貝殻",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "懐中電灯",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電池は外して使用済み乾電池（P.16 参照）"
+  },
+  {
+    "keyword": "カイロ（使い切り）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "カイロ（使い切り）の外袋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "鏡",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包み「危険・ガラス」と書く。"
+  },
+  {
+    "keyword": "かき氷器（手動式）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電動式は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "額縁（木製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "ガラスは外し不燃ごみプラスチック製は不燃ごみ。金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "かご（みかんなどの入ったプラスチック製のもの）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "傘立て（陶器製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "50cm以上のものは購入先に相談するか専門の処理業者へ（P.21 参照）"
+  },
+  {
+    "keyword": "傘の布（布製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "ビニール製は不燃ごみ"
+  },
+  {
+    "keyword": "菓子の缶（金属製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "菓子の個包装の袋（プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "菓子の筒（プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "菓子の袋（プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "ガスマット（アルミ製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "カセット式ガスボンベ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "カセット式ガスボンベのフタ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "カセットテープ（ケースも含む）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "カッター",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "カップめんの外包装フィルム",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "カップめんの中のスープ・具（かやく）の袋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "カップめんのフタ（紙製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "カップめんの容器（紙製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "家電製品の緩衝材（発泡スチロールなど）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "かなづち",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "柄の部分と分ければ集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "かばん（革・布製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "画びょう（プラスチック等の混ざったもの）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "花びん",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包み「危険・われもの」と書く。金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "壁紙（プラスチック製)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "かまぼこの板（木製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "汚物はトイレに流す。"
+  },
+  {
+    "keyword": "紙コップ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "紙皿",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "カミソリの刃",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "紙パック（内側が銀色か茶色などのもの）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "紙パックのフタ（プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "紙やすり",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ガムテープ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ガムのかみかす",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ガムの包装（紙製の外包・1 枚ごとの包み紙）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "カメラ（フィルム式）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "カメラ（使いきり）の包装袋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "カメラのケース",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ガラス",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包み「危険・ガラス」と書く。"
+  },
+  {
+    "keyword": "ガラスクリーナーの缶",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "ガラスクリーナーのフタ（プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ガラスのコップ・食器",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包み「危険・ガラス」と書く。"
+  },
+  {
+    "keyword": "刈り草",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "革ジャンパー",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "革製品",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "缶（飲料・食料品・スプレー缶など）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "中をすすぐ。スプレー缶は使い切る。"
+  },
+  {
+    "keyword": "缶（ペンキ缶）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "中身が残っている場合は専門の処理業者へ（P.21 参照）"
+  },
+  {
+    "keyword": "緩衝材（プラスチック製など）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "乾燥剤",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "感熱紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "缶ビール等を束ねるケーシング（プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "基盤（パソコンなど）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "キャップ（プラスチック製）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "金属製は缶・びん・ペットボトル"
+  },
+  {
+    "keyword": "キャラメルの外包装フィルム",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "キャラメルの包み紙（1 個ごとの包み紙）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "きゅうす（急須）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "牛乳びんのフタ（紙製）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "救命胴衣",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "切り花",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "霧吹き",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "キルト製品",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "クーラーボックス",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "おおむね50cmを超えるものは粗大ごみ（有料）"
+  },
+  {
+    "keyword": "草・草花",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "串（やきとり・だんごの竹串など）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "紙に包む。"
+  },
+  {
+    "keyword": "くし・ブラシ（プラスチック製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "木製は燃せるごみ"
+  },
+  {
+    "keyword": "薬",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "薬（錠剤、カプセル等）の包装シート",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "薬のチューブ（金属製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "薬のチューブ（プラスチック製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "薬の容器（びん）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "乳白色のびんは不燃ごみ。プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "薬の容器のフタ（プラスチック製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "金属製は缶・びん・ペットボトル"
+  },
+  {
+    "keyword": "果物などのネット",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "口紅の容器",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "プラスチック製で使い切れば容器包装プラスチック"
+  },
+  {
+    "keyword": "靴（底がゴムや樹脂製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "革製で底も革のものは燃せるごみ"
+  },
+  {
+    "keyword": "靴の中敷",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "クッション（中身がわたなど）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "中身がプラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "靴の型くずれ防止の詰め物（プラスチック製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "クリーニングの透明カバー",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "クリヤーファイル",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "クレヨン",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "クレヨンケース（プラスチック製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "クレヨンケースの中敷（プラスチック製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "クレンザーの紙筒",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "グローブ（革製）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "合成皮革製は不燃ごみ"
+  },
+  {
+    "keyword": "軍手",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "蛍光管の外箱の包装フィルム",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "携帯ラジオ",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電池は外して使用済み乾電池（P.16 参照）使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "ケーシング（缶ビール等を束ねるケース）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ゲームソフト",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ロムカセット式ゲームソフトは、使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "毛皮",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "消しゴム",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "化粧品の携帯ポーチ（プラスチック製）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "布製は燃せるごみ"
+  },
+  {
+    "keyword": "化粧品のスプレー缶",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "化粧品のスプレー缶のフタ",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "化粧品のびん",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "乳白色のびんは不燃ごみ"
+  },
+  {
+    "keyword": "化粧品のびんのフタ・中ブタ（プラスチック製）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "化粧品の容器（プラスチック製）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "化粧用パフ",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "げた",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ケチャップの外袋",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ケチャップのチューブ",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "ケチャップのチューブのフタ",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "血圧計",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電気式は粗大ごみ（有料）、水銀使用製品はP.16の回収場所へ"
+  },
+  {
+    "keyword": "玄関マット",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "裏にすべり止めゴムがついているものは不燃ごみ"
+  },
+  {
+    "keyword": "鍵盤ハーモニカ",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "工具箱（プラスチック製）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "ゴーグル",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "合成皮革製品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "紅茶（ティーバッグ型）の外パック",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "紅茶の缶",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "紅茶の外箱の包装フィルム",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "紅茶のティーバッグ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "コーヒーのびん",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "コーヒーのびんの中ブタ（紙製）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "コーヒーのびんのフタ（プラスチック製）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "コーヒーフィルター",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "小枝",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "袋に入れるか、50cm×20cm程度にし、ひもでしばる。"
+  },
+  {
+    "keyword": "氷まくら",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "固形燃料",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "コップ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ガラス製は新聞紙などに包み「危険・ガラス」と書く。"
+  },
+  {
+    "keyword": "粉チーズの紙筒",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "粉ミルクの缶",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "粉ミルクの缶のフタ（プラスチック製）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ごみ箱（プラスチック製）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "ゴム類",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "米袋（プラスチック製）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "コルク栓",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "コルセット",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ゴルフボール",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "コントローラー（ゲーム用）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "コンパクト（化粧品の容器）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "酒のびんのフタ（金属とプラスチックの混ざったもの）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "酒パック（内側が銀色、紙製）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "酒パックのフタ",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "さざえの貝殻",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "殺虫剤のスプレー缶",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "ざる（プラスチック製）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」。木製は燃せるごみ"
+  },
+  {
+    "keyword": "サンダル",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "サンドペーパー",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "CD（ケースも含む）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "シート（レジャーシートなど）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "シール",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ジェルシート",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "磁石（プラスチック等の混ざったもの）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "七輪",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "湿布薬",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "湿布薬の表面に張られた薄いフィルム",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "湿布薬の外袋（紙製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "自転車のカバー",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "自転車のタイヤ・チューブ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "シャープペンシル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "遮光カーテン",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "写真",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "写真のネガフィルム",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "シャベル、スコップ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "ジャムのびん",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "ジャムのびんのフタ（金属製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "ジャンパー（革製・わたの入ったもの）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "シャンプーのフタ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "ポンプ部分も含む。"
+  },
+  {
+    "keyword": "シャンプーの容器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "充電器（ゲーム機など）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "シュラフ（寝袋）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "シュレッダー（手動式）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電気式は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "シュレッダーにかけた紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "定規（プラスチック製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」。木製は燃せるごみ"
+  },
+  {
+    "keyword": "障子紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "浄水器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電気式は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "浄水器のカートリッジ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "じょうろ（プラスチック製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "食パン等の袋の留め具",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "食品保存容器（プラスチック製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "食品保存用パック（プラスチック製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "食用油",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "固めるか、紙・布などに吸わせる。"
+  },
+  {
+    "keyword": "食用油の缶・びん",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "食用油の容器（プラスチック製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "食用油の容器のフタ（プラスチック製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "金属製は缶・びん・ペットボトル"
+  },
+  {
+    "keyword": "除湿剤",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "除湿剤の容器（プラスチック製）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "芯（ラップなどのかたいもの）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "人工芝",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "水槽",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "おおむね50cmを超えるものは粗大ごみ（有料）"
+  },
+  {
+    "keyword": "水中メガネ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "水筒",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "スーツのカバー（購入時についていたもの）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "ファスナーは外して不燃ごみ"
+  },
+  {
+    "keyword": "スコップ、シャベル",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "スズランテープ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "すずり",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "スタンプ台",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "スチール缶（飲料・食料品・スプレー缶など）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切り中をすすぐ。スプレー缶は使い切る。"
+  },
+  {
+    "keyword": "スチール缶（ペンキ缶）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "中身が残っている場合は専門の処理業者へ（P.21 参照）"
+  },
+  {
+    "keyword": "ステープラー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "スティックのりの容器",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切り中を取り除く。"
+  },
+  {
+    "keyword": "ステッカー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ストッキングの外袋（プラスチック製）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ストロー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ストローの袋（プラスチック製）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "スニーカー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "すのこ（木製）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "スプレー缶（ペンキ缶）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "スプレー缶のフタ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "スプレー式の簡易消火具",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "スポンジ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "スポンジの外袋",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "炭の燃えかす",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "すりガラスのびん",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "スリッパ（ビニール製）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "布製は燃せるごみ"
+  },
+  {
+    "keyword": "整髪料のスプレー缶",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "生理用品",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "生理用品の包装（外袋・個袋）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "セーム革（革製）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "合成皮革製は不燃ごみ"
+  },
+  {
+    "keyword": "せっけん",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "せっけんの個袋（プラスチック製）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "接着剤のチューブ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "せともの",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "背広のカバー（購入時についていたもの）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "ファスナーは外して不燃ごみ"
+  },
+  {
+    "keyword": "セメント袋",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "セロハン紙",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "セロハンテープ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "セロハンテープの個袋",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "セロハンテープの芯",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "洗剤の計量カップ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "洗剤のフタ・取っ手（プラスチック製）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "洗剤の容器（プラスチック製）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "線香の容器（紙製）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "線香の灰",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "洗濯ネット",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "洗濯のりの容器・フタ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "剪定枝・刈り草・落ち葉",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "枝は 50cm × 20cm 程度にし、ひもでしばる。"
+  },
+  {
+    "keyword": "洗面器（プラスチック製）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」。木製は燃せるごみ"
+  },
+  {
+    "keyword": "双眼鏡",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ぞうきん",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ソースの容器（プラスチック製）",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "ソースの容器のフタ（プラスチック製）",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "体温計",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電池は外して使用済み乾電池（P.16 参照）、水銀使用製品は P.16 の回収場所へ"
+  },
+  {
+    "keyword": "体重計",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "台所用マット",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "裏にすべり止めゴムがついているものは不燃ごみ"
+  },
+  {
+    "keyword": "タイヤ（自転車）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "タイルカーペット",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ダイレクトメールを入れた外袋（プラスチック製）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ダウンジャケット",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "卓上ガスコンロのボンベ",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "脱酸素剤",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "脱脂綿",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "脱臭剤",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "脱臭剤の缶・びん",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "中身は燃せるごみ"
+  },
+  {
+    "keyword": "脱臭剤の容器（プラスチック製）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中身は燃せるごみ"
+  },
+  {
+    "keyword": "たばこの外包装フィルム",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "たばこの吸い殻",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "たばこの箱の中の銀紙",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "卵パック（プラスチック製）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は集団資源回収「その他の紙」"
+  },
+  {
+    "keyword": "たらい（プラスチック製）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "たわし（やしなど）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック・金属製は不燃ごみ"
+  },
+  {
+    "keyword": "地球儀",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電気式は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "茶殻",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "茶の缶",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "茶の缶のフタ（金属製）",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "茶わん",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "チューインガム",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "チューブ（自転車）",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "チューブ（食品、歯みがき粉など）",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。接着剤など中身が取り除けないものは不燃ごみ"
+  },
+  {
+    "keyword": "チョーク",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "彫刻刃（柄が木製のもの）",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "柄がプラスチック製のものは不燃ごみ"
+  },
+  {
+    "keyword": "ちり紙・ティッシュペーパー",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "使い切りカイロ",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "使い切りカイロの外袋",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "使い切りライター",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使い切る。（他の不燃ごみと別の透明袋で出す。）"
+  },
+  {
+    "keyword": "つけもの石（市販のもの）",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "積木",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "詰め替え商品の容器（プラスチック製）",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "釣り糸",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "釣り具のおもり",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "釣り具のリール",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "DVD（ケースも含む）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ティッシュペーパー",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ティッシュボックス（紙箱）取出口のフィルム",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ティッシュボックス（数個入）の外包装フィルム",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "テープレコーダー（デッキを除く）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "個人情報を消去する。電池は外して使用済み乾電池（P.16 参照）使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "テグス",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "手帳",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "手拭き（弁当の付属品）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "手拭き（弁当の付属品）の外袋",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "手袋（革製）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "ゴム製は不燃ごみ。布製・毛糸製は集団資源回収「古着・古布類」"
+  },
+  {
+    "keyword": "電気コード",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "電気コードの包装パック",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "電子辞書・電子手帳",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "個人情報を消去する。電池は外して使用済み乾電池（P.16 参照）。使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "点字の本",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "電卓（計算機）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "電卓（計算機）の包装パック",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "天ぷら油",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "固めるか、紙・布などに吸わせる。"
+  },
+  {
+    "keyword": "電話機（黒電話などコンセントにつながないもの）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "砥石",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "トイレットペーパー（数個入）の外袋",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "豆腐のパック",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "豆腐のパックのフタ",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "灯油ポンプ",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電池は外して使用済み乾電池（P.16 参照）"
+  },
+  {
+    "keyword": "時計",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電池は外して使用済み乾電池（P.16 参照）"
+  },
+  {
+    "keyword": "土鍋",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ドリンクびん",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "フタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "ドリンクびんのフタ（金属製）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "トレイ（食品用発泡スチロール製等）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "食品トレイはスーパーなどの店頭回収へも"
+  },
+  {
+    "keyword": "トレイ（プラスチック製）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "苗ポット",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "苗などを購入したときに入っていたもの。土を落とす。"
+  },
+  {
+    "keyword": "長靴",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "鍋（陶器・ガラス製）",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属・ホーロー製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "生ごみ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "水分を切って（できれば生ごみ処理機器で処理）"
+  },
+  {
+    "keyword": "にぎり寿司の中仕切り（緑色のプラスチックフィルム）",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "乳酸菌飲料の容器（プラスチック製）",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "乳酸菌飲料の容器のフタ（アルミ製）",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "人形（プラスチック製・陶器製）",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "おおむね 50cm を超えるものは粗大ごみ（有料）。木製は燃せるごみ。陶器品で50cmを超えるものは購入先に相談するか専門の処理業者へ（P.21参照）"
+  },
+  {
+    "keyword": "ぬいぐるみ（中身がわた）",
+    "aliases": [
+      "ぬ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "中身がプラスチック製は不燃ごみ。おおむね50cmを超えるものは粗大ごみ（有料）"
+  },
+  {
+    "keyword": "ネガフィルム",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ネット（果物・野菜などが入っていたもの）",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "寝ぶくろ（シュラフ）",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "練りカラシ・練りワサビのチューブ",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "ねんど",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "紙ねんどは燃せるごみ"
+  },
+  {
+    "keyword": "ノーカーボン紙（宅配便の複写伝票など）",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "バーナー付ガスボンベのバーナー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "はくせい",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "バケツ（プラスチック製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "はし（木製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "バター・マーガリンの缶",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "使い切り中をすすぐ。"
+  },
+  {
+    "keyword": "バター・マーガリンの容器（プラスチック製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "バッグ（布・革製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "発泡スチロール（家電製品などの緩衝材）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "食品トレイはスーパーなどの店頭回収へも"
+  },
+  {
+    "keyword": "花（生花）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "花火",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "発火しないように水でよく湿らせる。"
+  },
+  {
+    "keyword": "花火の外袋",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "歯ブラシ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "歯ブラシの包装パック",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "歯ブラシの包装パックの台紙（プラスチック製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "歯みがき粉のチューブ（プラスチック製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。金属製は不燃ごみ"
+  },
+  {
+    "keyword": "バラン（緑色のプラスチックフィルム）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ハンガー（プラスチック製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」。木製は燃せるごみ"
+  },
+  {
+    "keyword": "半紙（墨のついたもの）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ばんそうこう",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "はんてん（半纏）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "PPバンド（梱包用バンド）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ピーラー（皮むき器）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ビールびんのフタ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "ひげそり（プラスチック製）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "ビデオテープ（ケースを含む）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ビニールテープ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ビニール手袋",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "火鉢50cm",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "以上のものは購入先に相談するか専門の処理業者へ（P.21 参照）"
+  },
+  {
+    "keyword": "ひも（麻・布・紙製など）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "ヒューズ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "びん",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "フタを外し中をすすぐ。乳白色のびんは不燃ごみ。割れたびんは新聞紙などに包み「危険・びん」と書き不燃ごみ"
+  },
+  {
+    "keyword": "フィルム（ネガ）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "フィルムの筒型ケース",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "容器包装プラスチック"
+  },
+  {
+    "keyword": "フィルムのネガを入れた袋",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "風船",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "プール（ビニール製）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ふきん",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "不織布",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "フタ（金属製）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "フタ（プラスチック製）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ブックカバー（プラスチック製）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "紙製は集団資源回収「その他の紙」。布・革製は燃せるごみ"
+  },
+  {
+    "keyword": "ブラシ・くし（プラスチック製）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "木製は燃せるごみ"
+  },
+  {
+    "keyword": "プラスチックボトル（ソース、食用油など）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "プラモデル",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "プランター（プラスチック製）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "おおむね50cmを超えるものは粗大ごみ（有料）"
+  },
+  {
+    "keyword": "プリン（数個組）の外包装フィルム",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "プリンのカップ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "プリンのフタ（プラスチック製）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "アルミ製は不燃ごみ"
+  },
+  {
+    "keyword": "プリンターのインクカートリッジの個袋",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ブルーシート",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "フロアマット（自動車用）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "フロッピーディスク（ケースを含む）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ふろマット（プラスチック製）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "木製は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "ヘアスプレーの外包装フィルム",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ヘアスプレーの缶 使い切る。",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル"
+  },
+  {
+    "keyword": "ヘアスプレーのフタ（プラスチック製）",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ペットのトイレ用砂",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ペットのふん",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "トイレに流す・庭に埋める・紙に包んで燃せるごみ"
+  },
+  {
+    "keyword": "ペットフード",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ペットボトル（飲料、酒、みりん、しょうゆ等）",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "フタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "ペットボトルのフタ（プラスチック製）",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "金属製は缶・びん・ペットボトル"
+  },
+  {
+    "keyword": "ヘルスメーター",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ベルト（革製）",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "金属のバックルは外し集団資源回収「缶以外の金属」。プラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "ペンキの空き缶",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "中身が残っている場合は専門の処理業者へ（P.21参照）"
+  },
+  {
+    "keyword": "ペンキのスプレー式の缶",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "便座",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "暖房・洗浄器付は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "弁当箱（プラスチック製）",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "アルミ製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "弁当容器・外包装フィルム（コンビニなどの）",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "ボアシーツ",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ボア毛布",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "芳香剤の缶・びん",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "缶-びん-ペットボトル",
+    "notes": "中身は燃せるごみ"
+  },
+  {
+    "keyword": "芳香剤の容器（プラスチック製）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中身は燃せるごみ"
+  },
+  {
+    "keyword": "防虫剤の容器（紙製）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "プラスチック製は容器包装プラスチック"
+  },
+  {
+    "keyword": "ホース",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ボール（野球・テニス・ゴルフ・サッカーなど）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ボウリングボールは粗大ごみ（有料）"
+  },
+  {
+    "keyword": "ボールペン",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ポケットティッシュの袋（プラスチック製）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "紙製は燃せるごみ"
+  },
+  {
+    "keyword": "補助記憶装置（USBメモリ）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "個人情報を消去する。使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "ホチキス",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ほ乳びん",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ポット（魔法瓶）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電気式は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "ポテトチップスなどの紙筒",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ポテトチップスなどの紙筒のフタ（プラスチック製）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ポテトチップスの袋（プラスチック製）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "保冷剤",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "まくら（中身が羽毛、そばがら、わた）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "中身がプラスチック製は不燃ごみ"
+  },
+  {
+    "keyword": "マザーボード（パソコン部品）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "マスク",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "マッチ",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃せるごみ",
+    "notes": "発火しないように水でよく湿らせる。"
+  },
+  {
+    "keyword": "まな板（プラスチック製）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "木製は燃せるごみ"
+  },
+  {
+    "keyword": "マニキュアのびん",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "魔法瓶",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電気式は粗大ごみ（有料）"
+  },
+  {
+    "keyword": "マヨネーズのチューブ",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切りフタを外し中をすすぐ。"
+  },
+  {
+    "keyword": "マヨネーズのフタ（プラスチック製）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "万年筆",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "みかんを入れた網・ネット・袋（プラスチック製）",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "耳かき（プラスチック製）",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "木製は燃せるごみ。金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "虫かご（プラスチック製）",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "竹・木製は燃せるごみ"
+  },
+  {
+    "keyword": "虫ピンのケース（プラスチック製）",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "虫めがね",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "名刺ケース（プラスチック製）",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "購入時にはいっていたもの"
+  },
+  {
+    "keyword": "メガネ（ケースを含む）",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "目薬の携帯ケース",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "目薬の容器",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "ガラス製は缶・びん・ペットボトル"
+  },
+  {
+    "keyword": "綿棒",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "綿棒の容器（プラスチック製）",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "木炭の燃えかす",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ものさし（プラスチック製）",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "木製は燃せるごみ。金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "物干しハンガー（プラスチック製）",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "野菜などの外袋・ネット",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "野菜の結束テープ",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "USBメモリ",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "個人情報を消去する。使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "ゆたんぽ（プラスチック製など）",
+    "aliases": [
+      "ゆ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "金属製は集団資源回収「缶以外の金属」"
+  },
+  {
+    "keyword": "ヨーグルト（数個組）の外包装フィルム",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ヨーグルトのカップ（プラスチック製）",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすぐ。紙製は燃せるごみ"
+  },
+  {
+    "keyword": "ヨーグルトのフタ（プラスチック製）",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "アルミ製は不燃ごみ"
+  },
+  {
+    "keyword": "ライター",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使い切り、他の不燃ごみと別の透明袋で出す。"
+  },
+  {
+    "keyword": "ライフジャケット",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ラジオ（電池式）",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電池は外して使用済み乾電池（P.16 参照）"
+  },
+  {
+    "keyword": "ラップ",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "外せない値札やシールなどはつけたまま"
+  },
+  {
+    "keyword": "ラップの芯",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ランドセル（皮革製）",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ランドセル（合成皮革製）",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "リール（釣り具）",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "リップクリームの容器",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "使い切る。"
+  },
+  {
+    "keyword": "リモコン",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "電池は外して使用済み乾電池（P.16 参照）。使用済み小型家電（P.13 参照）として出すことができます。"
+  },
+  {
+    "keyword": "リュックサック（プラスチック製）",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "布・革製は燃せるごみ"
+  },
+  {
+    "keyword": "りんごなどを包んだ発泡スチロール製ネット",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "ルーペ",
+    "aliases": [
+      "る"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "レインコート",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "レーザーディスク（盤）",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "レコード盤",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "レジ袋",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "無色透明・白色半透明のものは燃せるごみの袋として利用可能"
+  },
+  {
+    "keyword": "レジャーシート",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "レトルトパック",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすぐ。"
+  },
+  {
+    "keyword": "ろうそく",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "ロープ（プラスチック製）",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "麻製等は燃せるごみ"
+  },
+  {
+    "keyword": "ローラースケート",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ワイシャツの外袋",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "輪ゴム",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "わた",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "わた入り衣類（ジャンパー、はんてんなど）",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "わら製品",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "割り箸（はし）",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃せるごみ"
+  },
+  {
+    "keyword": "割り箸（はし）の外袋（プラスチック製）",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "割れたびん",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包み「危険・びん」と書く。"
+  }
+]

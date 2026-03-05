@@ -1,0 +1,4030 @@
+[
+  {
+    "keyword": "アイスノン（発熱性冷却材）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "アルミはく、ホイル（ｸｯｷﾝｸﾞﾎｲﾙ）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "中を水洗いする"
+  },
+  {
+    "keyword": "うちわ",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "オアシス（挿し花用スポンジ）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "おしぼり【紙製・布製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "落ち葉　※４袋まで",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "5 袋以上はさくらリサイクルセンターへ持込"
+  },
+  {
+    "keyword": "おむつ・おしめ・おむつカバー",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "汚物は取り除く"
+  },
+  {
+    "keyword": "カーボン紙",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "貝殻",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "カップめん容器【紙製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "紙マークのあるもの"
+  },
+  {
+    "keyword": "髪",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "汚物は取り除く"
+  },
+  {
+    "keyword": "紙くず",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "紙コップ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "紙皿",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "紙パック（内側がアルミ張り",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "紙やすり",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ガムテープ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "乾燥剤",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "草　※４袋まで",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "土を落とす　5 袋以上はさくらリサイクルセンターへ持込"
+  },
+  {
+    "keyword": "串【竹・プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "薬",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "液体のもの、劇薬類は販売店または廃棄物処理業者に相談する"
+  },
+  {
+    "keyword": "靴中敷き",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "首輪【布・プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "クレパス・クレヨン",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "軍手",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "毛糸",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "ゴム手袋",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "コルク",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "将棋の駒",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "携帯用マグネット式は「金属類」"
+  },
+  {
+    "keyword": "ストロー",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "下着",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "湿布（しっぷ）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "はくりフィルムも可燃ごみ"
+  },
+  {
+    "keyword": "写真・ネガ・フィルム",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "食器【紙製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "生花",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "生理用品",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "線香",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "せんす",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ぞうきん",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "掃除機用紙パック",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "たばこ",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "たわし（スポンジ）",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "チョーク",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ちり紙",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "つまようじ",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ティーパック",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "水切りをする"
+  },
+  {
+    "keyword": "手袋",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "尿とりパッド",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "汚物は取り除く"
+  },
+  {
+    "keyword": "布切れ（はぎれ）",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "鍋つかみ",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "生ごみ",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "できる限り家庭で処理する　　水切りを十分にする"
+  },
+  {
+    "keyword": "ぬか床",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "水切りをする"
+  },
+  {
+    "keyword": "ネット（台所、洗濯用）",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "金属は取りはずし、「金属類」"
+  },
+  {
+    "keyword": "バインダー【紙製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "金属・プラスチックは取りはずし、金属は「金属類」 プラスチックは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "ペット用品（シーツ）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "保冷剤",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "硬質プラスチック製は「硬プラ・革"
+  },
+  {
+    "keyword": "箸（はし）【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "花火",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "必ず使い切ること　未使用の場合は収集不可"
+  },
+  {
+    "keyword": "バラン（弁当用仕切り）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ハンカチ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ＰＰバンド",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "ビニールコート紙",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ひも",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "フック・吸盤",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "金属が付いているものは「金属類」"
+  },
+  {
+    "keyword": "筆",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "風呂敷",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ペット用品（ペット専用砂）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "汚物は取り除く"
+  },
+  {
+    "keyword": "帽子",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "防水加工紙",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "包帯",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "ボール（軟球）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "空気を抜く"
+  },
+  {
+    "keyword": "ボールペン",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "ボタン【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "マジックペン",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "マスク",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "マッチ、マッチ箱",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "必ず使い切ること　未使用のマッチは収集不可"
+  },
+  {
+    "keyword": "ラップ（食品用）",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "リストバンド",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ろう紙",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ローソク",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "アイロン台",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "アクリル板",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "足拭きマット",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "網【繊維・プラスチック類】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "編み針（かぎ針）【木・竹・プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "アルバム",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "衣桁【木製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "衣装ケース【プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "移植ごて【プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "板切れ",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」　50ｃｍ以下に切り、ひもでしばる"
+  },
+  {
+    "keyword": "インクカートリッジ、リボン",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」　　または販売店の回収ボックスへ"
+  },
+  {
+    "keyword": "植木鉢【プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "土を落とす"
+  },
+  {
+    "keyword": "植木用支柱【木・プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "浮輪",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたむか切るなどし、50ｃｍ以下にする"
+  },
+  {
+    "keyword": "衣紋掛け【木製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "オイルボトル【プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "中身は使い切る　　金属製のものは「金属類」"
+  },
+  {
+    "keyword": "桶【木・プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "お玉（しゃくし）【木・プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "おまる【プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "汚物は取り除く"
+  },
+  {
+    "keyword": "おもちゃ【木・プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "乾電池式のものは「金属類」　　金属が取れないものは「金属類」"
+  },
+  {
+    "keyword": "おろしがね【プラスチック製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "カーテン",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたんで、ひもでしばる"
+  },
+  {
+    "keyword": "カーペット（非電気製）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたんで、ひもでしばる　折りたためないものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "花器【木・竹・プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "額縁【木枠・プラスチック枠】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "ガラス・金属は取りはずしガラスは「埋立ごみ」、金属は「金属類」"
+  },
+  {
+    "keyword": "かご【木・竹・プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "かっぱ（レインコート）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "かばん",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "花びん【プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "壁紙",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "蚊帳（かや）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたんで、ひもでしばる"
+  },
+  {
+    "keyword": "革靴",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "換気扇（交換用フィルター）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "換気扇（レンジフード）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "木くず（木片）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ギター",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属を取りはずし「金属類」"
+  },
+  {
+    "keyword": "木づち",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "キッチンマット",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "給油ポンプ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "乾電池式のものは「金属類」"
+  },
+  {
+    "keyword": "クーラーボックス",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "くし（櫛）【木・プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "靴（くつ）類",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "運動靴、革靴、長靴など"
+  },
+  {
+    "keyword": "クッション",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "グローブ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "下駄",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "玄関マット",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "碁石【プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ゴーグル",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ござ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたんで、ひもでしばる"
+  },
+  {
+    "keyword": "ごみ箱【木・プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "米びつ（家庭用）【木・プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "コルセット",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ゴルフボール",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "財布【皮・布製等】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "座布団",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ざる【竹・プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ＣＤ・ＭＤケース、ディスク",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "竹刀（しない）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "シャープペンシル【プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "しゃもじ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ジュニアシート",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "じゅうたん",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたんで、ひもでしばる　折りたためないものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "定規【木・竹・プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "じょうご【プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "じょうろ【プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "除湿剤",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "必ず水を抜く"
+  },
+  {
+    "keyword": "食器【木・プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "人工芝",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "水筒【プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "中身がガラス製のものは「埋立ごみ」"
+  },
+  {
+    "keyword": "スコップ【プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "すだれ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "スタンプ台【プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "すのこ【木・プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "スポンジ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る　　食器洗い用は「可燃ごみ」"
+  },
+  {
+    "keyword": "すりこぎ【木・プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "スリッパ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "剪定枝",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切り、ひもでしばる　直径 10ｃｍ以上は割る　せん定くずは、袋に入れて出す　4 袋まで"
+  },
+  {
+    "keyword": "洗面器【木・プラスチック製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ぞうり",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "脱臭剤",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "たらい【プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "樽【木・プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ダンベル【プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "水は必ず抜く"
+  },
+  {
+    "keyword": "チェーン【プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ちょうちん",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "ちりとり【プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "つえ【木・プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "積み木【木・プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "DVD ケース、ディスク",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "テーブルクロス",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたむか切るなどし、50ｃｍ以下にする"
+  },
+  {
+    "keyword": "デスクマット",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "長靴",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "波板（透明なもの）",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切り、袋に入れて出す"
+  },
+  {
+    "keyword": "縄とび",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "ぬいぐるみ",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "寝袋",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "ごみ袋に入れる"
+  },
+  {
+    "keyword": "パイプ類【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "バインダー【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし、「金属類」"
+  },
+  {
+    "keyword": "バケツ【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "バッグ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "発泡スチロール（トロ箱）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "歯ブラシ（プラスチック製）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ハンガー【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ビーチマット",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたんで、ひもでしばる"
+  },
+  {
+    "keyword": "ビニールパイプ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切り、袋に入れて出す"
+  },
+  {
+    "keyword": "ビニールプール",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切り、袋に入れて出す"
+  },
+  {
+    "keyword": "ファイル【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ふえ【木・竹・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "フォーク（食卓用）【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ブックエンド【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ふとん",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたんで、ひもでしばる　折りたためないものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "ふとん叩き・はさみ【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "踏み台【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ブラシ【上記以外】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "プランター【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ブルーシート",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る　　金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "風呂洗いブーツ【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "フロッピーディスク",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "風呂ふた【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ヘアーカーラー【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ペット用品（ベッド）【布製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」　50ｃｍ以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "ベニヤ板",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切り、ひもでしばる"
+  },
+  {
+    "keyword": "ベルト",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "ヘルメット",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "便座",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "汚物は取り除く"
+  },
+  {
+    "keyword": "便座カバー",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ほうき【木・竹・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "ごみ袋に入る程度に切る"
+  },
+  {
+    "keyword": "ボウル【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ホース",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "ホースリール【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "ポータブルトイレ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "汚物は取り除く　50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "ボール（硬球）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "木刀",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切り、束ねて出す"
+  },
+  {
+    "keyword": "ポスト【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "哺乳びん【プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ポリタンク",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "本立て【木・プラスチック製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "麻雀パイ【象牙・プラスチック製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "まくら",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "マット【金属製以外】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "まな板【木・プラスチック製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "み（箕）",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "水さし【プラスチック製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "虫かご【竹・プラスチック製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "蒸し器【籐・竹・プラスチック製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "むしろ",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "折りたたんで、ひもでしばる"
+  },
+  {
+    "keyword": "メジャー【プラスチック製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "モップ（柄付モップ）",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "ごみ袋に入る程度に切る"
+  },
+  {
+    "keyword": "湯たんぽ【プラスチック製】",
+    "aliases": [
+      "08ヤ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "よしず",
+    "aliases": [
+      "08ヤ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "ラケット【木・プラスチック製】",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "ランドセル",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "レコード盤",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類"
+  },
+  {
+    "keyword": "レジャーシート",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る　　金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "ロープ",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "硬プラ-革製品類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "カップめん容器【プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "プラマークのあるもの　汚れを取り除く　汚れたものは「可燃ごみ」"
+  },
+  {
+    "keyword": "キャップ（ふた）【プラスチック製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "軽くすすぐ"
+  },
+  {
+    "keyword": "食品トレー",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "汚れを取り除く　　スーパー等の回収ボックスあり"
+  },
+  {
+    "keyword": "洗剤ボトル容器",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "プラマークのあるもの　　軽くすすぐ"
+  },
+  {
+    "keyword": "卵パック【プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック"
+  },
+  {
+    "keyword": "チューブ類【プラスチック製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中身をきれいにして出す　　汚れたものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "発泡スチロール（緩衝材）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "20ｃｍ以内に割る"
+  },
+  {
+    "keyword": "肥料袋（家庭菜園用）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中身をきれいにして出す　汚れたものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "レトルトパック容器",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "中をすすいできれいにして出す　汚れたものは「可燃ごみ」"
+  },
+  {
+    "keyword": "レジ袋",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "容器包装プラスチック",
+    "notes": "汚れたものは「可燃ごみ」"
+  },
+  {
+    "keyword": "アルミホイルの紙箱・芯",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる　金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "衣類",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "袋に入れる　汚れているものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "紙パック（内側が白いもの）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "中を洗って乾かし、切り開いてひもでしばる"
+  },
+  {
+    "keyword": "牛乳パック",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "中を洗って乾かし、切り開いてひもでしばる"
+  },
+  {
+    "keyword": "コート",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "紙-布類"
+  },
+  {
+    "keyword": "米袋【紙製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "紙-布類"
+  },
+  {
+    "keyword": "雑誌類（週刊誌等）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる"
+  },
+  {
+    "keyword": "シーツ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ごみ袋に入れる　汚れたものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "新聞紙",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる"
+  },
+  {
+    "keyword": "ジャンパー",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "破れているものやほつれているものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "シュレッダーごみ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "破れないようにごみ袋を二重にする"
+  },
+  {
+    "keyword": "セーター",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "破れているものやほつれているものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "段ボール",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる"
+  },
+  {
+    "keyword": "タオル",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ごみ袋に入れる　汚れたものは「可燃ごみ」"
+  },
+  {
+    "keyword": "タオルケット",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる　汚れたものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "卵パック【紙製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる"
+  },
+  {
+    "keyword": "チラシ（広告）",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる"
+  },
+  {
+    "keyword": "トイレットペーパー芯",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "紙-布類"
+  },
+  {
+    "keyword": "ネクタイ",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "紙-布類"
+  },
+  {
+    "keyword": "ファイル【紙製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "プラスチックは取りはずし「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "封筒",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる　窓付き封筒のフィルム部分は「可燃ごみ」"
+  },
+  {
+    "keyword": "包装紙",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる"
+  },
+  {
+    "keyword": "ポスター",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "紙-布類"
+  },
+  {
+    "keyword": "本（絵本、教科書、辞書、カタログ等）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる"
+  },
+  {
+    "keyword": "マフラー",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "破れているものやほつれているものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "毛布",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "折りたたんでひもでしばる　汚れたものは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "ラップの紙箱・芯",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "紙-布類",
+    "notes": "ひもでしばる　金属刃は取りはずし「金属類」"
+  },
+  {
+    "keyword": "びん（飲料、食品等）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "びん類",
+    "notes": "中を水洗いする　ビールびん、一升びん、牛乳びんは販売店に戻す"
+  },
+  {
+    "keyword": "ＩＣレコーダー",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "ＩＨクッキングヒーター",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "アイロン",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "網【金属製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "編み針（かぎ針）【金属製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "アルミ缶（飲料用以外）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "中を水洗いする"
+  },
+  {
+    "keyword": "泡たて器",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "安全靴",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "あんぜんピン",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れる"
+  },
+  {
+    "keyword": "アンプ（ステレオ）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "あんま機（ハンディタイプ）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "移植ごて【金属製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "１斗缶",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "中身は使い切る"
+  },
+  {
+    "keyword": "イルミネーション（電飾）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "インターホン",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "植木用支柱【金属製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以下に切る"
+  },
+  {
+    "keyword": "エキスパンダー",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "枝きりばさみ",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ＭＤプレーヤー",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "オイル缶",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "中身は使い切る"
+  },
+  {
+    "keyword": "オーディオ機器",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "オーブントースター",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "お玉（しゃくし）【金属製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "おもちゃ【金属製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "オルゴール",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "おろしがね【金属製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "一輪車（スポーツ用）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "カーテンレール",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」（5 本までで１点）"
+  },
+  {
+    "keyword": "カーペット（電気製）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "折りたたんで、ひもでしばる"
+  },
+  {
+    "keyword": "懐中電灯",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "カイロ【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "鍵",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "花器【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "額縁【金属枠】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "ガラスは取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "かご【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "加湿器",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ガス（カセット）コンロ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ガスマット【アルミ製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以下にする"
+  },
+  {
+    "keyword": "カセットデッキ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "滑車・キャスター・戸車",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "がびょう（押しピン）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れる"
+  },
+  {
+    "keyword": "花びん【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "釜",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "鎌",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "刃は厚紙等で包む"
+  },
+  {
+    "keyword": "かみそり（使い捨てを含む）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包む"
+  },
+  {
+    "keyword": "カメラ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "電池は取りはずす"
+  },
+  {
+    "keyword": "カラオケ機器",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "換気扇",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "缶切り器",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "鉋（かんな）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "キーボード",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "キーボード（パソコン用）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "脚立",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以下のものは「金属類」"
+  },
+  {
+    "keyword": "キャップ（ふた）【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "軽くすすぐ"
+  },
+  {
+    "keyword": "きゅうす【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "金庫（手提げ式）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "空気入れ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "空気清浄器",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "くぎ・ネジ・ビス類",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れる"
+  },
+  {
+    "keyword": "草刈り機用刈刃",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "家庭用に限る　　厚紙等に包む"
+  },
+  {
+    "keyword": "くし（櫛）【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "串【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "首輪【金属・皮製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "くまで",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "刃は厚紙等で包む"
+  },
+  {
+    "keyword": "クリップ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "携帯電話（本体・付属品）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "充電池は取りはずして、販売店の回収ボックスへ"
+  },
+  {
+    "keyword": "ゲーム機器",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "ボタン電池・充電池は取りはずして、販売店の回収ボックスへ"
+  },
+  {
+    "keyword": "血圧計",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "けんざん（剣山）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包む"
+  },
+  {
+    "keyword": "コード・コードリール",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "コーヒーメーカー",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "こたつ（あんか）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "コピー機　※業務用は除く",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "インク、トナーなどは取り除く"
+  },
+  {
+    "keyword": "ごみ箱・ごみペール【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "米びつ（家庭用）【金属製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "コンセント",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "コンパス（文具）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "魚焼き器",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ざる【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "三輪車（子ども用）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "照明器具",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "蛍光管、電球は取りはずし「埋立ごみ」　50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "ストーブ（ガス、電気）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は必ず取りはずす"
+  },
+  {
+    "keyword": "ＣＤ・ＭＤプレーヤー、ラジカセ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "シェーバー",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "磁気ネックレス",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "シャープペンシル【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ジューサー、ミキサー",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "シュレッダー（家庭用）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "定規【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "じょうご【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "浄水機",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "じょうろ【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "除湿機",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "必ず水を抜く"
+  },
+  {
+    "keyword": "食器【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "食器乾燥機",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "プラスチック製のふたは「硬プラ・革製品類」"
+  },
+  {
+    "keyword": "水筒【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "炊飯器",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "スコップ【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "スタンプ台【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "スチール缶",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "中を水洗いする"
+  },
+  {
+    "keyword": "ステレオ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "ステンレスパイプ棚",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "スパイクシューズ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "精米機（家庭用）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "セラミックヒーター",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "洗濯ばさみ",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "栓抜き",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "扇風機",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "洗面器【金属製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "造花",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "双眼鏡",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "掃除機",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "体脂肪計・体重計",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "トロフィ",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "脱毛器",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "たらい【金属製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "たわし",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "チェーン【金属製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "チャイム（家庭用）",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ちりとり【金属製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "つえ【金属製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "つめ切り",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "DVD プレーヤー、レコーダー",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "テープレコーダー",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "デジタルカメラ（本体・メモリーカード）",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "充電池は取りはずし販売店の回収ボックスへ"
+  },
+  {
+    "keyword": "電気カーペット（毛布・ひざかけ）",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "折りたたんで、ひもでしばる"
+  },
+  {
+    "keyword": "電気スタンド",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "蛍光管、電球は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "電子レンジ",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "電磁調理器",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "電卓",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "電動歯ブラシ",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "天ぷら油こし器・天ぷら鍋",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "電話機（ＦＡＸ電話機を含む）",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ドアチェーン・ドアノブ",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "投光器",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "蛍光管、電球は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "動物用ケージ【金属製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "トースター",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "時計",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "電池は取りはずす　（ボタン電池は販売店の回収ボックスへ）"
+  },
+  {
+    "keyword": "トタン類",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "ドライバー",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "ドライヤー",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "のこぎり",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "刃は厚紙等で包む"
+  },
+  {
+    "keyword": "ナイフ類",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "鍋【金属製】",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ハンガー【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "パイプ類【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "50ｃｍ以上のものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "はかり（計量器）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "バケツ【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "はさみ類",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "バスポンプ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "バッジ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "刃物",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "針",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "針金",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "バリカン",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ハロゲンヒーター",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ハンドマッサージャー",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ハンドミキサー",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ビーチパラソル",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ひげそり（Ｔ字、電動・替刃）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "ビデオカメラ、ビデオデッキ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "火鉢【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ファンヒーター（ガス）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は必ず取りはずす"
+  },
+  {
+    "keyword": "フードプロセッサー",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ふえ【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "フォーク（食卓用）【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "ブックエンド【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "フットマッサージ器",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "踏み台【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "フライパン",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ブラシ【毛部分が金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "プリンター",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "インク、トナーなどは取り除く"
+  },
+  {
+    "keyword": "ヘアーアイロン",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ヘアーカーラー【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ヘッドホン、ヘッドホンステレオ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "便座（電気式）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "包丁",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "缶の容器に入れるか、厚紙等で包み「キケン」と表示する"
+  },
+  {
+    "keyword": "包丁研ぎ機",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ボウル【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ホースリール【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ホームベーカリー",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ポスト【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ボタン【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ホッチキス、ホッチキス針",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "針は缶に入れ、フタをする"
+  },
+  {
+    "keyword": "ポット（魔法瓶）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ホットプレート（本体）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ボディーシェーバー",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "本立て【金属製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "マット【金属製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "万歩計",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "電池は取りはずす　（ボタン電池は販売店の回収ボックスへ）"
+  },
+  {
+    "keyword": "ミニコンポ",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "メトロノーム（音楽用器材）",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "マイク",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "マグネット",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "マッサージ器具",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ミキサー",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ミシン",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "水さし【金属製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "虫かご【金属製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "蒸し器【金属製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "メジャー【金属製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "もちつき機",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "やかん",
+    "aliases": [
+      "08ヤ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "湯たんぽ【金属製】",
+    "aliases": [
+      "08ヤ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "湯沸器（台所用）",
+    "aliases": [
+      "08ヤ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "レンジ【電気・ガス】",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ラケット【金属製】",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ラジオ",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ラジカセ",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ラジコン",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ラック【金属製】",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ラベルライター",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ラミネーター（パウチ）",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ランチジャー【金属製】",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "リモコン",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "乾電池は取りはずし「埋立ごみ」"
+  },
+  {
+    "keyword": "レコード盤の針・プレーヤー",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "金属類",
+    "notes": "針は缶に入れる"
+  },
+  {
+    "keyword": "ワイヤーロープ",
+    "aliases": [
+      "10ワ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ワープロ",
+    "aliases": [
+      "10ワ行"
+    ],
+    "garbageTypeId": "金属類"
+  },
+  {
+    "keyword": "ペットボトル",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "ペットボトル",
+    "notes": "中を水洗いする　キャップは「容器包装プラスチック」"
+  },
+  {
+    "keyword": "アルミ缶（飲料用）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "アルミ缶",
+    "notes": "リング等の金属は取りはずし「金属類」"
+  },
+  {
+    "keyword": "油（食用）",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "廃食用油",
+    "notes": "植物性食用油に限る"
+  },
+  {
+    "keyword": "入れ歯",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "植木鉢【陶磁器製】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "土を落とす"
+  },
+  {
+    "keyword": "絵の具【金属製チューブ】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "絵の具【プラスチック製チューブ】",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "温度計",
+    "aliases": [
+      "01ア行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "カイロ（使い捨て）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "鏡",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "回収箱に入らないものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "花器【陶磁器製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "額縁【ガラス枠】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "カセットテープ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "カセットボンベ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "中身は使い切り、必ず穴をあける"
+  },
+  {
+    "keyword": "花びん【ガラス・陶磁器製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "ガラス（食器類、板・窓ガラス）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "回収箱に入らないものは「戸別収集」か「直接搬入」"
+  },
+  {
+    "keyword": "乾電池",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "きゅうす【ガラス・陶磁器製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "グローランプ",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "蛍光管",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "割れないよう、なるべく購入時のケースに入れる"
+  },
+  {
+    "keyword": "化粧品びん",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "碁石【石製】",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "コンパクトケース（化粧品容器）",
+    "aliases": [
+      "02カ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "すり鉢【陶磁器製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "七輪（しちりん）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "浄水器（カートリッジ）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "食器【ガラス・陶磁器製】",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "水槽",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "すずり（硯）",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "中身を使い切り、必ず穴をあける"
+  },
+  {
+    "keyword": "セラミック調理器具等",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "セロテープ台",
+    "aliases": [
+      "03サ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "体温計",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "タイル（少量）",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "多量の場合は不燃物処理場へ持込"
+  },
+  {
+    "keyword": "チューブ類【金属製】",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "電球",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "といし",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "陶磁器類",
+    "aliases": [
+      "04タ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "ねんど（教材用）",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "鍋【ガラス・陶磁器製・ホーロー】",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "農薬びん（家庭菜園用）",
+    "aliases": [
+      "05ナ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "中身を使い切り、水洗いする"
+  },
+  {
+    "keyword": "びん（上記以外）",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "つけもの用のびん、味付け海苔のびんも「埋立ごみ」"
+  },
+  {
+    "keyword": "ビデオテープ",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "火鉢【陶磁器製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "ボウル【ガラス・陶磁器製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "哺乳びん【ガラス製】",
+    "aliases": [
+      "06ハ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "マニキュアのびん",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "中身は使い切る"
+  },
+  {
+    "keyword": "水さし【ガラス・陶磁器製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "蒸し器【ガラス・陶磁器製】",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "虫めがね",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "めがね",
+    "aliases": [
+      "07マ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  },
+  {
+    "keyword": "ライター（使い捨て含）",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "埋立ごみ",
+    "notes": "必ず使い切ること"
+  },
+  {
+    "keyword": "ランタン",
+    "aliases": [
+      "09ラ行"
+    ],
+    "garbageTypeId": "埋立ごみ"
+  }
+]

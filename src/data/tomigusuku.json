@@ -1,0 +1,1216 @@
+{
+  "municipalityId": "tomigusuku",
+  "municipalityName": "豊見城市",
+  "prefecture": "沖縄県",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "もやせる",
+      "name": "もやせる",
+      "shortName": "もやせる",
+      "color": "#ea3b13",
+      "icon": "もやせる",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "もやせない-危険",
+      "name": "もやせない・危険",
+      "shortName": "もやせない・危険",
+      "color": "#733b96",
+      "icon": "もやせない-危険",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "資源",
+      "name": "資源",
+      "shortName": "資源",
+      "color": "#2dc7aa",
+      "icon": "資源",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "資源",
+      "name": "資源",
+      "shortName": "資源",
+      "color": "#77ae1f",
+      "icon": "資源",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:30"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "豊見城(県道7号線東側)",
+      "districts": [
+        "豊見城(県道7号線東側)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "高安の一部(A地区)",
+      "districts": [
+        "高安の一部(A地区)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "3",
+      "areaName": "根差部",
+      "districts": [
+        "根差部"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "4",
+      "areaName": "嘉数",
+      "districts": [
+        "嘉数"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "5",
+      "areaName": "豊見城ニュータウン",
+      "districts": [
+        "豊見城ニュータウン"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "6",
+      "areaName": "真玉橋",
+      "districts": [
+        "真玉橋"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "7",
+      "areaName": "金良",
+      "districts": [
+        "金良"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "8",
+      "areaName": "長堂",
+      "districts": [
+        "長堂"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "9",
+      "areaName": "饒波の一部(A地区)",
+      "districts": [
+        "饒波の一部(A地区)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "10",
+      "areaName": "高安の一部(B地区)",
+      "districts": [
+        "高安の一部(B地区)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "11",
+      "areaName": "饒波の一部(B地区)",
+      "districts": [
+        "饒波の一部(B地区)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "12",
+      "areaName": "豊見城団地",
+      "districts": [
+        "豊見城団地"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "13",
+      "areaName": "県営豊見城団地",
+      "districts": [
+        "県営豊見城団地"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "14",
+      "areaName": "平良",
+      "districts": [
+        "平良"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "15",
+      "areaName": "高嶺",
+      "districts": [
+        "高嶺"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "16",
+      "areaName": "上田(市道25号線東側)",
+      "districts": [
+        "上田(市道25号線東側)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "17",
+      "areaName": "渡嘉敷",
+      "districts": [
+        "渡嘉敷"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "18",
+      "areaName": "保栄茂",
+      "districts": [
+        "保栄茂"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "19",
+      "areaName": "翁長",
+      "districts": [
+        "翁長"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "20",
+      "areaName": "渡橋名の一部(B地区)",
+      "districts": [
+        "渡橋名の一部(B地区)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "21",
+      "areaName": "豊崎",
+      "districts": [
+        "豊崎"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "22",
+      "areaName": "豊見城(県道7号線西側)",
+      "districts": [
+        "豊見城(県道7号線西側)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "23",
+      "areaName": "宜保",
+      "districts": [
+        "宜保"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "24",
+      "areaName": "我那覇",
+      "districts": [
+        "我那覇"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "25",
+      "areaName": "名嘉地",
+      "districts": [
+        "名嘉地"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "26",
+      "areaName": "田頭",
+      "districts": [
+        "田頭"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "27",
+      "areaName": "瀬長",
+      "districts": [
+        "瀬長"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "28",
+      "areaName": "与根",
+      "districts": [
+        "与根"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "29",
+      "areaName": "伊良波",
+      "districts": [
+        "伊良波"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "30",
+      "areaName": "座安",
+      "districts": [
+        "座安"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "31",
+      "areaName": "渡橋名の一部(C地区)",
+      "districts": [
+        "渡橋名の一部(C地区)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "32",
+      "areaName": "上田(市道25号線西側)",
+      "districts": [
+        "上田(市道25号線西側)"
+      ],
+      "schedule": {
+        "もやせる": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "もやせない-危険": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:30"
+}

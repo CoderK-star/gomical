@@ -1,0 +1,1372 @@
+[
+  {
+    "keyword": "生ごみ",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "紙くず",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "木くず",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "プラスチック製品",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ゴム製品、皮革製品　等",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "油粘土",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "アルミホイル",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "おもちゃ類（木製、プラスチック製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "金属部が多量の場合は「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "紙粘土",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "カーテン（布）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "耐火カーテンは「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "カーペット",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "電気カーペットは「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "貝殻",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "カイロ（使い捨て）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "菓子袋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "カセットテープ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "かばん（ランドセル含む）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "金属部が多量の場合は「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "汚物は取り除いてください。"
+  },
+  {
+    "keyword": "髪の毛",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "乾燥剤",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "水に濡れないような工夫をして出してください。"
+  },
+  {
+    "keyword": "クーラーボックス",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "指定袋に入らないものは「粗大ごみ」へ。"
+  },
+  {
+    "keyword": "草",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "多量の場合は、佐賀市清掃工場（℡0952-30-2430）へご相談ください。"
+  },
+  {
+    "keyword": "靴（運動靴を含む）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "金属部が多い安全靴などは「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "クッション",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "ビーズクッションは透明袋に入れて、「ビーズクッション入り」と書いて「燃えるごみ」へ"
+  },
+  {
+    "keyword": "毛糸",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ござ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ゴルフボール",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "座布団",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "CD（DVD、MDも同様）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "磁気カード（テレフォンカード等）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "漆器製食器",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "湿布剤",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "しめ縄",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "シャンプー等の容器",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "じゅうたん",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ストッキング",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "スポンジ",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "炭",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "墨（固形物）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "石けん（固形物）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "剪定くず",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "直径が10cm以内のものは、40cm×30cm以内の規格に束ね、指定袋（大）を巻いてごみステーションに出すことができます。"
+  },
+  {
+    "keyword": "洗面器",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "金属製は「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "造花",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "太鼓",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "金属が多くついたものは「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "タオル",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "竹",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "『剪定くず』参照。"
+  },
+  {
+    "keyword": "脱脂綿",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "タッパー",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "たばこ、たばこの灰",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "たまごの殻",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "たまごパック（プラスチック）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "丹前（たんぜん）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "チョーク",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ちょうちん",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ティッシュ",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "トレイ（食品トレイ）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "できるだけスーパーの店頭回収にご協力ください。『リサイクル』参照。"
+  },
+  {
+    "keyword": "長靴",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "生ゴミ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "水切りをして出してください。家庭用生ごみ処理容器等を購入される方へ補助金を交付しています。詳しくは佐賀市清掃工場（℡0952-30-2430）へご相談ください。"
+  },
+  {
+    "keyword": "ぬいぐるみ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "発煙筒（使用後）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "使用前のものは、専門の処理業者か販売店にご相談ください。"
+  },
+  {
+    "keyword": "バッグ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "金属部が多量の場合は「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "発泡スチロール",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "花",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "花火",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "未使用のものは発火防止のため、水に濡らしてから「燃えるごみ」へ。"
+  },
+  {
+    "keyword": "歯ブラシ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ハンガー（木製、プラスチック製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "針金ハンガーは「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "皮革製品",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ビデオテープ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ビニールシート",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ビニールホース",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "漂白剤（固形）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "フィルム（のネガ）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ふきん",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "プランター（プラスチック製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "土は除く。"
+  },
+  {
+    "keyword": "プリンターインクカートリッジ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "できるだけ店頭回収にご協力ください。"
+  },
+  {
+    "keyword": "フロッピーディスク",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ペットのトイレ砂（加工品）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ペットのふん",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ヘルメット",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "便座ふた",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "ウォシュレット付きなど電気式のものは「燃えないごみ」へ。"
+  },
+  {
+    "keyword": "弁当がら",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ボウリングの玉",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ボール",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ほうき",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "保温剤・保冷剤",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ポリバケツ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ポリ容器（灯油用）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "中身は空にしてください。"
+  },
+  {
+    "keyword": "まくら",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "マスク",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "マッチ",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えるごみ",
+    "notes": "未使用のものは発火防止のため、水に濡らしてから「燃えるごみ」へ。"
+  },
+  {
+    "keyword": "まな板",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "御簾（みす）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "よしず",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ラケット",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ランドセル",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "レインコート",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "レコード",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "ろうそく",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃えるごみ"
+  },
+  {
+    "keyword": "金物",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "陶磁器",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "小型家電",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ガラス",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "蛍光管・体温計（水銀を含むもの）",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "電池類",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "乾電池<br>コイン電池、ボタン電池<br>二次電池（充電式電池）<br>モバイルバッテリー<br>電池一体型のもの（電動歯ブラシ、電気シェーバー、電子タバコ）"
+  },
+  {
+    "keyword": "アイロン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "アイロン台",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "植木鉢（陶器）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "土は除く。"
+  },
+  {
+    "keyword": "ウォシュレット",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "腕時計",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "LED照明",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "オーディオ機器",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "オーブントースター",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "オーブンレンジ",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "おもちゃ類（金属製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "カーコンポ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "カーテレビ（車載用液晶テレビ）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "カーナビ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "カーテン（耐火）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "布製は「燃えるごみ」へ。"
+  },
+  {
+    "keyword": "加湿器",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "懐中電灯",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "鏡",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "ごみステーションに出す際は指定袋からはみ出しても構いません。"
+  },
+  {
+    "keyword": "カセットボンベ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "中身は使い切ってください。穴あけは不要です。"
+  },
+  {
+    "keyword": "かみそり（かみそりの刃）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "新聞紙に包んで「危険」と書くなど安全な工夫をしてください。"
+  },
+  {
+    "keyword": "カメラ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ガラス製品（割れたもの、割れていないもの）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "金庫（手提げ金庫など）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "耐火金庫は市の施設で処理できません。"
+  },
+  {
+    "keyword": "化粧品のビン",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "殺虫剤スプレー缶",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "中身は使い切ってください。"
+  },
+  {
+    "keyword": "磁石（クリップ、マグネット）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "七輪",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "瞬間湯沸かし器",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "消火器（中身無し）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "中身が入っている消化器については、消化器リサイクル推進センター（℡03-5829-6773）にご相談ください。"
+  },
+  {
+    "keyword": "照明器具",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "炊飯器",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ステレオ",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "中身を使い切ってください。穴あけは不要です。"
+  },
+  {
+    "keyword": "せっこう",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "扇風機",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "体温計",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "体重計",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "タイヤチェーン",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "茶碗",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "漬物石",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "DVDデッキ",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "テレビゲーム",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "電気ストーブ",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "電気ポッド",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "電気毛布",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "電球",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "電子レンジ",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "電話機",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "トースター",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "砥石",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "陶磁器",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "時計",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "土鍋",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "塗料容器（缶）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "中身は空にしてください。"
+  },
+  {
+    "keyword": "鍋",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ねじ（ボルト、ナット）",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "白熱灯",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "バケツ（金物）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "ポリバケツは「燃えるごみ」へ。"
+  },
+  {
+    "keyword": "パソコン周辺機器（キーボード、マウスなど）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "本体はリネットジャパンリサイクル株式会社（佐賀市連携事業者）もしくは各メーカーの回収受付窓口にご相談ください。"
+  },
+  {
+    "keyword": "刃物",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "新聞紙に包んで、「危険」と書くなど安全な工夫をしてください。"
+  },
+  {
+    "keyword": "針",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "新聞紙に包んで、「危険」と書くなど安全な工夫をしてください。"
+  },
+  {
+    "keyword": "針金ハンガー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "プラスチック製のものは「燃えるごみ」へ。"
+  },
+  {
+    "keyword": "美術用石膏",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ビデオカメラ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ビデオデッキ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ビン（化粧品、食用油、農薬）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "飲料ビンは「ビン・缶」へ。中身は空にしてください。"
+  },
+  {
+    "keyword": "ファクシミリ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "フライパン",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "プリンター",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "便器",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "汚物を除き、きれいに洗ってください。"
+  },
+  {
+    "keyword": "ペンキ缶",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "中身は空にしてください。"
+  },
+  {
+    "keyword": "ホーロー鍋",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ホイルキャップ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "包丁",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "新聞紙に包んで、「危険」と書くなど安全な工夫をしてください。"
+  },
+  {
+    "keyword": "盆ちょうちん（コード付き）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "提灯のみは「燃えるごみ」へ。"
+  },
+  {
+    "keyword": "マウス（パソコン用）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "魔法瓶",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ミシン",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "やかん",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "焼き物（皿や鉢植え）",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ライター",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃えないごみ",
+    "notes": "火災防止のため、中身は使い切ってください。"
+  },
+  {
+    "keyword": "ラケット（カーボングラファイト製、グラスファイバー製）",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ラジカセ",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ワープロ",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃えないごみ"
+  },
+  {
+    "keyword": "ペットボトル",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "ペットボトル"
+  },
+  {
+    "keyword": "PETボトル識別表示マークがついた容器（酒類、しょうゆ、みりん、酢等）",
+    "aliases": [
+      "主な物"
+    ],
+    "garbageTypeId": "ペットボトル"
+  }
+]

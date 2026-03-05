@@ -1,0 +1,347 @@
+[
+  {
+    "keyword": "板",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料"
+  },
+  {
+    "keyword": "革製品",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料"
+  },
+  {
+    "keyword": "銀紙",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料"
+  },
+  {
+    "keyword": "くつ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料"
+  },
+  {
+    "keyword": "資源にならない紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料",
+    "notes": "臭いがついた紙（石けん個包装紙など)汚れている紙（使用済みティッシュなど) 防水加工された紙(紙コップなど）写真 感熱紙(レシートなど）裏カーボン紙（領収書など）ビニールコーティングされた紙"
+  },
+  {
+    "keyword": "湿布・乾燥剤・脱臭剤",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料",
+    "notes": "中身"
+  },
+  {
+    "keyword": "食用油",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料",
+    "notes": "凝固剤使用または布などに浸み込ませる"
+  },
+  {
+    "keyword": "タバコの吸殻",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料"
+  },
+  {
+    "keyword": "使い捨てカイロ",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料",
+    "notes": "包装袋->プラスチックへ カイロ->燃やせるごみへ"
+  },
+  {
+    "keyword": "生ごみ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料",
+    "notes": "水分をよく切って"
+  },
+  {
+    "keyword": "ネコ砂",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料"
+  },
+  {
+    "keyword": "灰",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やせるごみ-有料"
+  },
+  {
+    "keyword": "家庭から出た落ち葉・雑草",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やせるごみ-無料"
+  },
+  {
+    "keyword": "落ち葉・雑草",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やせるごみ-無料",
+    "notes": "45リットルまでの透明または半透明の袋にいれて下さい"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やせるごみ-無料",
+    "notes": "45リットルまでの透明または半透明の袋にいれて「おむつ」と明記　汚物は取り除きトイレに流して下さい"
+  },
+  {
+    "keyword": "ガラス",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "傘などのように長いものは半分以上袋にいれ、袋の口を縛って出してください。"
+  },
+  {
+    "keyword": "金属類",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "混合ごみ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "金属・プラスチック・ガラスなどの複合素材のもの"
+  },
+  {
+    "keyword": "合成ゴム製品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "せともの",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "ディスク・レコードなど",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "CD・DVD・LD"
+  },
+  {
+    "keyword": "刃物類（包丁・ナイフ・カッターなど)",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "刃をコンクリートなどにこすりつけて落とすか厚紙でくるみ指定収集袋にいれて出してください。（中身がわかるように指定収集袋に「危険物」と表示をしてください）"
+  },
+  {
+    "keyword": "ホース類",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "長さ50cm程度に切ってください"
+  },
+  {
+    "keyword": "食品容器・洗剤容器・トレー・菓子などの袋",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "プラスチック"
+  },
+  {
+    "keyword": "CD・カセットテープ・ビデオテープのケース",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "プラスチック"
+  },
+  {
+    "keyword": "発泡スチロール製品",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "プラスチック"
+  },
+  {
+    "keyword": "ペットボトルのキャップ、定規、その他プラスチック製品",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "プラスチック"
+  },
+  {
+    "keyword": "蛍光灯",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "有害ごみ"
+  },
+  {
+    "keyword": "水銀体温計",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "有害ごみ"
+  },
+  {
+    "keyword": "電球",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "有害ごみ"
+  },
+  {
+    "keyword": "電池類",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "有害ごみ"
+  },
+  {
+    "keyword": "白熱灯",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "有害ごみ"
+  },
+  {
+    "keyword": "ライター",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "有害ごみ"
+  },
+  {
+    "keyword": "びん",
+    "aliases": [
+      "び"
+    ],
+    "garbageTypeId": "びん",
+    "notes": "プラスチック製キャップは「プラスチック」へ金属製キャップは「燃やせないごみ」へ"
+  },
+  {
+    "keyword": "飲料水空き缶",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "缶"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "缶",
+    "notes": "中身を使い切り火の気のない屋外で穴をあけてから出して下さい 塗料用スプレー缶は出せません キャップ・ノズルなどのプラスチックの部分は取り外してプラスチックの日に出して下さい"
+  },
+  {
+    "keyword": "ペッボトル",
+    "aliases": [
+      "ぺ"
+    ],
+    "garbageTypeId": "ペットボトル",
+    "notes": "キャップ・ラベルをはずして必ず水できれいにすすいでから、45リットルまでの透明又は半透明の袋に入れて出して下さい。"
+  },
+  {
+    "keyword": "新聞・折込チラシ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "新聞-折込チラシ",
+    "notes": "新聞と折り込みチラシ（広告等）は一緒に出せます。"
+  },
+  {
+    "keyword": "段ボール・茶色紙",
+    "aliases": [
+      "だ"
+    ],
+    "garbageTypeId": "段ボール-茶色紙",
+    "notes": "茶色紙は破った断面が茶色のものです。トイレットペーパーの芯なども破った断面が茶色であれば、茶色紙です"
+  },
+  {
+    "keyword": "雑誌・本",
+    "aliases": [
+      "ざ"
+    ],
+    "garbageTypeId": "雑誌-本-雑がみ",
+    "notes": "ひもで束ねる"
+  },
+  {
+    "keyword": "雑がみ",
+    "aliases": [
+      "ざ"
+    ],
+    "garbageTypeId": "雑誌-本-雑がみ",
+    "notes": "雑がみは袋に入れる"
+  },
+  {
+    "keyword": "シュレッダーした紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "雑誌-本-雑がみ",
+    "notes": "別袋に入れ空気を抜き、口をしばって出してください。"
+  },
+  {
+    "keyword": "牛乳紙パック",
+    "aliases": [
+      "ぎ"
+    ],
+    "garbageTypeId": "牛乳等紙パック",
+    "notes": "洗ってひらき乾かしてたばねてください。内側にアルミコーティングされているものは「雑がみ」ビニールコーティングされているものは「燃やせるごみ」に出して下さい"
+  },
+  {
+    "keyword": "古布",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "古布",
+    "notes": "45リットルまでの透明又は半透明の袋に入れて出してください"
+  },
+  {
+    "keyword": "せん定枝",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "せん定枝",
+    "notes": "長さ50cm（枝の直径は15cmまで）に切りそろえ、片手で持てる程度の量をひもで束ねて出して下さい。1回5束まで"
+  }
+]

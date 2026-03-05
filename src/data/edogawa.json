@@ -1,0 +1,4950 @@
+{
+  "municipalityId": "edogawa",
+  "municipalityName": "江戸川区",
+  "prefecture": "東京都",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "燃やすごみ",
+      "name": "燃やすごみ",
+      "shortName": "燃やすごみ",
+      "color": "#e60012",
+      "icon": "燃やすごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "燃やさないごみ",
+      "name": "燃やさないごみ",
+      "shortName": "燃やさないごみ",
+      "color": "#005eae",
+      "icon": "燃やさないごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "資源",
+      "name": "資源",
+      "shortName": "資源",
+      "color": "#009944",
+      "icon": "資源",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "一之江1から5丁目",
+      "districts": [
+        "一之江1から5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "一之江6から8丁目",
+      "districts": [
+        "一之江6から8丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "3",
+      "areaName": "一之江町全域",
+      "districts": [
+        "一之江町全域"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "4",
+      "areaName": "宇喜田町全域",
+      "districts": [
+        "宇喜田町全域"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "5",
+      "areaName": "江戸川1・2丁目（1から14）",
+      "districts": [
+        "江戸川1・2丁目（1から14）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "6",
+      "areaName": "江戸川2丁目（15から46）",
+      "districts": [
+        "江戸川2丁目（15から46）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "7",
+      "areaName": "江戸川3丁目",
+      "districts": [
+        "江戸川3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "8",
+      "areaName": "江戸川4丁目（1から14）",
+      "districts": [
+        "江戸川4丁目（1から14）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "9",
+      "areaName": "江戸川4丁目（16から25）",
+      "districts": [
+        "江戸川4丁目（16から25）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "10",
+      "areaName": "江戸川5丁目",
+      "districts": [
+        "江戸川5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "11",
+      "areaName": "江戸川6丁目(1から9)環七通り東側",
+      "districts": [
+        "江戸川6丁目(1から9)環七通り東側"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "12",
+      "areaName": "江戸川6丁目(8から40)環七通り西側",
+      "districts": [
+        "江戸川6丁目(8から40)環七通り西側"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "13",
+      "areaName": "江戸川6丁目(39から50)環七通り東側",
+      "districts": [
+        "江戸川6丁目(39から50)環七通り東側"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "14",
+      "areaName": "大杉1・2丁目",
+      "districts": [
+        "大杉1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "15",
+      "areaName": "大杉3・4丁目",
+      "districts": [
+        "大杉3・4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "16",
+      "areaName": "大杉5丁目",
+      "districts": [
+        "大杉5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "17",
+      "areaName": "興宮町全域",
+      "districts": [
+        "興宮町全域"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "18",
+      "areaName": "上一色1から3丁目",
+      "districts": [
+        "上一色1から3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "19",
+      "areaName": "上篠崎1・2丁目",
+      "districts": [
+        "上篠崎1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "20",
+      "areaName": "上篠崎3・4丁目",
+      "districts": [
+        "上篠崎3・4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "21",
+      "areaName": "北葛西1・2丁目",
+      "districts": [
+        "北葛西1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "22",
+      "areaName": "北葛西3から5丁目",
+      "districts": [
+        "北葛西3から5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "23",
+      "areaName": "北小岩1・2丁目",
+      "districts": [
+        "北小岩1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "24",
+      "areaName": "北小岩3から8丁目",
+      "districts": [
+        "北小岩3から8丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "25",
+      "areaName": "北篠崎1・2丁目",
+      "districts": [
+        "北篠崎1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "26",
+      "areaName": "小松川1丁目（1から4、7）",
+      "districts": [
+        "小松川1丁目（1から4、7）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "27",
+      "areaName": "小松川1丁目（5の1から6）",
+      "districts": [
+        "小松川1丁目（5の1から6）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "28",
+      "areaName": "小松川1丁目（5の7から10）",
+      "districts": [
+        "小松川1丁目（5の7から10）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "29",
+      "areaName": "小松川2丁目（1から4）",
+      "districts": [
+        "小松川2丁目（1から4）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "30",
+      "areaName": "小松川2丁目（5から10）",
+      "districts": [
+        "小松川2丁目（5から10）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "31",
+      "areaName": "小松川3丁目（1から5）",
+      "districts": [
+        "小松川3丁目（1から5）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "32",
+      "areaName": "小松川3丁目（7の1）",
+      "districts": [
+        "小松川3丁目（7の1）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "33",
+      "areaName": "小松川3丁目（7の2から6）",
+      "districts": [
+        "小松川3丁目（7の2から6）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "34",
+      "areaName": "小松川3丁目（7の8、9）",
+      "districts": [
+        "小松川3丁目（7の8、9）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "35",
+      "areaName": "小松川3丁目（10から13）",
+      "districts": [
+        "小松川3丁目（10から13）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "36",
+      "areaName": "小松川3丁目（73から79、89、90）",
+      "districts": [
+        "小松川3丁目（73から79、89、90）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "37",
+      "areaName": "小松川4丁目",
+      "districts": [
+        "小松川4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "38",
+      "areaName": "鹿骨1・2・3丁目（1から17）",
+      "districts": [
+        "鹿骨1・2・3丁目（1から17）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "39",
+      "areaName": "鹿骨3丁目（18から20）",
+      "districts": [
+        "鹿骨3丁目（18から20）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "40",
+      "areaName": "鹿骨4丁目（1から8、16から30）",
+      "districts": [
+        "鹿骨4丁目（1から8、16から30）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "41",
+      "areaName": "鹿骨4丁目（9から15、31から33）",
+      "districts": [
+        "鹿骨4丁目（9から15、31から33）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "42",
+      "areaName": "鹿骨5・6丁目",
+      "districts": [
+        "鹿骨5・6丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "43",
+      "areaName": "鹿骨町全域",
+      "districts": [
+        "鹿骨町全域"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "44",
+      "areaName": "篠崎町1・2丁目",
+      "districts": [
+        "篠崎町1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "45",
+      "areaName": "篠崎町3丁目（1から22）",
+      "districts": [
+        "篠崎町3丁目（1から22）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "46",
+      "areaName": "篠崎町3丁目（23から33）",
+      "districts": [
+        "篠崎町3丁目（23から33）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "47",
+      "areaName": "篠崎町4から6丁目",
+      "districts": [
+        "篠崎町4から6丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "48",
+      "areaName": "篠崎町7・8丁目",
+      "districts": [
+        "篠崎町7・8丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "49",
+      "areaName": "下篠崎町全域",
+      "districts": [
+        "下篠崎町全域"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "50",
+      "areaName": "清新町1丁目（1）清新中央ハイツ・清新南ハイツ",
+      "districts": [
+        "清新町1丁目（1）清新中央ハイツ・清新南ハイツ"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "51",
+      "areaName": "清新町1丁目（2）コーシャハイム清新",
+      "districts": [
+        "清新町1丁目（2）コーシャハイム清新"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "52",
+      "areaName": "清新町1丁目（3）清新プラザ（4）シティコープ清新・清新北ハイツ",
+      "districts": [
+        "清新町1丁目（3）清新プラザ（4）シティコープ清新・清新北ハイツ"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "53",
+      "areaName": "清新町1丁目（5）都営清新町1丁目アパート・清新住宅",
+      "districts": [
+        "清新町1丁目（5）都営清新町1丁目アパート・清新住宅"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "54",
+      "areaName": "清新町2丁目（1から10）都営清新町2丁目アパート含む",
+      "districts": [
+        "清新町2丁目（1から10）都営清新町2丁目アパート含む"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "55",
+      "areaName": "清新町2丁目都営清新町2丁目第二アパート",
+      "districts": [
+        "清新町2丁目都営清新町2丁目第二アパート"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "56",
+      "areaName": "中央1・2丁目",
+      "districts": [
+        "中央1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "57",
+      "areaName": "中央3・4丁目",
+      "districts": [
+        "中央3・4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "58",
+      "areaName": "中葛西1・2丁目",
+      "districts": [
+        "中葛西1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "59",
+      "areaName": "中葛西3から5丁目",
+      "districts": [
+        "中葛西3から5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "60",
+      "areaName": "中葛西6・7丁目",
+      "districts": [
+        "中葛西6・7丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "61",
+      "areaName": "中葛西8丁目",
+      "districts": [
+        "中葛西8丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "62",
+      "areaName": "新堀1・2丁目",
+      "districts": [
+        "新堀1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "63",
+      "areaName": "西一之江1・4丁目",
+      "districts": [
+        "西一之江1・4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "64",
+      "areaName": "西一之江2・3丁目",
+      "districts": [
+        "西一之江2・3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "65",
+      "areaName": "西葛西1・2丁目",
+      "districts": [
+        "西葛西1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "66",
+      "areaName": "西葛西3から6丁目",
+      "districts": [
+        "西葛西3から6丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "67",
+      "areaName": "西葛西7・8丁目",
+      "districts": [
+        "西葛西7・8丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "68",
+      "areaName": "西小岩1から5丁目",
+      "districts": [
+        "西小岩1から5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "69",
+      "areaName": "西小松川全域",
+      "districts": [
+        "西小松川全域"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "70",
+      "areaName": "西篠崎1・2丁目",
+      "districts": [
+        "西篠崎1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "71",
+      "areaName": "西瑞江3丁目",
+      "districts": [
+        "西瑞江3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "72",
+      "areaName": "西瑞江4丁目（1から4）",
+      "districts": [
+        "西瑞江4丁目（1から4）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "73",
+      "areaName": "西瑞江4丁目（5から9）",
+      "districts": [
+        "西瑞江4丁目（5から9）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "74",
+      "areaName": "西瑞江4丁目（10から27）",
+      "districts": [
+        "西瑞江4丁目（10から27）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "75",
+      "areaName": "西瑞江5丁目",
+      "districts": [
+        "西瑞江5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "76",
+      "areaName": "二之江町全域",
+      "districts": [
+        "二之江町全域"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "77",
+      "areaName": "春江町1・2丁目",
+      "districts": [
+        "春江町1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "78",
+      "areaName": "春江町3丁目",
+      "districts": [
+        "春江町3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "79",
+      "areaName": "春江町4丁目",
+      "districts": [
+        "春江町4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "80",
+      "areaName": "春江町5丁目",
+      "districts": [
+        "春江町5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "81",
+      "areaName": "東葛西1から4丁目",
+      "districts": [
+        "東葛西1から4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "82",
+      "areaName": "東葛西5丁目（1から52）",
+      "districts": [
+        "東葛西5丁目（1から52）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "83",
+      "areaName": "東葛西5丁目（53から56の補助289号線東側)",
+      "districts": [
+        "東葛西5丁目（53から56の補助289号線東側)"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "84",
+      "areaName": "東葛西5丁目（53から56の補助289号線西側）",
+      "districts": [
+        "東葛西5丁目（53から56の補助289号線西側）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "85",
+      "areaName": "東葛西5丁目（57)",
+      "districts": [
+        "東葛西5丁目（57)"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "86",
+      "areaName": "東葛西6丁目",
+      "districts": [
+        "東葛西6丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "87",
+      "areaName": "東葛西7・8丁目",
+      "districts": [
+        "東葛西7・8丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "88",
+      "areaName": "東葛西9丁目（1から3）",
+      "districts": [
+        "東葛西9丁目（1から3）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "89",
+      "areaName": "東葛西9丁目（4から23）",
+      "districts": [
+        "東葛西9丁目（4から23）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "90",
+      "areaName": "東小岩1丁目",
+      "districts": [
+        "東小岩1丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "91",
+      "areaName": "東小岩2から6丁目",
+      "districts": [
+        "東小岩2から6丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "92",
+      "areaName": "東小松川1丁目から4丁目",
+      "districts": [
+        "東小松川1丁目から4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "93",
+      "areaName": "東篠崎1・2丁目",
+      "districts": [
+        "東篠崎1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "94",
+      "areaName": "東篠崎町全域",
+      "districts": [
+        "東篠崎町全域"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "95",
+      "areaName": "東松本1・2丁目",
+      "districts": [
+        "東松本1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "96",
+      "areaName": "東瑞江1丁目（1、2）",
+      "districts": [
+        "東瑞江1丁目（1、2）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "97",
+      "areaName": "東瑞江1丁目（1、2を除く）",
+      "districts": [
+        "東瑞江1丁目（1、2を除く）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "98",
+      "areaName": "東瑞江2丁目",
+      "districts": [
+        "東瑞江2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "99",
+      "areaName": "東瑞江3丁目",
+      "districts": [
+        "東瑞江3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "100",
+      "areaName": "平井1・2丁目",
+      "districts": [
+        "平井1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "101",
+      "areaName": "平井3・4丁目",
+      "districts": [
+        "平井3・4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "102",
+      "areaName": "平井5丁目（1から30）",
+      "districts": [
+        "平井5丁目（1から30）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "103",
+      "areaName": "平井5丁目（31から58）",
+      "districts": [
+        "平井5丁目（31から58）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "104",
+      "areaName": "平井6・7丁目",
+      "districts": [
+        "平井6・7丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "105",
+      "areaName": "船堀1・2丁目",
+      "districts": [
+        "船堀1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "106",
+      "areaName": "船堀3丁目",
+      "districts": [
+        "船堀3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "107",
+      "areaName": "船堀4から6丁目",
+      "districts": [
+        "船堀4から6丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "108",
+      "areaName": "船堀7丁目",
+      "districts": [
+        "船堀7丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "109",
+      "areaName": "本一色1から3丁目",
+      "districts": [
+        "本一色1から3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "110",
+      "areaName": "松江1・2丁目",
+      "districts": [
+        "松江1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "111",
+      "areaName": "松江3から7丁目",
+      "districts": [
+        "松江3から7丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "112",
+      "areaName": "松島1丁目",
+      "districts": [
+        "松島1丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "113",
+      "areaName": "松島2から4丁目",
+      "districts": [
+        "松島2から4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "114",
+      "areaName": "松本1・2丁目",
+      "districts": [
+        "松本1・2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "115",
+      "areaName": "瑞江1丁目（1から21）",
+      "districts": [
+        "瑞江1丁目（1から21）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "116",
+      "areaName": "瑞江1丁目（22から65）",
+      "districts": [
+        "瑞江1丁目（22から65）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "117",
+      "areaName": "瑞江2・3・4丁目",
+      "districts": [
+        "瑞江2・3・4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "118",
+      "areaName": "南葛西1丁目",
+      "districts": [
+        "南葛西1丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "119",
+      "areaName": "南葛西2・3丁目",
+      "districts": [
+        "南葛西2・3丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "120",
+      "areaName": "南葛西4から7丁目",
+      "districts": [
+        "南葛西4から7丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "121",
+      "areaName": "南小岩1から4丁目",
+      "districts": [
+        "南小岩1から4丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "122",
+      "areaName": "南小岩5から8丁目",
+      "districts": [
+        "南小岩5から8丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "123",
+      "areaName": "南篠崎町1丁目",
+      "districts": [
+        "南篠崎町1丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "124",
+      "areaName": "南篠崎町2丁目",
+      "districts": [
+        "南篠崎町2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "125",
+      "areaName": "南篠崎町3丁目（26、27）",
+      "districts": [
+        "南篠崎町3丁目（26、27）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "126",
+      "areaName": "南篠崎町3丁目（26、27を除く）",
+      "districts": [
+        "南篠崎町3丁目（26、27を除く）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "127",
+      "areaName": "南篠崎町4丁目（9、10）",
+      "districts": [
+        "南篠崎町4丁目（9、10）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "128",
+      "areaName": "南篠崎町4丁目（9・10を除く）",
+      "districts": [
+        "南篠崎町4丁目（9・10を除く）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "129",
+      "areaName": "南篠崎町5丁目",
+      "districts": [
+        "南篠崎町5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "130",
+      "areaName": "谷河内1丁目",
+      "districts": [
+        "谷河内1丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "friday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "131",
+      "areaName": "谷河内2丁目（1から3）",
+      "districts": [
+        "谷河内2丁目（1から3）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "132",
+      "areaName": "谷河内2丁目（4から15）",
+      "districts": [
+        "谷河内2丁目（4から15）"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "133",
+      "areaName": "臨海町1丁目",
+      "districts": [
+        "臨海町1丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "134",
+      "areaName": "臨海町2丁目",
+      "districts": [
+        "臨海町2丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "saturday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "135",
+      "areaName": "臨海町4・5丁目",
+      "districts": [
+        "臨海町4・5丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "136",
+      "areaName": "臨海町6丁目",
+      "districts": [
+        "臨海町6丁目"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:00"
+}

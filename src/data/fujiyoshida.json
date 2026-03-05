@@ -1,0 +1,124 @@
+{
+  "municipalityId": "fujiyoshida",
+  "municipalityName": "富士吉田市",
+  "prefecture": "山梨県",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "可燃物",
+      "name": "可燃物",
+      "shortName": "可燃物",
+      "color": "#ea3b13",
+      "icon": "可燃物",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "ビン-カン-不燃物",
+      "name": "ビン・カン・不燃物",
+      "shortName": "ビン・カン・不燃物",
+      "color": "#733b96",
+      "icon": "ビン-カン-不燃物",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "紙類",
+      "name": "紙類",
+      "shortName": "紙類",
+      "color": "#2dc7aa",
+      "icon": "紙類",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "東町",
+      "districts": [
+        "東町"
+      ],
+      "schedule": {
+        "可燃物": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "wednesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ビン-カン-不燃物": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙類": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "あらや",
+      "districts": [
+        "あらや"
+      ],
+      "schedule": {
+        "可燃物": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "thursday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "ビン-カン-不燃物": {
+          "pattern": "weekday",
+          "days": [
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "紙類": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:00"
+}

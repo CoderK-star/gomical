@@ -1,0 +1,110 @@
+{
+  "municipalityId": "kanazawa",
+  "municipalityName": "金沢市",
+  "prefecture": "石川県",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "燃やすごみ",
+      "name": "燃やすごみ",
+      "shortName": "燃やすごみ",
+      "color": "#ea3b13",
+      "icon": "燃やすごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "燃やさないごみ",
+      "name": "燃やさないごみ",
+      "shortName": "燃やさないごみ",
+      "color": "#733b96",
+      "icon": "燃やさないごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "資源",
+      "name": "資源",
+      "shortName": "資源",
+      "color": "#77ae1f",
+      "icon": "資源",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "びん",
+      "name": "びん",
+      "shortName": "びん",
+      "color": "#2dc7aa",
+      "icon": "びん",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "片町",
+      "districts": [
+        "片町"
+      ],
+      "schedule": {
+        "燃やすごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "燃やさないごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2
+          ],
+          "dates": [],
+          "day": "wednesday"
+        },
+        "資源": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "びん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:00"
+}

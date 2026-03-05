@@ -1,0 +1,250 @@
+[
+  {
+    "keyword": "生ゴミ",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ",
+    "notes": "水気をよく切って"
+  },
+  {
+    "keyword": "貝殻",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ",
+    "notes": "水気をよく切って"
+  },
+  {
+    "keyword": "食用油",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ",
+    "notes": "紙にしみこませるか、凝固剤で固めて"
+  },
+  {
+    "keyword": "木の枝",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ",
+    "notes": "直径2～3cmまで、長さは50cm程度に切りまとめて"
+  },
+  {
+    "keyword": "落ち葉",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "刈草",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ",
+    "notes": "土を取り除いて"
+  },
+  {
+    "keyword": "紙くず",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ",
+    "notes": "汚物はトイレに捨てて"
+  },
+  {
+    "keyword": "衣類",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "座布団",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "ゴム製品",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "皮革製品",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "弁当、カップめん、納豆などの容器",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "おもちゃ",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ",
+    "notes": "金属製の物を除く"
+  },
+  {
+    "keyword": "ＣＤ",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "バケツ",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "乾燥剤",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "保冷剤",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "使い捨てカイロ",
+    "aliases": [],
+    "garbageTypeId": "燃やせるごみ"
+  },
+  {
+    "keyword": "家具",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "スポーツ用品",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "レジャー用品",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "寝具",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "布団、毛布はたたんで縛って"
+  },
+  {
+    "keyword": "じゅうたん",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "なべ",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "刃物",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "鋭利な刃物などは新聞紙等に包んで"
+  },
+  {
+    "keyword": "金物類",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "ガラス類",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "せともの類",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "電球",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "蛍光灯",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "家電製品",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "家電リサイクル法対象品、パソコン除く"
+  },
+  {
+    "keyword": "ストーブ",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "ポリタンク",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "灯油タンク",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "90リットルまで"
+  },
+  {
+    "keyword": "ガスレンジ",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "湯沸かし器",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "カセットボンベ",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ"
+  },
+  {
+    "keyword": "スプレー缶類",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "穴を開けてガスを完全に抜く"
+  },
+  {
+    "keyword": "使い捨てライター",
+    "aliases": [],
+    "garbageTypeId": "燃やせないごみ",
+    "notes": "中身を使い切って"
+  },
+  {
+    "keyword": "ポリ袋類",
+    "aliases": [],
+    "garbageTypeId": "プラスチック製容器包装"
+  },
+  {
+    "keyword": "パック類",
+    "aliases": [],
+    "garbageTypeId": "プラスチック製容器包装"
+  },
+  {
+    "keyword": "ボトル類",
+    "aliases": [],
+    "garbageTypeId": "プラスチック製容器包装"
+  },
+  {
+    "keyword": "キャップ類",
+    "aliases": [],
+    "garbageTypeId": "プラスチック製容器包装"
+  },
+  {
+    "keyword": "缶",
+    "aliases": [],
+    "garbageTypeId": "空き缶-空きびん-ペットボトル"
+  },
+  {
+    "keyword": "びん",
+    "aliases": [],
+    "garbageTypeId": "空き缶-空きびん-ペットボトル"
+  },
+  {
+    "keyword": "ペットボトル",
+    "aliases": [],
+    "garbageTypeId": "空き缶-空きびん-ペットボトル"
+  }
+]

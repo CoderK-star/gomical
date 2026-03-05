@@ -1,0 +1,208 @@
+{
+  "municipalityId": "misato",
+  "municipalityName": "三郷市",
+  "prefecture": "埼玉県",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "燃えるゴミ",
+      "name": "燃えるゴミ",
+      "shortName": "燃えるゴミ",
+      "color": "#733b96",
+      "icon": "燃えるゴミ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "びん-かん",
+      "name": "びん、かん",
+      "shortName": "びん、かん",
+      "color": "#77ae1f",
+      "icon": "びん-かん",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "不有資",
+      "name": "不有資",
+      "shortName": "不有資",
+      "color": "#ea3b13",
+      "icon": "不有資",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "ペットボトル",
+      "name": "ペットボトル",
+      "shortName": "ペットボトル",
+      "color": "#2dc7aa",
+      "icon": "ペットボトル",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:30"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "新和",
+      "districts": [
+        "新和"
+      ],
+      "schedule": {
+        "燃えるゴミ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん-かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "不有資": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "笹塚",
+      "districts": [
+        "笹塚"
+      ],
+      "schedule": {
+        "燃えるゴミ": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday",
+            "saturday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん-かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "不有資": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "tuesday"
+        }
+      }
+    },
+    {
+      "areaId": "3",
+      "areaName": "鎌倉",
+      "districts": [
+        "鎌倉"
+      ],
+      "schedule": {
+        "燃えるゴミ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "びん-かん": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "不有資": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "thursday"
+        },
+        "ペットボトル": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:30"
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "keyword": "空き箱（紙製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "厚紙",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "油引きダンボール",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "油の付着したびん",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "アルミ缶（飲料・食品用）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "アルミホイル、アルミ箔",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "一斗缶",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "塗料用は不燃ごみへ。"
+  },
+  {
+    "keyword": "衣類（混紡含む）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "地域の古着回収または可燃ごみ"
+  },
+  {
+    "keyword": "植木鉢",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "陶器製⇒不燃ごみプラスチック製⇒可燃ごみ（注意）植物、土、砂利は取り除いてください。（一辺の長さが30センチメートルを超えるものは粗大ごみです。）"
+  },
+  {
+    "keyword": "ウレタン",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "お菓子・お茶の缶",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "落ち葉",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "4袋以上は、清掃事務所にへ相談下さい。"
+  },
+  {
+    "keyword": "折込チラシ",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "カード（紙・プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "カーボン紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "貝殻",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "カイロ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "鏡(姿見除く)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "傘（ビニール製も含む）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "カセットテープ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "カセットボンベ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使い切ってから別袋に入れ「カセットボンベ」と表示"
+  },
+  {
+    "keyword": "カタログ類",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "カップめん容器（紙・プラスチック製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "汚物は取り除いて下さい。"
+  },
+  {
+    "keyword": "紙くず",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "紙コップ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "内側がコーティングされているため"
+  },
+  {
+    "keyword": "カミソリ刃",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "紙に包んで「キケン」と表示"
+  },
+  {
+    "keyword": "紙パック",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "店頭・拠点回収または資源こちらをご確認ください。"
+  },
+  {
+    "keyword": "紙パック（酒パック）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "銀紙コーティングされているため"
+  },
+  {
+    "keyword": "ガムテープ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ガラス製品",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "紙に包んで「われもの」と表示"
+  },
+  {
+    "keyword": "ガラスびん（飲み物、食品、調味料）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ガラスびん（割れたびんなど）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "紙に包んで「われもの」と表示"
+  },
+  {
+    "keyword": "革製品（合成皮革含む）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "缶（アルミ、スチール製の飲料・食品用）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "乾燥剤",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "乾電池",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "感熱紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "木の枝(太さ10センチメートル、長さ50センチメートル以下)、木くず",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "多量の場合には、清掃事務所へ相談下さい。"
+  },
+  {
+    "keyword": "救急ばんそうこう",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "教科書",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "金色・銀色の紙",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "クッション",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "粗大ごみ（一辺の長さが30センチメートル以下のものは可燃ごみです。）"
+  },
+  {
+    "keyword": "薬のシート",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "薬びん",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "または不燃ごみ(農薬や劇薬などの入っていたびん)"
+  },
+  {
+    "keyword": "靴",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "靴下",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "クレジットカード",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "蛍光管・蛍光灯",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ケースに入れてまたは家電・電器店・ホームセンターへ"
+  },
+  {
+    "keyword": "携帯電話・スマートフォン",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "販売店又は、区内施設設置の小型家電回収ボックスへお持ち下さい。回収場所が近くにないときは、不燃ごみへ。"
+  },
+  {
+    "keyword": "コイン電池",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "こちらをご確認ください。"
+  },
+  {
+    "keyword": "ゴム",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "コルク栓",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "酒パック",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "銀紙コーティングされているため"
+  },
+  {
+    "keyword": "雑誌",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "CD（レコード・LD・DVDなど）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "写真",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "写真フィルム（ネガ）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "書籍",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "食器（ガラス・陶器・金属など）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "新聞",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スチール缶（飲料・食品用）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ストッキング",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ストロー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使い切ってから別袋に入れて「スプレー缶」と表示"
+  },
+  {
+    "keyword": "スマートフォン・携帯電話",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "販売店又は、区内施設設置の小型家電回収ボックスへお持ち下さい。回収場所が近くにないときは、不燃ごみへ。"
+  },
+  {
+    "keyword": "生理用品",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ぞうきん（化学ぞうきんを含む）",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "体温計",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "水銀式⇒拠点回収近くに回収施設が無い場合は、清掃事務所にご相談下さい。電子式⇒不燃ごみ"
+  },
+  {
+    "keyword": "ダイレクトメール",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "竹串",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "厚紙に包んで"
+  },
+  {
+    "keyword": "たばこのフィルター",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "卵の殻",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "卵パック（紙製）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "資源（紙製容器包装の識別マークがついていないものは、可燃ごみでお出しください。）こちらをご確認ください。"
+  },
+  {
+    "keyword": "卵パック（プラスチック製）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "店頭・拠点回収または可燃ごみこちらをご確認ください。"
+  },
+  {
+    "keyword": "単行本",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "段ボール",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "銀紙などでコーティングされているものは、可燃ごみでお出しください。"
+  },
+  {
+    "keyword": "チラシ",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ティッシュペーパー",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ティッシュペーパー（箱）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "電化製品（エアコン、テレビ、洗濯機、衣類乾燥機、冷蔵庫・冷凍庫、パソコンを除く）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "粗大ごみ（一辺の長さが30センチメートル以下のものは不燃ごみです。）"
+  },
+  {
+    "keyword": "電球",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ケースに入れて又は家電・電器店・ホームセンターへ"
+  },
+  {
+    "keyword": "電池",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "乾電池・コイン電池⇒不燃ごみ充電式電池・ボタン電池⇒販売店の回収ボックスへこちらをご確認ください。"
+  },
+  {
+    "keyword": "電話機",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "一辺の長さが30センチメートルを超えるものは粗大ごみです。"
+  },
+  {
+    "keyword": "電話帳",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "陶磁器",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "トランプ（紙・プラスチック製）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "塗料缶",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "鍋",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "生ごみ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ノート",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "海苔の缶",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "灰皿",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "はがき",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "発泡スチロール（トレー以外）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "花火（使用済み）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "可燃ごみ（未使用品は3日間ほど水に浸してからお出し下さい。）"
+  },
+  {
+    "keyword": "歯ブラシ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "刃物",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "厚紙に包んで「キケン」と表示"
+  },
+  {
+    "keyword": "針（在宅医療用の注射針を除く）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "厚紙に包んで「キケン」と表示"
+  },
+  {
+    "keyword": "パンフレット",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ビールびん",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ビデオデッキ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "粗大ごみ（一辺の長さが30センチメートル以下のものについては不燃ごみへ）"
+  },
+  {
+    "keyword": "ビデオテープ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ビニールコート紙",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ビニール袋",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "フィルム",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "封筒",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "窓あき封筒は可燃ごみへ"
+  },
+  {
+    "keyword": "フライパン",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "プラスチック類",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "プリペイドカード",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "フロッピーディスク",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ペットボトル",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "ペットボトル",
+    "notes": "店頭・拠点回収または集積所回収こちらをご確認ください。"
+  },
+  {
+    "keyword": "弁当容器（紙製）",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "包装紙",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ボール紙",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ボールペン（プラスチック製）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "金属製は不燃ごみへ"
+  },
+  {
+    "keyword": "ポリ袋",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "保冷材",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "本",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "枕",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "粗大ごみ（一辺の長さが30センチメートル以下のものは可燃ごみです。）"
+  },
+  {
+    "keyword": "メモ用紙",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "資源"
+  },
+  {
+    "keyword": "やかん",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "不燃ごみ"
+  },
+  {
+    "keyword": "ライター",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使い切ってから別袋に入れ「ライター」と表示"
+  },
+  {
+    "keyword": "ラップ（食品包装用）",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "レジ袋",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "レトルト食品の袋",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "ろう引きダンボール",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  },
+  {
+    "keyword": "割り箸",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "可燃ごみ"
+  }
+]

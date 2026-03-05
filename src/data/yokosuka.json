@@ -1,0 +1,4816 @@
+{
+  "municipalityId": "yokosuka",
+  "municipalityName": "横須賀市",
+  "prefecture": "神奈川県",
+  "lastUpdated": "2026-02-26",
+  "fiscalYear": 2026,
+  "garbageTypes": [
+    {
+      "typeId": "燃せるごみ",
+      "name": "燃せるごみ",
+      "shortName": "燃せるごみ",
+      "color": "#ea3b13",
+      "icon": "燃せるごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "缶-びん-ペットボトル",
+      "name": "缶・びん・ペットボトル",
+      "shortName": "缶・びん・ペットボトル",
+      "color": "#2dc7aa",
+      "icon": "缶-びん-ペットボトル",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "容器包装プラスチック",
+      "name": "容器包装プラスチック",
+      "shortName": "容器包装プラスチック",
+      "color": "#77ae1f",
+      "icon": "容器包装プラスチック",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    },
+    {
+      "typeId": "不燃ごみ",
+      "name": "不燃ごみ",
+      "shortName": "不燃ごみ",
+      "color": "#733b96",
+      "icon": "不燃ごみ",
+      "description": "",
+      "rules": [],
+      "deadline": "朝8:00"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "安針台",
+      "districts": [
+        "安針台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "浦郷町",
+      "districts": [
+        "浦郷町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "3",
+      "areaName": "追浜町",
+      "districts": [
+        "追浜町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "4",
+      "areaName": "追浜東町",
+      "districts": [
+        "追浜東町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "5",
+      "areaName": "追浜本町",
+      "districts": [
+        "追浜本町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "6",
+      "areaName": "追浜南町",
+      "districts": [
+        "追浜南町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "7",
+      "areaName": "湘南鷹取",
+      "districts": [
+        "湘南鷹取"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "8",
+      "areaName": "田浦泉町",
+      "districts": [
+        "田浦泉町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "9",
+      "areaName": "田浦大作町",
+      "districts": [
+        "田浦大作町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "10",
+      "areaName": "田浦町",
+      "districts": [
+        "田浦町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "11",
+      "areaName": "田浦港町",
+      "districts": [
+        "田浦港町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "12",
+      "areaName": "鷹取",
+      "districts": [
+        "鷹取"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "13",
+      "areaName": "長浦町",
+      "districts": [
+        "長浦町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "14",
+      "areaName": "夏島町",
+      "districts": [
+        "夏島町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "15",
+      "areaName": "西逸見町",
+      "districts": [
+        "西逸見町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "16",
+      "areaName": "浜見台",
+      "districts": [
+        "浜見台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "17",
+      "areaName": "東逸見町",
+      "districts": [
+        "東逸見町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "18",
+      "areaName": "船越町",
+      "districts": [
+        "船越町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "19",
+      "areaName": "逸見が丘",
+      "districts": [
+        "逸見が丘"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "20",
+      "areaName": "港が丘",
+      "districts": [
+        "港が丘"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "21",
+      "areaName": "吉倉町",
+      "districts": [
+        "吉倉町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "friday"
+        }
+      }
+    },
+    {
+      "areaId": "22",
+      "areaName": "稲岡町",
+      "districts": [
+        "稲岡町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "23",
+      "areaName": "不入斗町",
+      "districts": [
+        "不入斗町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "24",
+      "areaName": "上町",
+      "districts": [
+        "上町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "25",
+      "areaName": "大滝町",
+      "districts": [
+        "大滝町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "26",
+      "areaName": "小川町",
+      "districts": [
+        "小川町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "27",
+      "areaName": "坂本町",
+      "districts": [
+        "坂本町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "28",
+      "areaName": "佐野町",
+      "districts": [
+        "佐野町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "29",
+      "areaName": "汐入町",
+      "districts": [
+        "汐入町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "30",
+      "areaName": "汐見台",
+      "districts": [
+        "汐見台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "31",
+      "areaName": "田戸台",
+      "districts": [
+        "田戸台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "32",
+      "areaName": "鶴が丘",
+      "districts": [
+        "鶴が丘"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "33",
+      "areaName": "日の出町",
+      "districts": [
+        "日の出町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "34",
+      "areaName": "深田台",
+      "districts": [
+        "深田台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "35",
+      "areaName": "富士見町",
+      "districts": [
+        "富士見町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "36",
+      "areaName": "平成町",
+      "districts": [
+        "平成町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "37",
+      "areaName": "平和台",
+      "districts": [
+        "平和台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "38",
+      "areaName": "本町",
+      "districts": [
+        "本町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "39",
+      "areaName": "望洋台",
+      "districts": [
+        "望洋台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "40",
+      "areaName": "緑が丘",
+      "districts": [
+        "緑が丘"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "41",
+      "areaName": "三春町",
+      "districts": [
+        "三春町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "42",
+      "areaName": "安浦町",
+      "districts": [
+        "安浦町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "43",
+      "areaName": "米が浜通",
+      "districts": [
+        "米が浜通"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "44",
+      "areaName": "若松町",
+      "districts": [
+        "若松町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "monday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "45",
+      "areaName": "阿部倉",
+      "districts": [
+        "阿部倉"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "46",
+      "areaName": "池上",
+      "districts": [
+        "池上"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "47",
+      "areaName": "池田町",
+      "districts": [
+        "池田町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "48",
+      "areaName": "浦賀",
+      "districts": [
+        "浦賀"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "49",
+      "areaName": "浦賀丘",
+      "districts": [
+        "浦賀丘"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "50",
+      "areaName": "浦上台",
+      "districts": [
+        "浦上台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "51",
+      "areaName": "大津町",
+      "districts": [
+        "大津町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "52",
+      "areaName": "大矢部",
+      "districts": [
+        "大矢部"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "53",
+      "areaName": "小原台",
+      "districts": [
+        "小原台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "54",
+      "areaName": "金谷",
+      "districts": [
+        "金谷"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "55",
+      "areaName": "鴨居",
+      "districts": [
+        "鴨居"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "56",
+      "areaName": "衣笠栄町",
+      "districts": [
+        "衣笠栄町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "57",
+      "areaName": "衣笠町",
+      "districts": [
+        "衣笠町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "58",
+      "areaName": "公郷町",
+      "districts": [
+        "公郷町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "59",
+      "areaName": "光風台",
+      "districts": [
+        "光風台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "60",
+      "areaName": "小矢部",
+      "districts": [
+        "小矢部"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "61",
+      "areaName": "桜が丘",
+      "districts": [
+        "桜が丘"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "62",
+      "areaName": "西浦賀",
+      "districts": [
+        "西浦賀"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "63",
+      "areaName": "根岸町",
+      "districts": [
+        "根岸町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "64",
+      "areaName": "走水",
+      "districts": [
+        "走水"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "65",
+      "areaName": "東浦賀",
+      "districts": [
+        "東浦賀"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "66",
+      "areaName": "平作",
+      "districts": [
+        "平作"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "67",
+      "areaName": "二葉",
+      "districts": [
+        "二葉"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "68",
+      "areaName": "舟倉2丁目",
+      "districts": [
+        "舟倉2丁目"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "69",
+      "areaName": "馬堀海岸",
+      "districts": [
+        "馬堀海岸"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "70",
+      "areaName": "馬堀町",
+      "districts": [
+        "馬堀町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "71",
+      "areaName": "南浦賀",
+      "districts": [
+        "南浦賀"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "72",
+      "areaName": "森崎",
+      "districts": [
+        "森崎"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "73",
+      "areaName": "山中町",
+      "districts": [
+        "山中町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "74",
+      "areaName": "吉井",
+      "districts": [
+        "吉井"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "dates": [],
+          "day": "wednesday"
+        }
+      }
+    },
+    {
+      "areaId": "75",
+      "areaName": "秋谷",
+      "districts": [
+        "秋谷"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "76",
+      "areaName": "芦名",
+      "districts": [
+        "芦名"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "77",
+      "areaName": "粟田",
+      "districts": [
+        "粟田"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "78",
+      "areaName": "岩戸",
+      "districts": [
+        "岩戸"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "79",
+      "areaName": "内川",
+      "districts": [
+        "内川"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "80",
+      "areaName": "内川新田",
+      "districts": [
+        "内川新田"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "81",
+      "areaName": "太田和",
+      "districts": [
+        "太田和"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "82",
+      "areaName": "荻野",
+      "districts": [
+        "荻野"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "83",
+      "areaName": "久比里",
+      "districts": [
+        "久比里"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "84",
+      "areaName": "久村",
+      "districts": [
+        "久村"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "85",
+      "areaName": "久里浜",
+      "districts": [
+        "久里浜"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "86",
+      "areaName": "久里浜台",
+      "districts": [
+        "久里浜台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "87",
+      "areaName": "グリーンハイツ",
+      "districts": [
+        "グリーンハイツ"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "88",
+      "areaName": "子安",
+      "districts": [
+        "子安"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "89",
+      "areaName": "佐島",
+      "districts": [
+        "佐島"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "90",
+      "areaName": "佐島の丘",
+      "districts": [
+        "佐島の丘"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "91",
+      "areaName": "佐原",
+      "districts": [
+        "佐原"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "92",
+      "areaName": "湘南国際村",
+      "districts": [
+        "湘南国際村"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "93",
+      "areaName": "神明町",
+      "districts": [
+        "神明町"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "94",
+      "areaName": "須軽谷",
+      "districts": [
+        "須軽谷"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "95",
+      "areaName": "武",
+      "districts": [
+        "武"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "96",
+      "areaName": "津久井",
+      "districts": [
+        "津久井"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "97",
+      "areaName": "長井",
+      "districts": [
+        "長井"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "98",
+      "areaName": "長坂",
+      "districts": [
+        "長坂"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "99",
+      "areaName": "長沢",
+      "districts": [
+        "長沢"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "100",
+      "areaName": "長瀬",
+      "districts": [
+        "長瀬"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "101",
+      "areaName": "野比",
+      "districts": [
+        "野比"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "102",
+      "areaName": "ハイランド",
+      "districts": [
+        "ハイランド"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "103",
+      "areaName": "林",
+      "districts": [
+        "林"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "104",
+      "areaName": "光の丘",
+      "districts": [
+        "光の丘"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "105",
+      "areaName": "舟倉(舟倉2丁目以外)",
+      "districts": [
+        "舟倉(舟倉2丁目以外)"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "106",
+      "areaName": "御幸浜",
+      "districts": [
+        "御幸浜"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "107",
+      "areaName": "山科台",
+      "districts": [
+        "山科台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    },
+    {
+      "areaId": "108",
+      "areaName": "若宮台",
+      "districts": [
+        "若宮台"
+      ],
+      "schedule": {
+        "燃せるごみ": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "缶-びん-ペットボトル": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "容器包装プラスチック": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "不燃ごみ": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "dates": [],
+          "day": "monday"
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始は収集がありません",
+      "収集日当日の朝までに指定場所へ出してください"
+    ]
+  },
+  "overrides": [],
+  "collectionDeadline": "朝8:00"
+}

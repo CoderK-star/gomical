@@ -1,0 +1,4828 @@
+[
+  {
+    "keyword": "アイスノン（保冷まくら）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "アイロン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "アイロン台",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "アコーディオンカーテン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "雨戸・網戸（サッシ）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "編み機",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "網戸の網 プラスチック製",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "網戸の網 ステンレス製",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "アルカリ電池",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "有害ごみ",
+    "notes": "資源ごみとは袋を分けて、ポリ袋に入れて「有害」と書いて出す。（収集日は「資源ごみ」と同じ日）"
+  },
+  {
+    "keyword": "アルバム",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。"
+  },
+  {
+    "keyword": "アルミ缶",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "アルミコーティング袋（菓子・レトルト食品用）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "中身を残さないように、きれいにして透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "アルミはくの皿など",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "アルミホイル（食品用）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "テレビアンテナ 室外用",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「資源ごみ」"
+  },
+  {
+    "keyword": "テレビアンテナ 衛星放送用",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "テレビアンテナ 室内用",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "アンプ",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "イオン発生器",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "衣装箱 金属製",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "衣装箱 プラスチック製",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "衣装箱 紙製",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "解体して、ひもで縛ってまとめて出す。"
+  },
+  {
+    "keyword": "いす",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のもので、木製は「可燃ごみ」、プラスチック製は「その他プラ」、金属製は「不燃ごみ」"
+  },
+  {
+    "keyword": "板 トタン",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "板 プラスチック製",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上1m未満のものは「不燃ごみ」、1m以上は「大型ごみ」"
+  },
+  {
+    "keyword": "板 木製",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "30cm未満に切って、ひもで縛ってまとめて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "一輪車",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "一斗缶",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "内容物を取り除いて、ごみであることがわかるような表示等をして出す。中身が残っているものは、市では収集できません。（処分業者等へ処分を依頼）"
+  },
+  {
+    "keyword": "犬の首輪",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "医薬品（固形のもの）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "衣類",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。リサイクルプラザでの引き取りもあり。フリーマーケットの活用も検討してみてください。"
+  },
+  {
+    "keyword": "入れ歯",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "印鑑 木製",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "印鑑 プラスチック製",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "印鑑 木製・プラスチック製以外",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "インクカートリッジ（パソコン・ワープロ用）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "インクリボン（パソコン・ワープロ用）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ウィンドファン",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "エアコン（クーラー）でないことをメーカー等にご確認ください。"
+  },
+  {
+    "keyword": "植木の土",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "少量ずつ、丈夫なポリ袋に入れて出す。量が多い場合は、小分けにして、1回に2、3袋ずつ出してください。"
+  },
+  {
+    "keyword": "植木鉢 素焼き",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "植木鉢 プラスチック製",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ウエットスーツ",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、おりたたんで「不燃ごみ」"
+  },
+  {
+    "keyword": "浮き輪",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "臼",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "うちわ 木製",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "うちわ プラスチック製",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "乳母車",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ウレタンマット 寝具",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ウレタンマット 浴室用",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上1m未満のものは「不燃ごみ」、1m以上は「大型ごみ」"
+  },
+  {
+    "keyword": "枝（庭木の剪定ごみ）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50cm程度に切って、ひもで束ねて少しずつ（1回の収集日に2束程度）出す。太さは概ね生木5cm以下、乾燥木10cm以下まで一度に多量に出されると、市では収集できません。（自己搬入または許可業者へ依頼）"
+  },
+  {
+    "keyword": "枝切りバサミ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃を新聞紙などで包んで、丈夫な袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "絵の具のチューブ（金属製）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "中身を使いきって、丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "MD（ミニディスク）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "LED電球・LED蛍光管",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "エレクトーン",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "延長コード（室内用）",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "鉛筆・鉛筆の芯",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "オアシス（生花用吸水スポンジ）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "応接セット",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "置物 木製",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "置物 陶磁器製",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "置物 プラスチック製",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "押しピン",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包んで、丈夫なポリ袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "押しピンのプラスチックケース",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "お玉（しゃくし） 金属製",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "お玉（しゃくし） プラスチック製",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "オーブントースター",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "オーブンレンジ",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "おまる（便器）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "おもちゃ 金属製",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のもので、子供が乗り、または入る構造のものは「大型ごみ」"
+  },
+  {
+    "keyword": "おもちゃ 木製",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のもので、子供が乗り、または入る構造のものは「大型ごみ」"
+  },
+  {
+    "keyword": "おもちゃ プラスチック製",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のもので、子供が乗り、または入る構造のものは「大型ごみ」"
+  },
+  {
+    "keyword": "おもちゃ その他（複合素材）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のもので、子供が乗り、または入る構造のものは「大型ごみ」"
+  },
+  {
+    "keyword": "オルガン",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "オルゴール",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "温度計 水銀使用のもの",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "有害ごみ",
+    "notes": "資源ごみとは袋を分けて、ポリ袋に入れて「有害」と書いて出す。（収集日は「資源ごみ」と同じ日）"
+  },
+  {
+    "keyword": "温度計 その他（電子式等）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "貝殻・かき殻",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "懐中電灯 金属製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。乾電池は「有害ごみ」"
+  },
+  {
+    "keyword": "懐中電灯 プラスチック製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。乾電池は「有害ごみ」"
+  },
+  {
+    "keyword": "カイロ 使い捨て",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使用してから、丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "カイロ 金属製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "鏡",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "家具（たんす・ベッド・ソファー等大型家具）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "学習机",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "額縁 木製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは、枠は「可燃ごみ」、ガラスは「資源ごみ」"
+  },
+  {
+    "keyword": "額縁 プラスチック製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは、枠は「その他プラ」、ガラスは「資源ごみ」"
+  },
+  {
+    "keyword": "掛け布団",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "加湿器",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "菓子箱",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "折り畳み、ひもで縛って出す。"
+  },
+  {
+    "keyword": "菓子袋 プラスチック製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "菓子袋 紙製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ガスコンロ・ガステーブル",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「資源ごみ」"
+  },
+  {
+    "keyword": "ガスボンベ 家庭用スプレー式",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "必ず使い切るか、火の気のない風通しの良い屋外で中身を空にして、丈夫な袋に入れて出す（中身が空にできない場合は製造メーカーに相談する。）。"
+  },
+  {
+    "keyword": "カセット(卓上)コンロ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "カセットテープ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "カセットテープのケース",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "カセットテープレコーダー",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "楽器 金属製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "楽器 木製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "楽器 プラスチック製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "楽器 その他(複合素材)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "カット練習用マネキン（家庭用）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "かっぱ(雨がっぱ)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "カップ麺の容器・外装フィルム",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。紙製の容器は「可燃ごみ」"
+  },
+  {
+    "keyword": "カーテン(アコーディオンカーテンを除く)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "カーテンレール 金属製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。長さが1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "カーテンレール 木製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "30cm未満に切って、ひもで束ねて出すか、丈夫な紙袋またはポリ袋に入れて出す。長さが1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "カード類(バスカード・テレホンカード等)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "カーペット",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "30cm未満に切って小さくした場合は「その他プラ」"
+  },
+  {
+    "keyword": "カーボン紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "かま(鎌)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃を新聞紙などで包んで、丈夫な袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "汚物は便所に捨て、丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "かみそりの刃カッターナイフの刃",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包んで、丈夫なポリ袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "紙粘土",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。その他の粘土は「不燃ごみ」"
+  },
+  {
+    "keyword": "紙パック",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "紙パック(裏にアルミ箔が貼ってあるもの)",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "かばん(バッグ) 布製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。スーツケースは「大型ごみ」"
+  },
+  {
+    "keyword": "かばん(バッグ) ビニール製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。スーツケースは「大型ごみ」"
+  },
+  {
+    "keyword": "かばん(バッグ) 皮革製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。スーツケースは「大型ごみ」"
+  },
+  {
+    "keyword": "カメラ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "カラオケの演奏装置",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "ガラス 耐熱ガラス",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」耐熱ガラスは、溶解温度が違うため、他のガラス類といっしょにリサイクルができません。"
+  },
+  {
+    "keyword": "ガラス その他のガラス",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」耐熱ガラスは、溶解温度が違うため、他のガラス類といっしょにリサイクルができません。"
+  },
+  {
+    "keyword": "瓦",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "少量ずつ(2、3枚程度)、丈夫なポリ袋に入れて出す。一度に多量に出されると、市では収集できません。(自己搬入または許可業者へ依頼)"
+  },
+  {
+    "keyword": "缶 空き缶",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "換気扇",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "換気扇のフィルター プラスチック製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "換気扇のフィルター 金属製",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "感光式・感熱式の記録紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "乾燥剤",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。ピアノに入っているような多量のものは、回収業者に引き取ってもらってください。"
+  },
+  {
+    "keyword": "木くず(庭木せん定木)",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50cm程度に切って、ひもで束ねて少しずつ出す。(1回の収集日に2束程度ずつ)一度に多量に出されると、市では収集できません。(自己搬入または許可業者へ依頼)"
+  },
+  {
+    "keyword": "ギター",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "キッチンスケール(はかり) 金属製",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "キッチンスケール(はかり) プラスチック製",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "キッチンマット",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "キッチンワゴン",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "木槌(さい槌)",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "キーボード 楽器",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "キーボード パソコン用",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "脚立(はしご)",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "救急箱 木製",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "救急箱 プラスチック製",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "急須（陶磁器製）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "牛乳パック",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。できるだけスーパーなどの店頭回収を利用してください。"
+  },
+  {
+    "keyword": "鏡台",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "空気清浄機",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "空気つぎ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "釘",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包んで、丈夫なポリ袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "草(花殻)",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "草刈り機（家庭用） 電動",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "くすり(家庭用医薬品)",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "串 木製",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "先をつぶして、丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "串 金属製",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "靴 運動靴・革靴・スリッパ・サンダル等",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "靴 安全靴・スキー靴等",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "くつした",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "クッション 中身がそば殻・羽毛等",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "クッション 中身がプラスチックチップやスポンジ等",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "クーラーボックス ボックス・バッグ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "クーラーボックス 発泡スチロール製",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "クリーニングの袋",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "車いす",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "クレヨン",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "グローブ・ミット(野球用)",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "くわ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃は丈夫な袋に入れて出す。木製の柄は50cm程度に切断して、可燃ごみで出す。長さが1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "毛(髪の毛)",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "蛍光管",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "有害ごみ",
+    "notes": "資源ごみとは袋を分けて、ポリ袋に入れて「有害」と書いて出す。（収集日は「資源ごみ」と同じ日）"
+  },
+  {
+    "keyword": "蛍光ペン",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "携帯電話",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。できるだけ販売店に引き取ってもらってください。"
+  },
+  {
+    "keyword": "毛糸",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "化粧品の容器 乳白色びんとマニキュアのびん",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "化粧品の容器 乳白色びんとマニキュアのびん以外のびん",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。平成23年度から分別区分が「資源ごみ」になりました。"
+  },
+  {
+    "keyword": "化粧品の容器 プラスチック製",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ケース(CD・MD・カセットテープ・ビデオテープ用)",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "下駄",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "げた箱",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "血圧計（電動）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ゲーム機",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ゲームソフト プラスチック製",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ゲームソフト CD・DVD",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "玄関マット プラスチック製",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "玄関マット 金属製",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "剣山 プラスチック製",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "剣山 金属製",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "小石",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "少量ずつ、丈夫なポリ袋に入れて出す。量が多い場合は、小分けにして、1回に2、3袋ずつ出してください。"
+  },
+  {
+    "keyword": "工具(家庭用) 金属製",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "工具(家庭用) 刃物等",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃を新聞紙などで包んで、丈夫な袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "工具(家庭用) 電動",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ござ 畳表等",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50cm程度に切って、丸めて(折り畳んで)ひもで束ねて出す。最長の辺の長さが1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ござ ビニール製",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。最長の辺の長さが30cm以上1m未満のものは「不燃ごみ」、1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "こたつ(こたつ板を含む)",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "コード(電気コード)",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "コードリール",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "コーヒーメーカー",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "コピー機（家庭用）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "業務用のように大きなものは、メーカー等にご相談ください。"
+  },
+  {
+    "keyword": "ごみ箱（プラスチック製）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「その他プラ」"
+  },
+  {
+    "keyword": "ゴム製品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ゴムホース",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "米びつ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "ゴルフ用品 クラブ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ゴルフ用品 バッグ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ゴルフ用品 ボール",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "コンパクトディスク(CD)プレーヤー",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "座いす",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "サイクリング機",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "サインペン",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "酒の容器 ガラス製",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。できるだけ販売店に引き取ってもらってください。"
+  },
+  {
+    "keyword": "酒の容器 紙製",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "酒の容器 ペットボトル",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "ペットボトル",
+    "notes": "キャップとラベルをはずして中を洗い、軽くつぶして、透明又は半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "座卓",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "サッシ(雨戸・網戸)",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "雑誌",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。"
+  },
+  {
+    "keyword": "座布団 綿入り",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "座布団 スポンジ・ウレタン等",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "サーフボード",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "皿 陶磁器製",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "皿 耐熱ガラス製",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。耐熱ガラスは、溶解温度が違うため、他のガラス類といっしょにリサイクルができません。"
+  },
+  {
+    "keyword": "皿 プラスチック製",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "皿 紙製・木製",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "サンダル",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "三輪自転車",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "三輪車",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "シーツ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "CD(コンパクトディスク) CD",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "CD(コンパクトディスク) ケース",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "敷きパッド",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "30cm未満に切れるものは「その他プラ」、最長の辺の長さまたは最大径が30cm以上1m未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "磁石",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "七輪・火鉢",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "湿布",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "自転車",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "収集を予約される場合、収集運搬手数料は大人用も子供用も一律です。"
+  },
+  {
+    "keyword": "自転車用品 タイヤ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "自転車用品 チューブ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "自転車(バイク、車)のカバー",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、折りたたんで、ひもなどで縛って「不燃ごみ」"
+  },
+  {
+    "keyword": "写真(ポラロイド写真)",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "シャープペンシル 金属製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "シャープペンシル プラスチック製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ジャッキ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ジューサー",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "じゅうたん",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "30cm未満に切って小さくした場合、化繊は「その他プラ」、天然素材は「可燃ごみ」"
+  },
+  {
+    "keyword": "ジュースの容器 金属製・ガラス製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ジュースの容器 ペットボトル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "ペットボトル",
+    "notes": "キャップとラベルをはずして中を洗い、軽くつぶして、透明又は半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "ジュースの容器 紙製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "シュレッダーにかけた紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "瞬間湯沸機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "消火器 使用済",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "将棋盤・碁盤 木製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のもの、盤の厚さが10cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "将棋盤・碁盤 プラスチック製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "定規 木製・竹製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "定規 プラスチック製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "定規 金属製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "障子",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "浄水器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "照明器具",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "しょうゆの容器 ガラス製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "しょうゆの容器 ペットボトル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "ペットボトル",
+    "notes": "キャップとラベルをはずして中を洗い、軽くつぶして、透明または半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "しょうゆの容器 紙製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "食用油(てんぷら油)",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "布や新聞紙などにしみ込ませて出す。使用済みの天ぷら油は、回収可能な店等に持参すると、リサイクルされます。"
+  },
+  {
+    "keyword": "食用油の容器 金属製・ガラス製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "食用油の容器 プラスチック製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "キャップとラベルをはずして中を洗い、透明または半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "除湿機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "食器洗機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "食器乾燥機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "食器棚",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "人工透析の容器(家庭用)",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "中を洗ってきれいにして、紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "新聞紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。"
+  },
+  {
+    "keyword": "吸い殻",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "水槽 ガラス製",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「資源ごみ」"
+  },
+  {
+    "keyword": "水槽 プラスチック製",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「その他プラ」"
+  },
+  {
+    "keyword": "水筒 プラスチック製",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "水筒 金属製",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "炊飯器(保温ジャー)",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "スキー板・ストック",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "スキーブーツ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "スコップ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃は丈夫な袋に入れて出す。木製の柄は50cm程度に切断して、可燃ごみで出す。長さが1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "すだれ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さが1m未満の場合、天然素材は「可燃ごみ」、ビニール製は「不燃ごみ」"
+  },
+  {
+    "keyword": "スチール缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "スーツケース",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ステレオ(スピーカー)",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "ストッキング",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ストーブ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "危険なので、必ず灯油を抜いて出してください。"
+  },
+  {
+    "keyword": "ストロー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "すのこ 木製",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「可燃ごみ」"
+  },
+  {
+    "keyword": "すのこ プラスチック製",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「その他プラ」"
+  },
+  {
+    "keyword": "スノーボード",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "スピーカー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "必ず使い切るか、火の気のない風通しの良い屋外で中身を空にして、丈夫な袋に入れて出す。中身が残っているものは、市では収集できません。（メーカーに相談するか、処分業者等へ処分を依頼）"
+  },
+  {
+    "keyword": "すべり台",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "スポンジ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ズボンプレッサー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "スリッパ(サンダル)",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "セーター",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "せともの",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "セラミックヒーター",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "洗剤の容器 プラスチック製",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "キャップとラベルをはずして中を洗い、透明または半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "洗剤の容器 紙製",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "扇風機",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "洗面器 金属製",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "洗面器 プラスチック製",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "洗面台",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "造花",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "双眼鏡",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "掃除機",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ぞうり",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ソースの容器 ガラス製",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ソースの容器 プラスチック製",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "キャップとラベルをはずして中を洗い、透明または半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "ソースの容器 紙製",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ソファー",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "そろばん 木製",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "そろばん プラスチック製",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "体温計 水銀式",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "有害ごみ",
+    "notes": "資源ごみとは袋を分けて、ポリ袋に入れて「有害」と書いて出す。（収集日は「資源ごみ」と同じ日）"
+  },
+  {
+    "keyword": "体温計 デジタル式",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "耐熱ガラス",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。耐熱ガラスは、溶解温度が違うため、他のガラス類といっしょにリサイクルができません。"
+  },
+  {
+    "keyword": "タイヤチェーン 鉄製(ケースなし)",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "タイヤチェーン ゴム・プラスチック製",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "タイヤチェーン ケース入り",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "タイル",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。一度に多量に出されると、市では収集できません。(自己搬入または許可業者へ依頼)"
+  },
+  {
+    "keyword": "ダイレクトメール(ちらし)",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。住所、氏名などの個人情報のある部分は、切り取って「可燃ごみ」"
+  },
+  {
+    "keyword": "タオルケット",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "卓上(カセット)コンロ",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "竹串",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "先をつぶして、丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "畳",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "建具",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "タッパーウェア",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "卵の殻",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "卵のパック",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "玉ねぎの網・ネット",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "タライ 鉄製",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「資源ごみ」"
+  },
+  {
+    "keyword": "タライ プラスチック製",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「その他プラ」"
+  },
+  {
+    "keyword": "たわし 天然素材",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "たわし 金属製",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。汚れが付着して、きれいにできないものは「不燃ごみ」"
+  },
+  {
+    "keyword": "たわし プラスチック製",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "たんす",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ダンボール",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。"
+  },
+  {
+    "keyword": "茶碗 陶磁器製",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "茶碗 プラスチック製",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "茶碗 木製",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "チューナー",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "チューブ容器(プラ製)(食料品や練り歯磨き用等)",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "中身を使いきって、付着物を取り除いて、透明または半透明のポリ袋に入れて出す。金属製チューブは「不燃ごみ」、プラスチック製のフタは外して「リサイクルプラ」"
+  },
+  {
+    "keyword": "チラシ",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。"
+  },
+  {
+    "keyword": "使い捨てカイロ",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "使用してから、丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "使い捨てライター",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "必ず中身を空にして（使いきるか、または火の気のない風通しの良い屋外でガスを抜くなどして）丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "机(テーブル)",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "土（植木の土）",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "少量ずつ、丈夫なポリ袋に入れて出す。量が多い場合は、小分けにして、1回に2、3袋ずつ出してください。"
+  },
+  {
+    "keyword": "釣り糸",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "釣竿 竹製",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50cm程度に切って、ひもで束ねて出すか、丈夫な紙袋またはポリ袋に入れて出す。長さが1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "釣竿 その他",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "50cm程度に切って、ひもで束ねて出すか、丈夫なポリ袋に入れて出す。長さが1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ティッシュペーパー",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ティッシュボックス(紙製空き箱)",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "取り出し口のフィルムをはずして、箱をたたみ、ひもで縛ってまとめて出す。取り出し口のフィルムは「リサイクルプラ」"
+  },
+  {
+    "keyword": "DVD（ディスク）",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "DVDプレーヤー・DVDレコーダー",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "鉄アレイ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "手袋 ゴム・ビニール製",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "手袋 毛糸・木綿",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "テーブル(机)",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "テレビ台",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "電気あんか",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "電気カーペット",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "電気カミソリ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "電気コード",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "電気コードリール",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "電気コンロ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "電気掃除機",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "電気ポット",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "電気毛布",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "電球",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "破裂すると危ないので、新聞紙などに包み、丈夫なポリ袋に入れて出す。蛍光式（水銀を使用したもの）は「有害ごみ」"
+  },
+  {
+    "keyword": "電子オルガン",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "電子体温計(デジタル式)",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "電子レンジ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "電磁誘導加熱式調理器(電磁調理器)",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "電卓",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "電池 充電式電池",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "有害ごみ",
+    "notes": "資源ごみとは袋を分けて、ポリ袋に入れて「有害」と書いて出す。（収集日は「資源ごみ」と同じ日）"
+  },
+  {
+    "keyword": "電池 ボタン型電池",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "有害ごみ",
+    "notes": "資源ごみとは袋を分けて、ポリ袋に入れて「有害」と書いて出す。（収集日は「資源ごみ」と同じ日）"
+  },
+  {
+    "keyword": "電池 その他",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "有害ごみ",
+    "notes": "資源ごみとは袋を分けて、ポリ袋に入れて「有害」と書いて出す。（収集日は「資源ごみ」と同じ日）"
+  },
+  {
+    "keyword": "電動アシスト自転車",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "バッテリーは市では収集できませんので、取り外して、販売店などの店頭回収を利用してください。"
+  },
+  {
+    "keyword": "電話機(FAXを含む)",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "電話台",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "電話帳",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。NTTに問い合わせて引き取ってもらうこともできます。"
+  },
+  {
+    "keyword": "陶磁器",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。食料品用・飲料用以外のもので、最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "灯油用ポリタンク",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「その他プラ」"
+  },
+  {
+    "keyword": "時計 腕時計",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "時計 目覚まし時計",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "時計 柱時計",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "トースター(パン焼き)（金属製）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "トースター(パン焼き)（複合素材）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "トタン",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "土鍋",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ドライヤー",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "塗料缶 中身なし",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "トレイ 発泡トレイ(肉・魚・野菜等のトレイ)",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "きれいに洗うなどして、透明または半透明のポリ袋に入れて出す。できるだけスーパーなどの店頭回収を利用してください。"
+  },
+  {
+    "keyword": "トレイ プラスチック製",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "トレイ 金属製",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "トロフィー",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ナイフ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃を新聞紙などで包んで、丈夫な袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "長靴",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "なべ 金属製",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "なべ 陶磁器・ホーロー製",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "なべ 耐熱ガラス製",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。耐熱ガラスは、溶解温度が違うため、他のガラス類といっしょにリサイクルができません。"
+  },
+  {
+    "keyword": "波板 トタン",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "ひもで縛ってまとめるか。丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "波板 プラスチック製",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上1m未満のものは「不燃ごみ」、1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "人形 プラスチック製",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "人形 木製・紙製",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "人形 その他",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ぬいぐるみ 電子機器を内蔵しているもの",
+    "aliases": [
+      "ぬ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは、切って小さくして出してください。小さくできない場合は「大型ごみ」"
+  },
+  {
+    "keyword": "ぬいぐるみ 電子機器を内蔵していないもの",
+    "aliases": [
+      "ぬ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは、切って小さくして出してください。小さくできない場合は「大型ごみ」"
+  },
+  {
+    "keyword": "布類(じゅうたん・布団・毛布を除く)",
+    "aliases": [
+      "ぬ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ネクタイ",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ネット(果物・野菜用)",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "粘土",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。紙粘土は「可燃ごみ」"
+  },
+  {
+    "keyword": "のこぎり",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃を新聞紙などで包んで、丈夫な袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "ノート",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。"
+  },
+  {
+    "keyword": "灰",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "水でぬらして、丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "バインダー 金具がはずせないもの",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "バインダー プラスチック製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。金具は「不燃ごみ」"
+  },
+  {
+    "keyword": "バインダー 紙製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。金具は「不燃ごみ」"
+  },
+  {
+    "keyword": "はがき",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "はかり(キッチンスケール) 金属製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "はかり(キッチンスケール) プラスチック製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "白熱灯(電球)",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "破裂すると危ないので、新聞紙などに包み、丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "バケツ 金属製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "バケツ プラスチック製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "はさみ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃を新聞紙などで包んで、丈夫な袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "はしご",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "バスポンプ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "バスマット",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "バット 木製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "バット 金属製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "発泡スチロール 商品を保護するもの",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "発泡スチロール 商品を保護するもの以外",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "花殻(草)",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "花火",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "水でぬらして、丈夫な紙袋またはポリ袋に入れて少しずつ出す。"
+  },
+  {
+    "keyword": "歯ブラシ プラスチック製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "歯ブラシ 電動",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ハーモニカ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "パラボラアンテナ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "針",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "新聞紙などに包んで、丈夫なポリ袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "ハンカチ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ハンガー 木製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ハンガー プラスチック製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ハンガー 金属製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ハンドバッグ 布製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ハンドバッグ ビニール製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ハンドバッグ 皮革製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ハンドミキサー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ピアニカ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ピクニックシート(レジャーシート)",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "ヒーター(セラミック)",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ビデオカメラ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ビデオテープ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ビデオテープのケース",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ビデオデッキ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "ビニールクロス",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "ビニールシート",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "ビニールホース",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "火鉢・七輪",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ビールびん",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。できるだけ販売店に返却してください。"
+  },
+  {
+    "keyword": "ビールびんのフタ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "びん(ガラス) 化粧品用（乳白色びんとマニキュアのびん）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "びん(ガラス) 化粧品用（乳白色びんとマニキュアのびん以外のびん）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。平成23年度から分別区分が「資源ごみ」になりました。"
+  },
+  {
+    "keyword": "びん(ガラス) 薬・飲料・食料品等用",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。ビールびんや一升びんなどのくり返し使用できるびんは、できるだけ販売店に返却してください。"
+  },
+  {
+    "keyword": "ファクシミリ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "ファンヒーター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "フィルム(ネガ)",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ふとん",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ふとんの中綿",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。量が多い場合は、小分けにして、1回に2、3袋ずつ出してください。"
+  },
+  {
+    "keyword": "ふとん乾燥機",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "フライパン",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ブラインド",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ぶら下がり式健康器具",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "プラモデル",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ブランコ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "プランター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "プリンター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "古着(布類)",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ブルーシート（ビニールシート）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "ブルーレイディスク",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ブルーレイディスクプレーヤー・レコーダー",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "ブロック(コンクリート)",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "少量ずつ(2個程度)、丈夫なポリ袋に入れて出す。一度に多量に出されると、市では収集できません。(自己搬入または許可業者へ依頼)"
+  },
+  {
+    "keyword": "フロッピーディスク",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "風呂の手桶 木製",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "風呂の手桶 プラスチック製",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "風呂のふた(プラスチック製)",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "巻いた時の最長の辺の長さが1m未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "風呂の浴槽",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ふん(ペットのふん)",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "少量ずつ新聞紙などに包んで、丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "噴霧器",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ベッド(本体)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ベッドのマットレス",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ペットボトル 飲料・酒類・みりん類・酢類・しょうゆ類・めんつゆ・ノンオイルドレッシング用",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "ペットボトル",
+    "notes": "キャップとラベルをはずして中を洗い、軽くつぶして、透明または半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "ペットボトル 食用油・ソース・ノンオイルでないドレッシング・洗剤用など",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "キャップとラベルをはずして中を洗い、透明または半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "ペットのふん、砂",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "少量ずつ新聞紙などに包んで、丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ペット用のカゴ・小屋",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ベビーカー",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ベビーバス",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ベビーベット",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ヘルスメーター(体重計)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ベルト(皮製・合皮製)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ヘルメット",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ペンキの缶 中身なし",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "便器(おまる)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "便座カバー(布製)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ペンチ",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "弁当箱 プラスチック製",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "弁当箱 アルミ製",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "弁当ガラ(プラスチック製容器)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "きれいに洗うなどして、透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ほうき 木製・竹製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "30cm未満に切って、ひもで束ねて出すか、丈夫な紙袋またはポリ袋に入れて出す。長さが1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ほうき プラスチック製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、ひもで束ねて出すか、透明または半透明のポリ袋に入れて出す。長さが30cm以上1m未満のものは「不燃ごみ」、1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "帽子",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "包丁",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "刃を新聞紙などで包んで、丈夫な袋に入れて「危険」と書いて出す。"
+  },
+  {
+    "keyword": "ボウリングボール",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ボウル(食器用) プラスチック製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ボウル(食器用) 金属製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ボストンバッグ 皮革製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ボストンバッグ ビニール製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ボタン プラスチック製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ボタン 金属製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ホチキス(ステープラー)",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ホチキス(ステープラー)の針",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ポット(湯沸・保温用)",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ホットプレート",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "哺乳びん 耐熱ガラス製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "哺乳びん プラスチック製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ポラロイド写真",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ポリタンク 灯油用",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「その他プラ」"
+  },
+  {
+    "keyword": "ポリタンク 飲料用",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ポリバケツ",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ボール 皮製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ボール ゴム製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ボール紙",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめて出す。"
+  },
+  {
+    "keyword": "ボールペン",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "保冷剤・保冷まくら(アイスノン)",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "本棚(本箱)",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "マグネット(磁石)",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "まくら 中身がそば殻・羽毛等",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "まくら 中身がプラスチックチップ・スポンジ等",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "マジック(フェルトペン)",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "マッサージ器",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "マッサージチェア",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "マッチ",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "水でぬらして、丈夫な紙袋またはポリ袋に入れて少しずつ出す。"
+  },
+  {
+    "keyword": "マットレス ベッドのマットレス",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "マットレス 布団の下に敷くもの",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "30cm未満に切れるものは「その他プラ」、最長の辺の長さまたは最大径が30cm以上1m未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "マットレス キッチン用・浴室用・玄関用",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "まな板 木製",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "まな板 プラスチック製",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "魔法瓶",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "マヨネーズのチューブ",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "中身を使いきって、付着物を取り除いて、透明または半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "万年筆",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "みかん等が入った網・ネット",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ミキサー",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ミシン",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "ミニディスク(MD)レコーダー",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "みりんの容器 ガラス製",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "中を洗ってきれいにして、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "みりんの容器 ペットボトル",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "ペットボトル",
+    "notes": "キャップとラベルをはずして中を洗い、軽くつぶして、透明又は半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "みりんの容器 紙製",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "麦わら帽子",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "虫めがね",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "むしろ",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "50cm程度に切って、丸めて(折り畳んで)ひもで縛って出す。最長の辺の長さまたは最大径が1m以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "名刺",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "紙の封筒に入れるなどして出す。"
+  },
+  {
+    "keyword": "めがね(眼鏡)",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "目薬の携帯ケース",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "目薬の容器(ボトル)",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "中身を使いきって、透明または半透明のポリ袋に入れて出す。キャップとラベルはリサイクルプラ(紙ラベルは可燃ごみ)"
+  },
+  {
+    "keyword": "綿棒",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "毛布",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "物置",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ものさし 木製",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ものさし プラスチック製",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ものさし 金属製",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "物干し竿",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "物干し台",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "ブロック部分のみの場合はごみであることがわかるような表示等をして「不燃ごみ」"
+  },
+  {
+    "keyword": "やかん",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "ヤッケ(ウインドブレーカー)",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "ひもで縛ってまとめるか、丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "湯沸器",
+    "aliases": [
+      "ゆ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "浴槽",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ヨーグルトのカップ 紙製",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ヨーグルトのカップ プラスチック製",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "きれいに洗うなどして、透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ヨーグルトのふた アルミ製",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ヨーグルトのふた プラスチック製",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "きれいに洗うなどして、透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ライター(使い捨てライター)",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "必ず中身を空にして（使いきるか、または火の気のない風通しの良い屋外でガスを抜くなどして）丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ラケット テニス用バトミントン用",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ラケット 卓球用",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ラジオ",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。最長の辺の長さまたは最大径が30cm以上のものは「大型ごみ」"
+  },
+  {
+    "keyword": "ラジカセ",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "ラップ 家庭で使用したもの",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ラップ 商品の包装に使われていたもの",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ランチジャー",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ランドセル",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ランニング機",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "リール(釣り道具)",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "りんご等を包む発泡スチロール製ネット",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "レインコート",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "レコード盤",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "レコードプレーヤー",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "レジ袋",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "レジャーシート(ピクニックシート)",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "レトルトパック(カレー等)",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "リサイクルプラ",
+    "notes": "中身を残さないように、きれいにして透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "れんが",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "少量ずつ(2、3個程度)、丈夫なポリ袋に入れて出す。一度に多量に出されると、市では収集できません。(自己搬入または許可業者へ依頼)"
+  },
+  {
+    "keyword": "レンジ(ガス・電子)",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "レンジフード プラスチック製",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "レンジフード 金属製",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "レンズ",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "不燃ごみ",
+    "notes": "丈夫なポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ろうそく",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ロッカー（家庭用）",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ロープ ビニール製ナイロン製",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "30cm未満に切って、透明または半透明のポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "ロープ 綿・麻",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "30cm未満に切って、紙袋またはポリ袋に入れて出す。切断が難しい場合は、ひもなどで束ねて「不燃ごみ」"
+  },
+  {
+    "keyword": "ワイシャツ",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "輪ゴム",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "その他プラ",
+    "notes": "透明または半透明のポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "ワゴン(家具)",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "綿",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "綿入りはんてん",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "和だんす",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "大型ごみ"
+  },
+  {
+    "keyword": "ワードプロセッサー(ワープロ)",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "大型ごみ",
+    "notes": "最長の辺の長さまたは最大径が30cm未満のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "和服",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "資源ごみ",
+    "notes": "丈夫な袋に入れて出す。"
+  },
+  {
+    "keyword": "わら製品(民芸品等)",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  },
+  {
+    "keyword": "割り箸",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "可燃ごみ",
+    "notes": "丈夫な紙袋またはポリ袋に入れて出す。"
+  }
+]

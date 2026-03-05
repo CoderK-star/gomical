@@ -1,0 +1,2051 @@
+{
+  "municipalityId": "nagareyama",
+  "municipalityName": "流山市",
+  "prefecture": "千葉県",
+  "lastUpdated": "2025-03-01",
+  "fiscalYear": 2025,
+  "collectionDeadline": "朝8:30",
+  "garbageTypes": [
+    {
+      "typeId": "burnable",
+      "name": "燃やすごみ",
+      "shortName": "燃やす",
+      "color": "#FF8A80",
+      "icon": "burnable",
+      "description": "生ごみ、紙くず、衣類、革製品など",
+      "rules": [
+        "流山市家庭用指定ごみ袋（黒字）に入れて出す",
+        "生ごみは水切りをする",
+        "朝8時30分までに集積所へ"
+      ],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "plastic",
+      "name": "容器包装プラスチック",
+      "shortName": "プラ",
+      "color": "#FFD180",
+      "icon": "plastic",
+      "description": "プラマークのある容器・包装",
+      "rules": [
+        "流山市家庭用指定ごみ袋（緑字）に入れて出す",
+        "中身を使い切り、軽くすすぐ",
+        "プラマークがないプラスチック製品は燃やさないごみ"
+      ],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "non-burnable",
+      "name": "燃やさないごみ",
+      "shortName": "燃やさない",
+      "color": "#82B1FF",
+      "icon": "non-burnable",
+      "description": "金属、ガラス、陶器、小型家電など",
+      "rules": [
+        "中身の確認できる透明性のある袋に入れて出す",
+        "×と袋に書く"
+      ],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "petbottle",
+      "name": "ペットボトル",
+      "shortName": "ペットボトル",
+      "color": "#B9F6CA",
+      "icon": "petbottle",
+      "description": "PETマークのあるペットボトル",
+      "rules": [
+        "キャップとラベルを外して容器包装プラスチックへ",
+        "中身の確認できる透明性のある袋に入れて出す",
+        "へと袋に書く",
+        "つぶしてもOK"
+      ],
+      "deadline": "朝8:30"
+    },
+    {
+      "typeId": "hazardous",
+      "name": "有害危険ごみ",
+      "shortName": "有害",
+      "color": "#FF80AB",
+      "icon": "hazardous",
+      "description": "蛍光灯、乾電池、刃物類、スプレー缶、ガスライターなど",
+      "rules": [
+        "中身の確認できる透明性のある袋に入れて出す",
+        "キと袋に書く",
+        "品目ごとに袋を分けて出す",
+        "刃物類は「刃物」と書く"
+      ],
+      "deadline": "朝8:30"
+    }
+  ],
+  "areas": [
+    {
+      "areaId": "1",
+      "areaName": "地区1",
+      "districts": [
+        "流山5丁目",
+        "流山6丁目",
+        "流山7丁目",
+        "流山8丁目",
+        "流山9丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "2",
+      "areaName": "地区2",
+      "districts": [
+        "名都借"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "3",
+      "areaName": "地区3",
+      "districts": [
+        "松ヶ丘5丁目",
+        "松ヶ丘6丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "4",
+      "areaName": "地区4",
+      "districts": [
+        "思井",
+        "思井一丁目",
+        "芝崎",
+        "中",
+        "古間木",
+        "宮園1丁目",
+        "宮園2丁目",
+        "宮園3丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "5",
+      "areaName": "地区5",
+      "districts": [
+        "市野谷",
+        "後平井",
+        "野々下1丁目",
+        "前平井"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "6",
+      "areaName": "地区6",
+      "districts": [
+        "西松ヶ丘1丁目",
+        "松ヶ丘3丁目",
+        "松ヶ丘4丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "7",
+      "areaName": "地区7",
+      "districts": [
+        "松ヶ丘1丁目",
+        "松ヶ丘2丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "8",
+      "areaName": "地区8",
+      "districts": [
+        "西平井",
+        "西平井一丁目",
+        "西平井二丁目",
+        "西平井三丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "9",
+      "areaName": "地区9",
+      "districts": [
+        "鰭ヶ崎",
+        "鰭ヶ崎一丁目",
+        "鰭ヶ崎二丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "10",
+      "areaName": "地区10",
+      "districts": [
+        "前ヶ崎",
+        "向小金1丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "11",
+      "areaName": "地区11",
+      "districts": [
+        "向小金2丁目",
+        "向小金3丁目",
+        "向小金4丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "12",
+      "areaName": "地区12",
+      "districts": [
+        "東初石1丁目",
+        "東初石2丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "13",
+      "areaName": "地区13",
+      "districts": [
+        "東初石3丁目",
+        "東初石4丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "14",
+      "areaName": "地区14",
+      "districts": [
+        "大字流山",
+        "野々下2丁目",
+        "野々下3丁目",
+        "野々下4丁目",
+        "野々下5丁目",
+        "野々下6丁目",
+        "南流山4丁目",
+        "南流山5丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "15",
+      "areaName": "地区15",
+      "districts": [
+        "木一丁目",
+        "木二丁目",
+        "木三丁目",
+        "南流山7丁目",
+        "南流山8丁目",
+        "南流山9丁目",
+        "南流山10丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "16",
+      "areaName": "地区16",
+      "districts": [
+        "長崎1丁目",
+        "長崎2丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "17",
+      "areaName": "地区17",
+      "districts": [
+        "南流山1丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "18",
+      "areaName": "地区18",
+      "districts": [
+        "大畔",
+        "西初石3丁目",
+        "西初石4丁目",
+        "西初石5丁目",
+        "南流山2丁目",
+        "南流山3丁目",
+        "南流山6丁目",
+        "若葉台"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "19",
+      "areaName": "地区19",
+      "districts": [
+        "駒木"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "20",
+      "areaName": "地区20",
+      "districts": [
+        "青田",
+        "駒木台",
+        "美田"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "22",
+      "areaName": "地区22",
+      "districts": [
+        "上貝塚",
+        "上新宿",
+        "上新宿新田",
+        "北",
+        "桐ヶ谷",
+        "小屋",
+        "下花輪",
+        "谷",
+        "富士見台",
+        "富士見台1丁目",
+        "富士見台2丁目",
+        "南"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "23",
+      "areaName": "地区23",
+      "districts": [
+        "江戸川台西1丁目",
+        "江戸川台西2丁目",
+        "江戸川台西3丁目",
+        "江戸川台西4丁目",
+        "西初石1丁目",
+        "西初石2丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "24",
+      "areaName": "地区24",
+      "districts": [
+        "江戸川台東1丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "25",
+      "areaName": "地区25",
+      "districts": [
+        "中野久木"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "26",
+      "areaName": "地区26",
+      "districts": [
+        "加",
+        "加一丁目",
+        "加二丁目",
+        "加三丁目",
+        "加四丁目",
+        "加五丁目",
+        "加六丁目",
+        "三輪野山",
+        "三輪野山一丁目",
+        "三輪野山二丁目",
+        "三輪野山三丁目",
+        "三輪野山四丁目",
+        "三輪野山五丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "27",
+      "areaName": "地区27",
+      "districts": [
+        "江戸川台東2丁目",
+        "江戸川台東3丁目",
+        "江戸川台東4丁目",
+        "流山1丁目",
+        "流山2丁目",
+        "流山3丁目",
+        "流山4丁目",
+        "平和台1丁目",
+        "平和台2丁目",
+        "平和台3丁目",
+        "平和台4丁目",
+        "平和台5丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "monday",
+            "thursday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "28",
+      "areaName": "地区28",
+      "districts": [
+        "西深井",
+        "平方",
+        "平方村新田",
+        "深井新田",
+        "美原1丁目",
+        "美原2丁目",
+        "美原3丁目",
+        "美原4丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "29",
+      "areaName": "地区29",
+      "districts": [
+        "こうのす台",
+        "東深井B"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "30",
+      "areaName": "地区30",
+      "districts": [
+        "東深井A"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "31",
+      "areaName": "地区31",
+      "districts": [
+        "おおたかの森北一丁目",
+        "おおたかの森北二丁目",
+        "おおたかの森北三丁目",
+        "おおたかの森東一丁目",
+        "おおたかの森東二丁目",
+        "おおたかの森東三丁目",
+        "おおたかの森東四丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "tuesday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "tuesday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "32",
+      "areaName": "地区32",
+      "districts": [
+        "おおたかの森西一丁目",
+        "おおたかの森西二丁目",
+        "おおたかの森南二丁目",
+        "おおたかの森南三丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "33",
+      "areaName": "地区33",
+      "districts": [
+        "おおたかの森西三丁目",
+        "おおたかの森西四丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "monday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "monday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "monday",
+          "dates": []
+        }
+      }
+    },
+    {
+      "areaId": "34",
+      "areaName": "地区34",
+      "districts": [
+        "おおたかの森南一丁目"
+      ],
+      "schedule": {
+        "burnable": {
+          "pattern": "weekday",
+          "days": [
+            "tuesday",
+            "friday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "plastic": {
+          "pattern": "weekday",
+          "days": [
+            "wednesday"
+          ],
+          "ordinalWeeks": [],
+          "dates": []
+        },
+        "non-burnable": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "petbottle": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            2,
+            4
+          ],
+          "day": "friday",
+          "dates": []
+        },
+        "hazardous": {
+          "pattern": "monthly",
+          "days": [],
+          "ordinalWeeks": [
+            1,
+            3
+          ],
+          "day": "friday",
+          "dates": []
+        }
+      }
+    }
+  ],
+  "specialRules": {
+    "holidayPolicy": "skip",
+    "yearEndYearStart": {
+      "noCollectionStart": "12-29",
+      "noCollectionEnd": "01-03"
+    },
+    "notes": [
+      "年末年始（12/29〜1/3）は収集がありません",
+      "収集日当日の朝8時30分までに集積所へ出してください"
+    ]
+  },
+  "overrides": []
+}

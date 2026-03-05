@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native builds
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+android/
+ios/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 5374.jp raw cache
+.5374-cache/
+
+# Build
+*.tsbuildinfo
+
+# EAS
+google-services.json
+GoogleService-Info.plist
+
+# Temp
+tmpclaude-*
+
+# Knowledge base (generated for Dify upload)
+knowledge-base/
+
+# Lock file (regenerated on install)
+package-lock.json

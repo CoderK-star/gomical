@@ -1,0 +1,8511 @@
+[
+  {
+    "keyword": "アイアン（ゴルフクラブ）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "アイスピック",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないよう刃先を紙でくるむ"
+  },
+  {
+    "keyword": "空き箱",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "たたんでひもで束ねる"
+  },
+  {
+    "keyword": "空き箱",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "たたんでひもで束ねる"
+  },
+  {
+    "keyword": "足踏み健康器具",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ペダル部分以外がほぼ金属製のもの"
+  },
+  {
+    "keyword": "アタッシュケース",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "本体周りがアルミ等の金属製のもの"
+  },
+  {
+    "keyword": "厚紙",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "圧力釜",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "圧力鍋",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "油こし容器",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "油（食用油）の容器",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "油撥ね防止ガード",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ガスレンジの周りを覆うもので汚れていても可"
+  },
+  {
+    "keyword": "雨戸（1?2枚）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自己施工のもの"
+  },
+  {
+    "keyword": "網",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "編み機",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "網戸",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "網つきでも網なしでもよい"
+  },
+  {
+    "keyword": "網戸（網部分のみ）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "編み針・編み棒",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "アルミガード",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ガスレンジの周りを覆うもので汚れていても可"
+  },
+  {
+    "keyword": "アルミサッシ",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "アルミ製品",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "アルミホイール（車部品）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "アルミホイル",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "汚れたものは「可燃ごみ」"
+  },
+  {
+    "keyword": "泡立て器",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "安全剃刀",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙に包んで中身を明記する"
+  },
+  {
+    "keyword": "安全ピン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙に包んで中身を明記する"
+  },
+  {
+    "keyword": "アンテナ（室内用、室外用、BS用とも）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "衣装ケース",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "紙製",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "椅子",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "座るところは金属でなくても可"
+  },
+  {
+    "keyword": "一輪車（スポーツ用）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "「資源品」と表示する"
+  },
+  {
+    "keyword": "一輪車（作業用；通称ねこ車）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "「資源品」と表示する"
+  },
+  {
+    "keyword": "一斗缶（18リットル缶）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "糸のこぎり",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "井戸用ポンプ",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "鋳物鍋",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ウインドブレーカー",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "植木ばさみ（柄つき）",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ウォーキングマシン",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "3メートル、30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "ウッド（ゴルフクラブ）",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "乳母車",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "エアロバイク",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "枝切りはさみ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先をくるむ"
+  },
+  {
+    "keyword": "絵の具チューブ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中身を使い切る"
+  },
+  {
+    "keyword": "エプロン",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "オイルヒーター",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "オイルは抜けないのでそのままで可"
+  },
+  {
+    "keyword": "オーブン（電気、ガスとも）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "オーブントースター",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "オーブンレンジ",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "桶",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "おたま",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "柄が金属でなくても可"
+  },
+  {
+    "keyword": "帯",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "おまる",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中は水洗いする"
+  },
+  {
+    "keyword": "おもちゃ",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "折込広告",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "折りたたみ椅子（金属製）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "おろしがね",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "温水器",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "カーテン",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "カーテンレール",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "懐中電灯",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "電池は抜いて「有害ごみ」で出す"
+  },
+  {
+    "keyword": "カイロ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "鍵",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "家具",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "菓子箱（紙製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ビニールコーティングされているものは「可燃ごみ」"
+  },
+  {
+    "keyword": "ガスオーブン",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ガスコンロ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ガス炊飯器",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ガスストーブ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ガステーブル",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ガスボンベ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "使い切り穴を開ける"
+  },
+  {
+    "keyword": "ガスレンジ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ガスレンジカバー",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ガスレンジの周りを覆うもので汚れていても可"
+  },
+  {
+    "keyword": "カセットコンロ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ボンベ缶は外し穴を開けて「資源品（空きカン類）」"
+  },
+  {
+    "keyword": "片手鍋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "カタログ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ビニールコーティングされているものは「可燃ごみ」"
+  },
+  {
+    "keyword": "カッターナイフ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "カッターナイフの刃",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙に包んで中味を明記する"
+  },
+  {
+    "keyword": "金あみ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "長さ3メートル以下にたたむ"
+  },
+  {
+    "keyword": "かなづち",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "画鋲",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙に包んで中身を明記する"
+  },
+  {
+    "keyword": "花瓶",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "鎌",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないよう刃先をくるむ"
+  },
+  {
+    "keyword": "紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "剃刀",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないよう刃先をくるむ"
+  },
+  {
+    "keyword": "剃刀の刃",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙に包んで中身を明記する"
+  },
+  {
+    "keyword": "紙筒",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "手でつぶせるもの"
+  },
+  {
+    "keyword": "紙パック",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "開いて洗って乾かす/雨天時は出さない"
+  },
+  {
+    "keyword": "ビニールコーティングされていないもの",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "プラスチックの柄は「不燃ごみ」/ざつ紙回収用の袋として使用可"
+  },
+  {
+    "keyword": "画用紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "使用済みのものは「可燃ごみ」"
+  },
+  {
+    "keyword": "ガラス戸",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "カレンダー",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "コーティング紙は「可燃ごみ」"
+  },
+  {
+    "keyword": "カレンダー",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "プラスチック製は「不燃ごみ」"
+  },
+  {
+    "keyword": "革衣類（衣服・手袋・帽子）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "革手袋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "カン",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "軽くすすぐ"
+  },
+  {
+    "keyword": "カン",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "使い切り穴を開ける"
+  },
+  {
+    "keyword": "カン",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ペンキは出し切る/少量の付着は可"
+  },
+  {
+    "keyword": "カン",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "缶切り",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "キーホルダー",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "着物",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "脚立",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "キャリア",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "車のルーフなどに装着するもの"
+  },
+  {
+    "keyword": "キャンプ用品",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "急須",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "給湯器",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自己施工のみ/30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "牛乳パック",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "開いて洗って乾かす/雨天時は出さない"
+  },
+  {
+    "keyword": "錐（きり）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように先を紙でくるむ"
+  },
+  {
+    "keyword": "金庫",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "金属バット",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "空気入れ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "釘",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙に包んで中身を明記する"
+  },
+  {
+    "keyword": "釘抜き",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "草刈り鎌",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "草刈り機",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "燃料は抜くか使い切る"
+  },
+  {
+    "keyword": "くさり",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "串",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないよう刃先をくるむ"
+  },
+  {
+    "keyword": "薬のビン",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "果物ナイフ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "靴下",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "熊手",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "クリップ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙に包んで中身を明記する"
+  },
+  {
+    "keyword": "車椅子",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "「資源品」と表示する"
+  },
+  {
+    "keyword": "鍬",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "毛糸の衣類（セーター、マフラー）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ケージ（金属製）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "毛皮の衣類（コート、マフラー、帽子、手袋）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "健康器具（ウォーキングマシン）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "剣山",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように紙でくるむ"
+  },
+  {
+    "keyword": "こいのぼり",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "長さ3メートル以下にする"
+  },
+  {
+    "keyword": "コイン・古銭",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "工具類（ドライバー、スパナ等）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "広告紙",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "新聞紙と一緒に束ねてよい"
+  },
+  {
+    "keyword": "こし器（金属製）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "米びつ（レンジ台つきのものを含む）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "米袋",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中の米は出し切る/同じような紙袋でも中身が石灰や肥料なら「可燃ごみ」"
+  },
+  {
+    "keyword": "コルク抜き",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように先を紙でくるむ"
+  },
+  {
+    "keyword": "ゴルフ用品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "コンロ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "サッシ",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "雑誌",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "殺虫剤の缶（金属製）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "使い切って穴を開ける"
+  },
+  {
+    "keyword": "殺虫剤の缶（金属製）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "使い切ること"
+  },
+  {
+    "keyword": "さびた缶",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "さびた金属",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "サマーベッド",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "パイプとシートは分けなくてよい"
+  },
+  {
+    "keyword": "皿",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ざる",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "三角コーナー",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "三脚",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "三輪車",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "「資源品」と表示する"
+  },
+  {
+    "keyword": "シーツ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "磁石",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "下着",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "支柱",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "辞典、辞書",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ビニールカバーは外す"
+  },
+  {
+    "keyword": "自転車",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "サドルに「資源品」と表示する"
+  },
+  {
+    "keyword": "自転車",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "サドルに「資源品」と表示する/バッテリーは外して「有害ごみ」（車のバッテリーのように液が入っているものは不可）"
+  },
+  {
+    "keyword": "自転車部品",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "スチール製かご、リム、スポーク等"
+  },
+  {
+    "keyword": "芝刈り機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "芝刈り機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "燃料は抜くか使い切る"
+  },
+  {
+    "keyword": "事務用椅子",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "座るところは金属でなくても可"
+  },
+  {
+    "keyword": "シャベル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ジャンパー",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "収納ケース",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "収納ケース",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "瞬間湯沸器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "定規",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "焼却炉",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "3メートル、30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "浄水器のカートリッジ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "カートリッジの本体周りがアルミ製であること"
+  },
+  {
+    "keyword": "じょうろ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "しょう油のプラスチックボトル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "食器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "新聞紙（折込広告を含む）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "水筒",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "炊飯器",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "炊飯器の内釜",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スカーフ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スキー用品",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スクリーン",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ケースや軸が金属製のもの"
+  },
+  {
+    "keyword": "スケール",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スケッチブック",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "使用済みのものは「可燃ごみ」"
+  },
+  {
+    "keyword": "スコップ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スチール机",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "3メートル、30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "スチール物置",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "3メートル、30キログラムを超えるものは資源組合で直接回収?電話番号04-7131-1040"
+  },
+  {
+    "keyword": "ストーブ（電気、ガス、石油とも）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "灯油は抜くか使い切る/乾電池は取り外して「有害ごみ」"
+  },
+  {
+    "keyword": "ストッキング",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スパナ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "スプーン",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "柄が金属でなくても可"
+  },
+  {
+    "keyword": "スプレー缶",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "使い切り穴を開ける"
+  },
+  {
+    "keyword": "滑り台",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "3メートル、30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "製図台",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "3メートル、30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "石油缶",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中は空にする"
+  },
+  {
+    "keyword": "石油ストーブ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "灯油は抜くか使い切る"
+  },
+  {
+    "keyword": "石油ファンヒーター",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "灯油は抜くか使い切る"
+  },
+  {
+    "keyword": "接着剤の容器",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中は空にする"
+  },
+  {
+    "keyword": "洗濯物干し",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "枠に洗濯ばさみの付いているもの"
+  },
+  {
+    "keyword": "栓抜き",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "洗面器",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "台車",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "「資源品」と表示する"
+  },
+  {
+    "keyword": "体重計",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "外側がプラスチックでも可"
+  },
+  {
+    "keyword": "タイプライター",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "バラバラにならないようにする"
+  },
+  {
+    "keyword": "タイヤチェーン",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "タイヤホイール",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "個人で取り替えた場合に限る"
+  },
+  {
+    "keyword": "タオル＝タオルケット",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ペット使用のものは「ペット使用」と表示し「不燃ごみ」"
+  },
+  {
+    "keyword": "高枝バサミ",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないよう刃先を紙で包む"
+  },
+  {
+    "keyword": "足袋",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "玉じゃくし",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "柄が金属でなくても可"
+  },
+  {
+    "keyword": "たらい",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "たんぜん",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ダンベル",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "段ボール",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "中華なべ",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "チューブ製容器（金属製）",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中身を使い切る"
+  },
+  {
+    "keyword": "彫刻刀",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "ちらし（新聞折込）",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "机",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "3メートル、30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "机",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "木製で1辺1.2メートル未満なら「不燃ごみ」"
+  },
+  {
+    "keyword": "爪きり",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "テーブルクロス",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "鉄アレイ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "テニス用品",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "手袋",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "テフロン加工の鍋",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "電気ストーブ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "電気ヒーター",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "電磁調理器",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "電子レンジ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "耐熱ガラスやセラミック製の皿は「不燃ごみ」"
+  },
+  {
+    "keyword": "電子レンジ台",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "電動自転車",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "サドルに「資源品」と表示する/バッテリーは外して「有害ごみ」（車のバッテリーのように液が入っているものは不可）"
+  },
+  {
+    "keyword": "電話帳",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "またはＮＴＴが引き取り"
+  },
+  {
+    "keyword": "ドアノブ",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "トイレットペーパーの芯",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "トースター",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ドライバー（工具）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ドライバー（ゴルフクラブ）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ドラム缶",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自宅で使用していたものに限る"
+  },
+  {
+    "keyword": "トランポリン（家庭用遊具）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "フレームが金属製のもの"
+  },
+  {
+    "keyword": "ドリンク剤のびん",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ドレッシングの容器",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中を軽くすすぐ"
+  },
+  {
+    "keyword": "ドレッシングの容器",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中を軽くすすぐ"
+  },
+  {
+    "keyword": "とんかち",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ナイフ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないよう刃先をくるむ"
+  },
+  {
+    "keyword": "鍋（テフロン加工、ホウロウ鍋含む）",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "波板",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "長さ3メートル以下にする"
+  },
+  {
+    "keyword": "ネクタイ",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "農機具類",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "農機具類",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "ノート",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "針金でらせん状に綴じたものも可"
+  },
+  {
+    "keyword": "のこぎり（糸のこぎりを含む）",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "飲み薬のビン",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ハーモニカ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "バーベキューセット",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "パイプ椅子",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "クッション部はそのままでよい"
+  },
+  {
+    "keyword": "パイプベッド",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "2つ折タイプであればスプリングなしマットレスや板が外せなくてもそのままで可"
+  },
+  {
+    "keyword": "はがき",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "バケツ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "箱",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "たたんでひもで束ねる"
+  },
+  {
+    "keyword": "箱",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "たたんでひもで束ねる"
+  },
+  {
+    "keyword": "はさみ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないよう刃先を紙でくるむ"
+  },
+  {
+    "keyword": "はしご",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "バスタオル",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "パソコンチェア",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "座るところは金属でなくても可"
+  },
+  {
+    "keyword": "パソコンデスク",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "木製で1辺1.2メートル未満なら「不燃ごみ」"
+  },
+  {
+    "keyword": "パター（ゴルフクラブ）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "バターナイフ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "柄は金属でなくても可"
+  },
+  {
+    "keyword": "バット",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "花ばさみ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "歯磨きチューブ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中身を使い切る"
+  },
+  {
+    "keyword": "刃物",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "針",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "紙に包んで中味を明記する"
+  },
+  {
+    "keyword": "針金",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ビニールコーティングされていても可"
+  },
+  {
+    "keyword": "針金ハンガー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ビニールコーティングされていても可/空カン回収袋には入れない"
+  },
+  {
+    "keyword": "バルサン（殺虫剤）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中身を使い切る"
+  },
+  {
+    "keyword": "ハンガー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ビニールコーティングされていても可/空カン回収袋には入れない"
+  },
+  {
+    "keyword": "ハンカチ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "バンパー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "個人で取り替えたもののみ"
+  },
+  {
+    "keyword": "ハンマー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ＢＳアンテナ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ひげそり",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないよう刃先をくるむ"
+  },
+  {
+    "keyword": "百科事典",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ビン",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "割れていても可/中はきれいにする"
+  },
+  {
+    "keyword": "ビン",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "割れていても可/中はきれいにする"
+  },
+  {
+    "keyword": "ビンのふた",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "便箋",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ファンヒーター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "灯油は抜くか使い切る/乾電池は取り外して「有害ごみ」"
+  },
+  {
+    "keyword": "封筒",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "窓空き封筒のセロファンははがすはがせなければ「可燃ごみ」"
+  },
+  {
+    "keyword": "風鈴",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "フォーク",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "布団カバー",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "布団袋",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "フライ返し",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "柄が金属でなくても可"
+  },
+  {
+    "keyword": "フライパン",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "テフロン加工のものも可"
+  },
+  {
+    "keyword": "ブラインド",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "糸はそのままでよい"
+  },
+  {
+    "keyword": "ぶら下がり健康器",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ブランコ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ブリキ製品（板、おもちゃなど）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "風呂敷",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "風呂用品",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "ブロンズ像",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "文鎮",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ベッド",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "2つ折タイプであればスプリングなしマットレスや板が外せなくてもそのままで可"
+  },
+  {
+    "keyword": "PETボトル(ペットボトル)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "マークのあるもののみ"
+  },
+  {
+    "keyword": "ベビー椅子",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "座るところは金属でなくても可"
+  },
+  {
+    "keyword": "ベビーカー",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ヘルスメーター",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "外側がプラスチックでも可"
+  },
+  {
+    "keyword": "ペンキの缶",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "中味を出し切る/少量の付着は可"
+  },
+  {
+    "keyword": "ベンチ",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "3メートル、30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "ペンチ",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "弁当箱",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ボアシーツ",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ホイル（アルミ箔）（きれいなもの）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "汚れたものは「可燃ごみ」"
+  },
+  {
+    "keyword": "ホイール（車用）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "帽子",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "革製",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "包装紙",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "金・銀紙は「可燃ごみ」"
+  },
+  {
+    "keyword": "包丁",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "危なくないように刃先を紙でくるむ"
+  },
+  {
+    "keyword": "ボウル",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ポータブルミシン",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "プラスチック製のカバーは「不燃ごみ」"
+  },
+  {
+    "keyword": "ボール紙",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ホウロウ鍋",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ホッチキス",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ポテトチップスの容器（紙筒で底が金属）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "本（単行本、文庫本とも）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "本棚",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ポンプ(井戸用等金属製）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "ボンベ缶（カセットコンロ用）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "使い切って穴を開ける"
+  },
+  {
+    "keyword": "マイク",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "乾電池は取り外して「有害ごみ」"
+  },
+  {
+    "keyword": "マグネット",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "窓枠",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "マフラー（えりまき）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ミシン",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "プラスチック製のカバー（ふた）は「不燃ごみ」"
+  },
+  {
+    "keyword": "水着",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "水切りかご",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ミニカー",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ムートン",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "虫かご",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "蒸し器",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "名刺",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "メモ用紙",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "毛布",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ペットが使用したものは「ペット使用」と表示し「不燃ごみ」"
+  },
+  {
+    "keyword": "物置（金属製）",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "できるだけ解体する/3メートル、30キログラムを超えるものは資源組合で直接回収電話番号04-7131-1040"
+  },
+  {
+    "keyword": "物干し竿",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "長さ3メートル以下にする"
+  },
+  {
+    "keyword": "やかん",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "浴衣",
+    "aliases": [
+      "ゆ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "湯たんぽ",
+    "aliases": [
+      "ゆ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ユニフォーム",
+    "aliases": [
+      "ゆ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "湯沸し器",
+    "aliases": [
+      "ゆ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "浴槽",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "30キログラムを超えるものは資源組合で直接回収?電話番号04-7131-1040"
+  },
+  {
+    "keyword": "リール",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "リヤカー",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "「資源品」と表示する"
+  },
+  {
+    "keyword": "ルームランナー",
+    "aliases": [
+      "る"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "レインコート",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "レース（テーブルクロス、カーテン等）",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "レコードジャケット",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "ビニールコーティングされてるものは「可燃ごみ」"
+  },
+  {
+    "keyword": "レザーの衣類",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "レザーコート",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "レザージャケット",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "レザーパンツ",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "レシート",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "感熱紙は「可燃ごみ」"
+  },
+  {
+    "keyword": "レンジ台",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "和紙",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "資源",
+    "notes": "糸の入っていないもの"
+  },
+  {
+    "keyword": "和服",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "ワンカップ酒のビン",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "資源"
+  },
+  {
+    "keyword": "アイロン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "本体が金属製のものは「資源品（金属類）」"
+  },
+  {
+    "keyword": "アイロン台",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "空き箱",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上は「粗大ごみ」"
+  },
+  {
+    "keyword": "アコーディオンカーテン",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "その他の材質",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "アダプター",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "油絵",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "雨合羽（ビニール製）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "雨戸（1?2枚）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1.8メートル×0.9メートル程度の大きさで自己施工のもの"
+  },
+  {
+    "keyword": "網",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "網戸",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "網つきでも網なしでもよい／1.8メートル×0.9メートルの大きさまで可"
+  },
+  {
+    "keyword": "網戸（網部分のみ）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "編み針・編み棒",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "アルバム",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "アルミサッシ",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "ガラス付アルミ枠",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "泡立て器",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "あんか",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "安全剃刀",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "アンテナケーブル",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "アンプ",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "いぐさ",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "畳おもてのようなもの"
+  },
+  {
+    "keyword": "衣装ケース",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "衣装ケース",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "板",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にする"
+  },
+  {
+    "keyword": "板ガラス",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "ガラス面の対角線をガムテープ等で×に貼る"
+  },
+  {
+    "keyword": "犬小屋（プラスチック製、木製とも）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "衣類カバー",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "入れ歯",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "インクカートリッジ",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ電器店の回収箱へ"
+  },
+  {
+    "keyword": "インクリボン（プリンタ用）",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ電器店の回収箱へ"
+  },
+  {
+    "keyword": "インターホン",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "美容師の練習用マネキン",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "植木",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "植木鉢",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ウエストポーチ",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ウエットスーツ",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "浮き輪",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ウッドカーペット",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "まるめず1.2メートル未満に折りたたむ"
+  },
+  {
+    "keyword": "腕時計",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "乳母車",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "梅酒ビン",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自家製の梅酒を作るための広口ビン"
+  },
+  {
+    "keyword": "ウレタン",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ウレタンマット",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "カバーはあってもなくてもよい"
+  },
+  {
+    "keyword": "運動靴",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "映写機",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ＡＶ機器",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "メートルＯ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "メートルＤ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "メートルＤプレーヤー",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ＬＤ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ＬＤプレーヤー",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "エレキギター",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "延長コード",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "鉛筆削り器",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "電動でも手動でも小型でもすべて"
+  },
+  {
+    "keyword": "オーディオ機器（プレーヤー、スピーカー等）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "桶",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "おたま",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "落ち葉",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "おひつ",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "オペラグラス",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "おまる",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "中は水洗いする"
+  },
+  {
+    "keyword": "おもちゃ",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "おろしがね",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "温度計",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "赤い液体は油のため処理に影響なし"
+  },
+  {
+    "keyword": "カーテンレール",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1.2メートル未満に折るか切る"
+  },
+  {
+    "keyword": "カード",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "磁気部分にはさみを入れる"
+  },
+  {
+    "keyword": "カーナビ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "カーペット（電気カーペットを含む）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "カーボンヒーター",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "懐中電灯",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "電池は抜いて「有害ごみ」で出す"
+  },
+  {
+    "keyword": "鏡",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "大きいものは鏡面の対角線をガムテープ等で×に貼る"
+  },
+  {
+    "keyword": "家具",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "角材",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1メートル未満なら太さ10センチメートル程度のものまで出せる"
+  },
+  {
+    "keyword": "学習机のたな",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満のもの"
+  },
+  {
+    "keyword": "額縁",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "木製でガラスがなく指定ごみ袋に入る大きさなら「可燃ごみ」"
+  },
+  {
+    "keyword": "掛け軸",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "紙だけなら「可燃ごみ」"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "骨だけであれば「資源品（金属類）」"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "加湿器",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "フィルターも「不燃ごみ」"
+  },
+  {
+    "keyword": "果実酒ビン",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "カセットデッキ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "カッターナイフ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "合羽（ビニール製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "門松",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満のもの"
+  },
+  {
+    "keyword": "カバー（ナイロンシート状のもの）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "鞄",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "花瓶",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "壁紙（ビニールクロス）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ/レジ袋で5袋程度までは排出可/それ以上は北部クリーンセンターに直接搬入"
+  },
+  {
+    "keyword": "剃刀",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "剃刀",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "紙筒",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "指定袋に入らないもの"
+  },
+  {
+    "keyword": "かめのこたわし",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "カメラ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "カメラネガフィルム",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "カメラフィルム（現像前・現像後とも）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "蚊帳",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "カラーボックス",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ分解する"
+  },
+  {
+    "keyword": "カラスネット",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ガラス（板ガラス、ガラス製品）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "ガラス面の対角線をガムテープ等で×に貼る"
+  },
+  {
+    "keyword": "ガラス製品",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ガラステーブル",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "ガラス戸",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ガラス戸",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "枯れ葉",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "革靴",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "革製品（衣服・手袋・帽子以外）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "換気扇",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "換気扇フィルター",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "油がついて汚れていても可"
+  },
+  {
+    "keyword": "乾燥機",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "乾燥機",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "キーボード（楽器）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "キーボード（パソコンの付属品）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "キーホルダー",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "着せ替え人形",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ギター",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "木づち",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "キッチンマット",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "木の枝",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "木箱",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "脚立",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1.2メートル未満にする"
+  },
+  {
+    "keyword": "キャッシュカード",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "磁気部分にはさみを入れる"
+  },
+  {
+    "keyword": "キャンバス（油絵）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "キャンプ用品",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "テントや車などの横に張る日除け"
+  },
+  {
+    "keyword": "キャンプ用品",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "天板がプラ製・木製のものは「不燃ごみ」/天板を含むすべてがアルミ製なら「資源品（金属類）」"
+  },
+  {
+    "keyword": "キャンプ用品",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "金属製のパイプ部分は「資源品（金属類）」"
+  },
+  {
+    "keyword": "キャンプ用品",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "キャンプ用品",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "燃料は抜くか使い切る"
+  },
+  {
+    "keyword": "急須",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "鏡台（鏡部が分離するもの）",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "分離しなければ「粗大ごみ」"
+  },
+  {
+    "keyword": "キルティングマット",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "木枠",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "金魚鉢",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "空気入れ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "空気清浄機",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "クーラーボックス",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "草",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ乾かす"
+  },
+  {
+    "keyword": "くさり",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "櫛",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "薬のビン",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "口紅ケース",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "靴",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "クッション(綿以外）",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "中身が綿なら「粗大ごみ（座布団）」"
+  },
+  {
+    "keyword": "熊手",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "クリアファイル",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "クリスタルガラス",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "クリスマスツリー",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1.2メートル未満にする"
+  },
+  {
+    "keyword": "車のシートカバー",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "クレジットカード",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "磁気部分にはさみを入れる"
+  },
+  {
+    "keyword": "グローブ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "グローランプ",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "携帯テレビ（液晶）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "携帯電話",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ解約時に返却する"
+  },
+  {
+    "keyword": "携帯電話（充電器）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ解約時に返却する"
+  },
+  {
+    "keyword": "ケーブル",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゲーム（ボードゲーム等）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゲームカセット",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゲーム機",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "消しゴム",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "化粧品（化粧水などのビン）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "化粧品（口紅ケース）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "化粧品（ファンデーションケース）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "化粧品（マニュキアのビン）",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "下駄",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "下駄箱",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "血圧計",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "玄関マット",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "碁石",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "こいのぼり",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "こいのぼり",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1.2メートル未満にする"
+  },
+  {
+    "keyword": "ゴーグル",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コード",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コーヒーメーカー",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "行李（柳行李など；衣装ケース）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "氷枕",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "五月人形",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ござ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "こたつ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "こたつ敷き",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "コップ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コップ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コネクタ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コピー機",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゴム製品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゴム手袋",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゴムホース",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゴムマット",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コルクボード",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "指定袋に入る大きさならば「可燃ごみ」"
+  },
+  {
+    "keyword": "ゴルフ用品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゴルフ用品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ゴルフ用品",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コンポ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コンポスト",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "コンセント",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "サーフボード",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "座椅子",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "サイドボード",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "座卓",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "サッカーボール",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "サッシ",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "サッシ",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "殺虫剤のビン",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "中は空にする"
+  },
+  {
+    "keyword": "皿",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "皿",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "皿",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ざる",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "三角コーナー",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "三脚",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "サングラス",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "サンダル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "サンバイザー",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "三輪車",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "「不燃ごみ」と表示する"
+  },
+  {
+    "keyword": "飼育小屋",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "CD",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ＣＤケース",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "CDラジカセ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "CDプレーヤー",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "シートカバー（自動車用）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "磁気マットレス",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "磁気布団は「粗大ごみ」"
+  },
+  {
+    "keyword": "七輪",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "自転車部品",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "プラ製かご、サドル、タイヤ等"
+  },
+  {
+    "keyword": "自動車用カバー",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "竹刀",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "事務用椅子木製・プラスチック製",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "シャープペンシル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "シャベル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "しゃもじ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ジューサーミキサー",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "じゅうたん",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "充電器（携帯電話用）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "充電式電池",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "収納ケース",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "シュレッダー（家庭用）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "手動・電動のいずれも"
+  },
+  {
+    "keyword": "背負子（しょいこ）",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "荷物をくくって背負うための木製の枠"
+  },
+  {
+    "keyword": "定規",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "定規",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "将棋盤",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "将棋の駒",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "食卓テーブル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "障子戸",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1.8メートル×0.9メートル程度の大きさで自己施工のもの"
+  },
+  {
+    "keyword": "消臭剤",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "浄水器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "浄水器のカートリッジ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "照明器具",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "蛍光管は取り外して「有害ごみ」"
+  },
+  {
+    "keyword": "じょうろ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "除湿機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "食器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "食器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "食器洗い機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "本体がステンレスなら資源品（金属類)"
+  },
+  {
+    "keyword": "食器乾燥機",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "本体がステンレスなら資源品（金属類)"
+  },
+  {
+    "keyword": "人工芝",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "水槽",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "水中眼鏡",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "水筒",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "炊飯器",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "内釜は「資源品（金属類）」/本体周りがステンレス製なら本体も「資源品（金属類）」"
+  },
+  {
+    "keyword": "スーツケース",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "姿見",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スキー用品",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スキー用品",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スキー用品",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スキャナー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "家庭用に限る"
+  },
+  {
+    "keyword": "スケート靴",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スケートボード",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スケール",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スケール",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スコップ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "硯（すずり）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "すだれ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "スタンド（電気スタンド）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スタンプ台",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ズック靴",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ステレオ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スニーカー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スノーボード",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "すのこ（木製、プラスチック製とも）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スパイクシューズ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スピーカー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スプーン",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スポーツバッグ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スポンジ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ズボンプレッサー",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "スリッパ",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "製氷皿",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "整理ダンス",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "せいろ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "石油ポンプ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "電動式の電池は取り外して「有害ごみ」"
+  },
+  {
+    "keyword": "背広ケース",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "セラミックファンヒーター",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "洗濯機の付属品（プラスチック製）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "洗濯ネット",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "洗濯ばさみ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "洗濯物干し",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "枠に洗濯ばさみの付いているもの"
+  },
+  {
+    "keyword": "剪定材",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "扇風機",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "洗面器",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "造花",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "双眼鏡",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "掃除機",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "草履",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "そり（子供用玩具）",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "体温計",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "台所マット",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ダイニングチェア",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "耐熱ガラス容器",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ダイビング用ウエア",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "タイマー",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "タイヤ",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "タイヤチェーン",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "タイル（自己施工したもの）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "軽トラック1台で運べる程度であれば、事前に北部CCへ電話連絡の上直接搬入可能"
+  },
+  {
+    "keyword": "ダウンジャケット",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "竹ざお",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "竹ぼうき",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "畳おもて",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "脱臭剤",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "タッパー容器",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "縦笛（リコーダー）",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "玉じゃくし",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "樽",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "たわし",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "たんぜん",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ダンベル",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "中に水を充填して使用するもの"
+  },
+  {
+    "keyword": "チャイルドシート",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "茶箱",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "茶碗",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "つえ",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "使い捨てカメラ",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ写真現像取扱店へ"
+  },
+  {
+    "keyword": "机",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "突っ張り棒",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "スチール製なら「資源品（金属類）」"
+  },
+  {
+    "keyword": "つぼ",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "積み木",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "釣竿",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ＤＶＤ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ＤＶＤプレーヤー",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "テープ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ1メートルほどに切って出す"
+  },
+  {
+    "keyword": "テーブル",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "脚の材質は問わない/1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "テーブルクロス",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "手鏡",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "デジタルカメラ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "デスクマット",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "鉄アレイ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "中に水を充填して使用するもの"
+  },
+  {
+    "keyword": "テニス用品",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "テニス用品",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "手袋",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "手袋",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "テレビゲーム機",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "テレビ台",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "天眼鏡",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電気あんか",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電気温水器",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電気カーペット",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "電気剃刀",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電気コード",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電気こたつ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "電気炊飯器",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "内釜は「資源品（金属類）」/本体周りがステンレス製なら本体も「資源品（金属類）」"
+  },
+  {
+    "keyword": "電気スタンド",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電気ポット",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電気毛布",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "電球",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電子体温計",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "水銀体温計は「有害ごみ」"
+  },
+  {
+    "keyword": "天体望遠鏡",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電卓",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "電池",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "テント",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "金属製のパイプ部分は「資源品（金属類）」"
+  },
+  {
+    "keyword": "電話機",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ドア",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工分のみ"
+  },
+  {
+    "keyword": "砥石",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "トイレ用品",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "陶磁器",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "籐製品（ラック、籠、棚など）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "時計",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "戸棚",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "どてら",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "土鍋",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ドライヤー",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "トランク",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "金属製なら「資源品（金属類）」"
+  },
+  {
+    "keyword": "トロフィー",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "長靴",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "流し台",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ/1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "ナビゲーション",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "生ごみ処理機",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "生ごみ処理機",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "鍋つかみ",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "波板",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にする"
+  },
+  {
+    "keyword": "荷造り紐",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ1メートル程度に切る"
+  },
+  {
+    "keyword": "人形",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "人形",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "販売店によっては引き取ることも可"
+  },
+  {
+    "keyword": "人形ケース",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "ガラス面の対角線をガムテープ等で×に貼る"
+  },
+  {
+    "keyword": "ぬいぐるみ",
+    "aliases": [
+      "ぬ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "布製の小さなものは「可燃ごみ」/1辺が1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "ネガフィルム",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ネット",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "寝袋",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "農業用ビニール",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "農薬のビン",
+    "aliases": [
+      "の"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "中は空にする"
+  },
+  {
+    "keyword": "パイプベッド",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にする"
+  },
+  {
+    "keyword": "バインダー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "金具付きの事務用品"
+  },
+  {
+    "keyword": "はかり",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "履物",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "剥製",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "刷毛",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "バケツ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "箱",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "はしご",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "長さ1.2メートル未満にする"
+  },
+  {
+    "keyword": "バスケットボール",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "バスマット",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パソコン",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パソコン",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パソコンカートリッジ（プリンタ用）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パソコンケーブル",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パソコンチェア",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "バッグ（皮製、布製、プラスチック製）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "バット",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "歯ブラシ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パラソル",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パレット（絵画道具）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "バレーボール",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ハロゲンヒーター",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ハンガー",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "はんてん",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パンヤ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "パン焼き器",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "内釜は「資源品（金属類）」、本体周りがステンレス製なら本体も「資源品（金属類）」"
+  },
+  {
+    "keyword": "ピアニカ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ピアノ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」"
+  },
+  {
+    "keyword": "ピアノカバー",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビーズクッション",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ピータイル",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "ビー玉",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビーチサンダル",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビーチボール",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ＰＰバンド",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ1メートルほどに切って出す"
+  },
+  {
+    "keyword": "ひげそり",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ひげそり",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビデオカメラ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビデオデッキ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "雛人形",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "販売店によっては引き取ることも可"
+  },
+  {
+    "keyword": "ビニールカーペット",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "ビニール傘",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "金属製の骨だけなら「資源品（金属類）」"
+  },
+  {
+    "keyword": "ビニールカッパ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビニールサンダル",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビニールシート（レジャーシート、ブルーシート）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビニールテープ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ1メートルほどに切って出す"
+  },
+  {
+    "keyword": "ビニールテーブルクロス",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "ビニール手袋",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビニールハウス",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビニールバッグ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビニール紐",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ1メートルほどに切って出す"
+  },
+  {
+    "keyword": "ビニール風呂敷",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "ビニールホース",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "火鉢",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ひも（すずらんテープ、ＰＰバンド）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビン",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ビン",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自家製の梅酒を作るための広口ビン"
+  },
+  {
+    "keyword": "ファックス（ファクシミリ）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ファンデーションのケース",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ファンヒーター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ファンヒーター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "フィルム",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "フィルム",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "風鈴",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ブースター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "プール（幼児用）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "フォーク",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ふすま",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1.8メートル×0.9メートル程度の大きさで自己施工のもの"
+  },
+  {
+    "keyword": "布団圧縮袋",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "布団乾燥機",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "フライ返し",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ブラインド",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ブラシ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ブラシ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "プラスチック製収納ケース",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "プラモデル",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "フラワーポット",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ブランコ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "分解して1.2メートル未満にする"
+  },
+  {
+    "keyword": "プランター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "プリンター",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "プリンターカートリッジ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ電器店の回収箱へ"
+  },
+  {
+    "keyword": "フロアクッション",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "風呂敷",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "フロッピーディスク",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "フロッピーディスクケース",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "洗面器",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "風呂用品",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "風呂用品",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "文鎮",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ヘアードライヤー",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ベビー椅子",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ベビーカー",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ベビーラック",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ベルト",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ヘルメット",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "便座",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ/洗浄機能付きも可"
+  },
+  {
+    "keyword": "金属製以外",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "弁当箱",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "望遠鏡",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ほうき",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "サンバイザー",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "防虫剤（衣類用）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "包丁とぎ器",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ボウル",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ボウル",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ホース（ゴムホース、ビニールホース）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ポータブルトイレ",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "汚物は処理する"
+  },
+  {
+    "keyword": "ホームベーカリー",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "本体がステンレスのものは「資源品（金属類）」内釜は「資源品（金属類）」"
+  },
+  {
+    "keyword": "ボール（野球、テニス、サッカー）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ボール（卓球、ビーチボール、バレー）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ボールペン",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "木刀",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "歩行器",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ボタン電池",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "充電式電池は水銀なし"
+  },
+  {
+    "keyword": "ポット（魔法瓶、電気ポットとも）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ホットカーペット",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "ホットプレート",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "取り外せるプレートは「資源品（金属類）」"
+  },
+  {
+    "keyword": "ほ乳瓶（プラスチック製、ガラス製とも）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ポリタンク",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ポリバケツ",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ホワイトボード",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "麻雀卓",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル以上のものは「粗大ごみ」/全自動卓でも可"
+  },
+  {
+    "keyword": "麻雀パイ、マット",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "マイク",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "マウス（パソコンの付属品）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "マウスパッド",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "巻きす",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "枕",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "中身（羽毛、綿、そば殻等）の材質は問わない"
+  },
+  {
+    "keyword": "マジックペン",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "マット（布製、ビニール製とも）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "窓枠",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "窓枠",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "自己施工のみ"
+  },
+  {
+    "keyword": "まな板（木製、プラスチック製とも）",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "マニキュアのびん",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "マネキン",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "魔法瓶",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "豆電球",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ミキサー",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ミシン糸",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "糸巻きごと出す場合/糸だけなら「可燃ごみ」"
+  },
+  {
+    "keyword": "ミシンのカバー（ポータブルミシン）",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "水切りかご",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "味噌汁椀",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ミニカー",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ミニコンポ",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "耳掻き",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "無圧ふとん",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "ムートン",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "虫かご",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "虫眼鏡",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "むしろ",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "眼鏡",
+    "aliases": [
+      "め"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "毛布",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "詰め物があるものは資源化できないため"
+  },
+  {
+    "keyword": "毛布",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "木製家具",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "モップ",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "物干し竿",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1.2メートル未満にする"
+  },
+  {
+    "keyword": "薬品のビン",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "やなぎごおり",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "湯たんぽ",
+    "aliases": [
+      "ゆ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "湯のみ茶碗",
+    "aliases": [
+      "ゆ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "洋ダンス",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "よしず",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1辺1.2メートル未満にたたむ"
+  },
+  {
+    "keyword": "ラグマット",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "じゅうたんに似たもの"
+  },
+  {
+    "keyword": "ラジオ",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ラジカセ",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ラジコン",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ラティス",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "1.8メートル×0.9メートル程度の大きさまで可"
+  },
+  {
+    "keyword": "ランドセル",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ランプ",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "リール",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "リカービン",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "リコーダー（縦笛）",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "リモコン",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "乾電池は取り外して「有害ごみ」"
+  },
+  {
+    "keyword": "リュックサック",
+    "aliases": [
+      "り"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ルーズリーフ",
+    "aliases": [
+      "る"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "冷風機",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "レコード",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "レコードジャケットとは分別する"
+  },
+  {
+    "keyword": "レコードプレーヤー",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "レジャーシート",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "レンズ",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ロープ",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ1メートルほどに切って出す"
+  },
+  {
+    "keyword": "ローラースケート",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ロールカーテン",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ワープロ",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "ワープロリボン",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やさないゴミ",
+    "notes": "できるだけ店頭回収へ"
+  },
+  {
+    "keyword": "和ダンス",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "椀、味噌汁椀",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やさないゴミ"
+  },
+  {
+    "keyword": "油（食用油）",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "固めるか布などに染み込ませる"
+  },
+  {
+    "keyword": "油紙",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "木製",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "アルバム",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "写真現像店でもらう紙表紙のもの"
+  },
+  {
+    "keyword": "石",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "糸",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "糸",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "犬の糞",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "遮水を施し紙等でくるむ"
+  },
+  {
+    "keyword": "印鑑",
+    "aliases": [
+      "い"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ウィッグ",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ウエットティッシュ",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "うちわ",
+    "aliases": [
+      "う"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "紙部分が多いため"
+  },
+  {
+    "keyword": "エンジンオイル",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "鉛筆",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "オアシス（吸水フォーム）",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "おむつ",
+    "aliases": [
+      "お"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "汚物は取り除く"
+  },
+  {
+    "keyword": "ガーゼ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "カード",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "カーボン紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "貝殻",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "カイロ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "傘",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ビニールコーティング",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "カセットテープ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "紐で束ねても排出可/ケースに入れたままで可／ケースのみは「不燃ごみ」"
+  },
+  {
+    "keyword": "カップ麺のふた（紙製）",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "カップ麺の容器",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "かつら",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "化繊でも人毛でも"
+  },
+  {
+    "keyword": "紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "紙おむつ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "汚物は取り除く"
+  },
+  {
+    "keyword": "紙コップ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "紙皿",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "紙筒",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "硬くてつぶせないもの"
+  },
+  {
+    "keyword": "紙粘土",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "髪の毛",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "紙パック",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "紙袋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "プラスチックの柄は取って「不燃ごみ」"
+  },
+  {
+    "keyword": "ガムテープ",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "カレー（インスタントカレー）のレトルトパック",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "乾燥剤",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "感熱紙",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "着せ替え人形の服",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "キッチンタオル",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "キッチンペーパー",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "木べら",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "金紙・銀紙",
+    "aliases": [
+      "き"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "串",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "危なくないよう先を折るか包む"
+  },
+  {
+    "keyword": "櫛",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "クレパス＝クレヨン",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "軍手",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "携帯カイロ",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "毛糸玉",
+    "aliases": [
+      "け"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "こけし",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ござ（小さく切ったもの）",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "コップ",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "粉チーズの容器",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "コルク",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "酒パック（中が銀色のもの）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "皿",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "サラダ油",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "固めるかボロ布・紙に吸わせる"
+  },
+  {
+    "keyword": "色紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ジグソーパズル",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "漆器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "しっぷ薬",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "写真",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "しゃもじ",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "砂利",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "シュレッダーくず",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "定規",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "将棋の駒",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "障子紙",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "未使用のものは「資源品（雑誌・ざつ紙類）」"
+  },
+  {
+    "keyword": "食用油",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "固めるかボロ布・紙に吸わせる"
+  },
+  {
+    "keyword": "除湿剤",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "食器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "スケール",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "炭",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "せっけん",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "接着剤",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "固めるかボロ布・紙に吸わせる"
+  },
+  {
+    "keyword": "セメントの粉",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "生ごみ等に混ぜて出す"
+  },
+  {
+    "keyword": "セロテープ",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "洗剤の容器（粉洗剤）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "匂いが残って資源化不適のため"
+  },
+  {
+    "keyword": "扇子",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "雑巾",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "卒業アルバム",
+    "aliases": [
+      "そ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "布張り・ビニールコーティングの表紙が多いため"
+  },
+  {
+    "keyword": "たばこの吸殻",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "卵パック",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ちり紙",
+    "aliases": [
+      "ち"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "使い捨てカイロ",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "爪楊枝",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "積み木",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "釣糸（プラスチック製）",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "定期券",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "できるだけ定期券販売窓口へ返却"
+  },
+  {
+    "keyword": "ティッシュペーパー",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "テープ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "テープ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "テープ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "紐で束ねても排出可/ケースに入れたままで可"
+  },
+  {
+    "keyword": "テープ",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "巻き取り部分が金属なら「資源品（金属類）」"
+  },
+  {
+    "keyword": "テレホンカード",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "天ぷら油",
+    "aliases": [
+      "て"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "固めるか布などに染み込ませる"
+  },
+  {
+    "keyword": "トイレ用品",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "動物の糞",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "遮水を施し紙等でくるむ"
+  },
+  {
+    "keyword": "人形の服",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "布くず",
+    "aliases": [
+      "ぬ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "大きさの目安はハンカチ以下"
+  },
+  {
+    "keyword": "猫砂",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "少量ずつ分けて出す"
+  },
+  {
+    "keyword": "粘土（油粘土、紙粘土）",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "廃油",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "固めるか布などに染み込ませる"
+  },
+  {
+    "keyword": "端切れ布",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "花火",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "必ず水で湿らせてから指定ごみ袋へ"
+  },
+  {
+    "keyword": "半紙",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "未使用のものは「資源品（雑誌・ざつ紙類）」"
+  },
+  {
+    "keyword": "パンの袋の留め具",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ビデオテープ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "紐で束ねても排出可/ケースに入れたままで可"
+  },
+  {
+    "keyword": "ビニールテープ",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ひも（糸をよったもの）",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ファックス用紙（感熱紙）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "風船",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "不織布",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "細かく切ること"
+  },
+  {
+    "keyword": "ふすま紙",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "筆",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "プラスチック製うちわ",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "うちわは「可燃ごみ」に統一"
+  },
+  {
+    "keyword": "プリペイドカード",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "糞（ペットのもの）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "遮水を施し紙等でくるむ"
+  },
+  {
+    "keyword": "ペットの糞",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "遮水を施し紙等でくるむ"
+  },
+  {
+    "keyword": "ペンキ",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "布や紙に染み込ませる"
+  },
+  {
+    "keyword": "便座カバー",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "弁当箱",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "帽子",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "防虫剤（衣類用）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ホッチキスの針",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "多量なら「資源品（金属類）」"
+  },
+  {
+    "keyword": "ポテトチップスの紙筒",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "保冷剤（ゼリータイプ）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "ハードタイプは「不燃ごみ」"
+  },
+  {
+    "keyword": "ボンド（少量）",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "マグネットシート",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "まごの手",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "マッチ",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "必ず水で湿らせてから指定ごみ袋へ"
+  },
+  {
+    "keyword": "味噌汁椀",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "耳掻き",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "麦わら帽子",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "プラスチック製のものは「不燃ごみ」"
+  },
+  {
+    "keyword": "虫かご",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "むしろ（小さく切ったもの）",
+    "aliases": [
+      "む"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "木炭",
+    "aliases": [
+      "も"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "焼き鳥の串",
+    "aliases": [
+      "や"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "危なくないように先を折るか包む"
+  },
+  {
+    "keyword": "楊枝",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ヨーグルト・ヤクルトのふた（アルミ）",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ヨーグルト・ヤクルトのふた（プラスチック製）",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ヨーグルトの容器",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "燃やすゴミ",
+    "notes": "軽くすすぐ"
+  },
+  {
+    "keyword": "ヨーグルトの容器",
+    "aliases": [
+      "よ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ラップの芯",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ラミネート加工の紙",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "レトルトパック（カレー、中華材料など）",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "煉炭",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ろうびき紙",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ろうそく",
+    "aliases": [
+      "ろ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "輪ゴム",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "綿",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "ワッペン",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "割り箸",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "椀、味噌汁椀",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "腕章",
+    "aliases": [
+      "わ"
+    ],
+    "garbageTypeId": "燃やすゴミ"
+  },
+  {
+    "keyword": "油（食用油）の容器",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "使い切ってあれば可"
+  },
+  {
+    "keyword": "油（食用油）の容器",
+    "aliases": [
+      "あ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "油の付着によりＰＥＴボトルとして資源化できないため"
+  },
+  {
+    "keyword": "絵の具チューブ",
+    "aliases": [
+      "え"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中身を使い切る"
+  },
+  {
+    "keyword": "菓子袋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "菓子袋",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中が銀色のもの"
+  },
+  {
+    "keyword": "カップ麺の容器",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "軽くすすぐ"
+  },
+  {
+    "keyword": "かんしょう材",
+    "aliases": [
+      "か"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "紙製のものは「可燃ごみ」"
+  },
+  {
+    "keyword": "薬のシート",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "クリーニングの袋",
+    "aliases": [
+      "く"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "粉チーズの容器",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "ごみ袋",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "「不燃ごみ」用のごみ袋として使用可"
+  },
+  {
+    "keyword": "ごみ袋",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "「不燃ごみ」用のごみ袋として使用可"
+  },
+  {
+    "keyword": "ごみ袋",
+    "aliases": [
+      "こ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "集積所排出のごみ袋としては使用不可"
+  },
+  {
+    "keyword": "刺身のトレイ",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "白色トレイはできるだけ回収協力店へ"
+  },
+  {
+    "keyword": "サラダ油のボトル（プラスチック製）",
+    "aliases": [
+      "さ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中身は使い切る"
+  },
+  {
+    "keyword": "シャンプー・リンスの容器",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中身を出さし切る"
+  },
+  {
+    "keyword": "錠剤のシート",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "除湿剤",
+    "aliases": [
+      "し"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中の水は出す/中が出せないものは「不燃ごみ」"
+  },
+  {
+    "keyword": "スーパーの袋（レジ袋、ポリ袋）",
+    "aliases": [
+      "す"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "接着剤の容器",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中が残って固まっている場合は「可燃ごみ」"
+  },
+  {
+    "keyword": "洗剤の容器（粉洗剤）",
+    "aliases": [
+      "せ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中の計量スプーンは「不燃ごみ」"
+  },
+  {
+    "keyword": "卵パック",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "炭酸カルシウム入り袋",
+    "aliases": [
+      "た"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "不燃ごみ用の袋として使用可"
+  },
+  {
+    "keyword": "漬物の袋",
+    "aliases": [
+      "つ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中を軽くすすぐ/付着物が取れなければ「可燃ごみ」"
+  },
+  {
+    "keyword": "トレイ（発泡トレイ）",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "できるだけ回収協力店へ"
+  },
+  {
+    "keyword": "ドレッシングの容器",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中を軽くすすぐ"
+  },
+  {
+    "keyword": "ドレッシングの容器",
+    "aliases": [
+      "と"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中を軽くすすぐ"
+  },
+  {
+    "keyword": "納豆容器（発泡トレイ等）",
+    "aliases": [
+      "な"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "水につけて粘りを取る"
+  },
+  {
+    "keyword": "乳酸菌飲料の容器",
+    "aliases": [
+      "に"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "アルミ製のふたは「可燃ごみ」"
+  },
+  {
+    "keyword": "ネット",
+    "aliases": [
+      "ね"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "白色トレイ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "できるだけ回収協力店へ"
+  },
+  {
+    "keyword": "発泡スチロール",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "大きいものは紐で束ねて排出可"
+  },
+  {
+    "keyword": "発泡トレイ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "できるだけ回収協力店へ"
+  },
+  {
+    "keyword": "歯磨きチューブ",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中身を使い切る"
+  },
+  {
+    "keyword": "バルサン（殺虫剤）",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中身を使い切る"
+  },
+  {
+    "keyword": "パンの袋の留め具",
+    "aliases": [
+      "は"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "ビニール袋",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "ビンのふた",
+    "aliases": [
+      "ひ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "取れないふたはビンにつけたまま出す"
+  },
+  {
+    "keyword": "プチプチ（気泡かんしょう材）",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "紙製のものは「可燃ごみ」"
+  },
+  {
+    "keyword": "フラワーポット",
+    "aliases": [
+      "ふ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "できるだけ土を落とす"
+  },
+  {
+    "keyword": "PETボトル(ペットボトル)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "PETボトル(ペットボトル)",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "はがさなくてもよい"
+  },
+  {
+    "keyword": "弁当箱",
+    "aliases": [
+      "へ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "軽くすすぐ"
+  },
+  {
+    "keyword": "ポテトチップスの袋",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "ポリ袋",
+    "aliases": [
+      "ほ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "マーガリンの容器",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中身を拭き取る"
+  },
+  {
+    "keyword": "マヨネーズチューブ",
+    "aliases": [
+      "ま"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "中身を使い切る"
+  },
+  {
+    "keyword": "味噌の容器",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "軽くすすいでから出す"
+  },
+  {
+    "keyword": "味噌の容器",
+    "aliases": [
+      "み"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "付着した中身が取れなければ「可燃ごみ」"
+  },
+  {
+    "keyword": "ラップ（食品ラップ）",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "油汚れの付いてないもの"
+  },
+  {
+    "keyword": "ラップ（食品ラップ）",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "シールははがさなくてよい/汚れのひどいものは「可燃ごみ」"
+  },
+  {
+    "keyword": "ラップ（食品ラップ）",
+    "aliases": [
+      "ら"
+    ],
+    "garbageTypeId": "容器包装プラスチック類",
+    "notes": "汚れのひどいものは「可燃ごみ」"
+  },
+  {
+    "keyword": "冷凍食品の袋",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  },
+  {
+    "keyword": "レジ袋",
+    "aliases": [
+      "れ"
+    ],
+    "garbageTypeId": "容器包装プラスチック類"
+  }
+]
