@@ -52,7 +52,7 @@
       "typedRoutes": true
     },
     "extra": {
-      "difyApiKey": "",
+      "backendUrl": "https://gomical-rag-1044619351781.asia-northeast1.run.app",
       "eas": {
         "projectId": ""
       }

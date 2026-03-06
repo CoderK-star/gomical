@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { View, Text, ScrollView, TouchableOpacity, StyleSheet } from 'react-native';
+import { View, Text, ScrollView, TouchableOpacity, StyleSheet, Platform } from 'react-native';
 import { useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -258,11 +258,14 @@ const stepStyles = StyleSheet.create({
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    // Web: flex child with overflow needs minHeight: 0 to allow shrinking
+    ...(Platform.OS === 'web' ? { display: 'flex' as any, height: '100%' as any } : {}),
   },
   header: {
     paddingHorizontal: spacing.xl,
     paddingTop: spacing.xxxl,
     paddingBottom: spacing.sm,
+    flexShrink: 0,
   },
   headerRow: {
     flexDirection: 'row',
@@ -289,6 +292,8 @@ const styles = StyleSheet.create({
   },
   list: {
     flex: 1,
+    // Web: allow the ScrollView to shrink within its flex parent
+    ...(Platform.OS === 'web' ? { minHeight: 0, overflow: 'auto' as any } : {}),
   },
   listContent: {
     paddingHorizontal: spacing.lg,
@@ -318,6 +323,7 @@ const styles = StyleSheet.create({
   footer: {
     paddingHorizontal: spacing.xl,
     paddingTop: spacing.md,
+    flexShrink: 0,
   },
   confirmButton: {
     borderRadius: borderRadius.lg,

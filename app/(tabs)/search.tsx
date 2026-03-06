@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { View, Text, TextInput, ScrollView, StyleSheet } from 'react-native';
+import { View, Text, TextInput, ScrollView, StyleSheet, Platform } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { ScreenContainer, SectionHeader } from '@/src/components/common';
 import { GarbageBadge } from '@/src/components/garbage';
@@ -149,6 +149,7 @@ const styles = StyleSheet.create({
   },
   list: {
     flex: 1,
+    ...(Platform.OS === 'web' ? { minHeight: 0, overflow: 'auto' as any } : {}),
   },
   listContent: {
     paddingHorizontal: spacing.lg,

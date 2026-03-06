@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, StyleSheet, ViewStyle } from 'react-native';
+import { View, StyleSheet, ViewStyle, Platform } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { spacing } from '../../theme/tokens';
 import { useTheme } from '../../theme/ThemeContext';
@@ -36,5 +36,6 @@ export function ScreenContainer({
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    ...(Platform.OS === 'web' ? { display: 'flex' as any, height: '100%' as any } : {}),
   },
 });

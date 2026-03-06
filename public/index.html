@@ -13,15 +13,11 @@
   <link rel="apple-touch-icon" href="/icon-192.png" />
   <title>ゴミカル</title>
   <style>
-    html, body {
+    html, body, #root {
       height: 100%;
       margin: 0;
       padding: 0;
-    }
-    #root {
-      display: flex;
-      flex-direction: column;
-      height: 100%;
+      overflow: hidden;
     }
     /* Prevent pull-to-refresh on mobile web */
     body { overscroll-behavior-y: none; }

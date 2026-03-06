@@ -53,3 +53,10 @@ knowledge-base/
 
 # Lock file (regenerated on install)
 package-lock.json
+
+# Backend
+backend/.env
+
+# Backend Python virtual envs
+backend/.venv/
+backend/venv/

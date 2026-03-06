@@ -15,7 +15,7 @@ import { ScreenContainer } from '@/src/components/common';
 import { useCalendar } from '@/src/hooks/useCalendar';
 import { useTheme } from '@/src/theme/ThemeContext';
 import { spacing, fontSize, fontWeight, borderRadius, colors as tokenColors } from '@/src/theme/tokens';
-import { sendChatMessage, type ChatMessage } from '@/src/services/difyService';
+import { sendChatMessage, type ChatMessage } from '@/src/services/ragService';
 import { t } from '@/src/i18n';
 
 let messageIdCounter = 0;
@@ -32,7 +32,6 @@ export default function ChatScreen() {
   ]);
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
-  const [conversationId, setConversationId] = useState<string | null>(null);
   const scrollViewRef = useRef<ScrollView>(null);
 
   const handleSend = useCallback(async () => {
@@ -47,10 +46,9 @@ export default function ChatScreen() {
     try {
       const result = await sendChatMessage(
         text,
-        conversationId,
+        [...messages, userMsg],
         municipality?.municipalityName ?? '',
       );
-      setConversationId(result.conversationId);
       const botMsg: ChatMessage = { id: nextId(), role: 'assistant', content: result.answer };
       setMessages((prev) => [...prev, botMsg]);
     } catch {
@@ -63,7 +61,7 @@ export default function ChatScreen() {
     } finally {
       setLoading(false);
     }
-  }, [input, loading, conversationId, municipality]);
+  }, [input, loading, messages, municipality]);
 
   if (!hasArea) {
     return (
@@ -186,6 +184,7 @@ const styles = StyleSheet.create({
   },
   chatScroll: {
     flex: 1,
+    ...(Platform.OS === 'web' ? { minHeight: 0, overflow: 'auto' as any } : {}),
   },
   messageList: {
     paddingHorizontal: spacing.lg,
