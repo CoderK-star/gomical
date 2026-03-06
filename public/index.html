@@ -19,6 +19,17 @@
       padding: 0;
       overflow: hidden;
     }
+    /* Ensure Expo Router / React Navigation wrapper divs propagate full height */
+    #root {
+      display: flex;
+      flex-direction: column;
+    }
+    #root > div {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      min-height: 0;
+    }
     /* Prevent pull-to-refresh on mobile web */
     body { overscroll-behavior-y: none; }
     /* Reset default input styles for RNW */

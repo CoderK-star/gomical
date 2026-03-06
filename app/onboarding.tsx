@@ -248,18 +248,21 @@ const stepStyles = StyleSheet.create({
     width: 10,
     height: 10,
     borderRadius: 5,
+    flexShrink: 0,
   },
   line: {
     width: 40,
     height: 2,
+    flexShrink: 0,
+    flexGrow: 0,
   },
 });
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    // Web: flex child with overflow needs minHeight: 0 to allow shrinking
-    ...(Platform.OS === 'web' ? { display: 'flex' as any, height: '100%' as any } : {}),
+    flexDirection: 'column' as const,
+    ...(Platform.OS === 'web' ? { display: 'flex' as any, height: '100vh' as any, maxHeight: '100vh' as any } : {}),
   },
   header: {
     paddingHorizontal: spacing.xl,
@@ -293,7 +296,7 @@ const styles = StyleSheet.create({
   list: {
     flex: 1,
     // Web: allow the ScrollView to shrink within its flex parent
-    ...(Platform.OS === 'web' ? { minHeight: 0, overflow: 'auto' as any } : {}),
+    ...(Platform.OS === 'web' ? { minHeight: 0, overflow: 'auto' as any, flexBasis: 0 as any } : {}),
   },
   listContent: {
     paddingHorizontal: spacing.lg,

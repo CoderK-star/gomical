@@ -1,4 +1,4 @@
-# Gomical (ゴミカル)
+# 🗑️Gomical (ゴミカル)
 
 ごみ収集日をカレンダーで管理し、通知でお知らせするクロスプラットフォームアプリ。
 
@@ -18,33 +18,6 @@
 - **Language**: TypeScript
 - **Navigation**: Expo Router
 - **State**: Zustand + AsyncStorage
-- **Notifications**: expo-notifications
-
-## Setup
-
-```bash
-npm install
-npx expo start
-```
-
-## Project Structure
-
-```
-app/             Expo Router screens
-src/
-  components/    Reusable UI components
-  data/          Municipality JSON data
-  hooks/         Custom React hooks
-  i18n/          Internationalization
-  services/      Business logic
-  store/         Zustand stores
-  theme/         Design tokens & theme
-  types/         TypeScript definitions
-  utils/         Utility functions
-assets/          Images, fonts, mascot art
-docs/            Legal documents
-scripts/         Data conversion tools
-```
 
 ## License
 
