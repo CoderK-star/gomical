@@ -8,7 +8,6 @@ import { useCalendar } from '@/src/hooks/useCalendar';
 import { useTheme, type ThemeMode } from '@/src/theme/ThemeContext';
 import { spacing, fontSize, fontWeight, borderRadius, colors as tokenColors } from '@/src/theme/tokens';
 import { requestPermissions } from '@/src/services/notificationService';
-import { testBackendConnection } from '@/src/services/ragService';
 
 function SettingRow({
   icon,
@@ -88,19 +87,6 @@ export default function SettingsScreen() {
     router.replace('/onboarding');
   }
 
-  const [testingConnection, setTestingConnection] = useState(false);
-  async function handleTestBackendConnection() {
-    setTestingConnection(true);
-    try {
-      const result = await testBackendConnection();
-      const message = result.ok
-        ? `接続成功\nステータス: ${result.status ?? '-'}\nRAG: ${result.ragInitialized ? '利用可能' : '未初期化'}`
-        : `接続失敗\n${result.error ?? '不明なエラー'}`;
-      Alert.alert(result.ok ? 'バックエンド接続OK' : 'バックエンド接続エラー', message, [{ text: 'OK' }]);
-    } finally {
-      setTestingConnection(false);
-    }
-  }
 
   return (
     <ScreenContainer>
@@ -186,18 +172,7 @@ export default function SettingsScreen() {
             onPress={cycleTheme}
           />
         </View>
-
-        <SectionHeader title="接続テスト" style={{ marginTop: spacing.xl }} />
-        <View style={[styles.section, { backgroundColor: colors.surface }]}>
-          <SettingRow
-            icon="cloud-done-outline"
-            title="バックエンド接続テスト"
-            subtitle="Vercel → Cloud Run の疎通確認"
-            right={testingConnection ? <ActivityIndicator size="small" color={tokenColors.primary} /> : undefined}
-            onPress={testingConnection ? undefined : handleTestBackendConnection}
-          />
-        </View>
-
+          
         <SectionHeader title="アプリ情報" style={{ marginTop: spacing.xl }} />
         <View style={[styles.section, { backgroundColor: colors.surface }]}>
           <SettingRow

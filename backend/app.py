@@ -1,8 +1,9 @@
 import json
 import asyncio
 from contextlib import asynccontextmanager
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import JSONResponse
 from fastapi.responses import FileResponse, StreamingResponse
 from pydantic import BaseModel
 from typing import Optional
@@ -24,10 +25,19 @@ generator = None
 doc_chunks = None  # BM25再構築用にチャンクを保持
 
 def _get_cors_origins():
-    raw = os.getenv("CORS_ORIGINS", "*")
-    if raw.strip() == "*":
+    raw = os.getenv("CORS_ORIGINS", "").strip()
+    if raw == "*":
         return ["*"]
-    return [o.strip() for o in raw.split(",") if o.strip()]
+    if raw:
+        return [o.strip() for o in raw.split(",") if o.strip()]
+    # 未設定時: Vercel本番 + ローカル開発用（allow_credentials=True のため * は使わない）
+    return [
+        "https://gomical.vercel.app",
+        "http://localhost:8080",
+        "http://localhost:19006",
+        "http://127.0.0.1:8080",
+        "http://127.0.0.1:19006",
+    ]
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -62,14 +72,26 @@ async def lifespan(app: FastAPI):
 app = FastAPI(lifespan=lifespan)
 
 # CORSを許可（フロントエンドからのアクセス用）
-# CORS_ORIGINS 環境変数で制限可能 (例: "https://your-app.pages.dev,http://localhost:8000")
+# CORS_ORIGINS 環境変数で制限可能 (例: "https://gomical.vercel.app,http://localhost:8080")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=_get_cors_origins(),
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
+    expose_headers=["*"],
 )
+
+
+@app.exception_handler(Exception)
+async def global_exception_handler(request: Request, exc: Exception):
+    """未処理の例外でもJSONとCORSヘッダーが付くようにする（500時にCORSでブロックされない）"""
+    import traceback
+    print(f"Unhandled error: {exc}\n{traceback.format_exc()}")
+    return JSONResponse(
+        status_code=500,
+        content={"detail": "Internal server error", "type": type(exc).__name__},
+    )
 
 # フロントエンドの静的ファイル配信
 FRONTEND_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
