@@ -88,7 +88,13 @@ gcloud run deploy ${SERVICE_NAME} \
   --allow-unauthenticated
 ```
 
-- 環境変数（`OPENROUTER_API_KEY` など）は、Cloud Run の「環境変数」で設定する。`.env` は本番では使わず、Secret Manager 連携も検討できる。
+- **環境変数**は Cloud Run の「環境変数」で設定する（`.env` は本番では読まれない）。
+  - **必須**: `OPENROUTER_API_KEY`（LLM）、`PINECONE_API_KEY`、`LLM_MODEL_TYPE=openrouter`
+  - **埋め込み**（いずれか）:
+    - **OpenRouter（推奨・試用向け）**: `EMBEDDING_TYPE=openrouter`。`OPENROUTER_API_KEY` のみで LLM と共通。`EMBEDDING_MODEL_NAME=openai/text-embedding-3-small` を推奨。
+    - **Ollama**: 別サービスで Ollama を立て、`OLLAMA_BASE_URL` にその URL を設定。`EMBEDDING_TYPE` は未設定または `ollama`。
+    - **OpenAI**: `EMBEDDING_TYPE=openai` と `OPENAI_API_KEY` を設定。
+  - 500 が出る場合は上記と `PINECONE_INDEX_NAME` を確認し、Cloud Run のログで `query_rag error:` を確認する。
 
 ---
 

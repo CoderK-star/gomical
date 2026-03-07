@@ -253,11 +253,21 @@ async def query_rag(http_request: Request, request: QueryRequest):
         return QueryResponse(answer=answer, sources=sources)
     except Exception as e:
         import traceback
-        print(f"query_rag error: {e}\n{traceback.format_exc()}")
+        tb = traceback.format_exc()
+        print(f"query_rag error: {e}\n{tb}")
         headers = _cors_headers_for_request(http_request)
+        err_type = type(e).__name__
+        detail = f"RAG処理中にエラーが発生しました: {err_type}"
+        hint = ""
+        if "Pinecone" in err_type or "pinecone" in str(e).lower():
+            hint = "Cloud Run の環境変数 PINECONE_API_KEY を確認してください。"
+        elif "OpenAI" in err_type or "openai" in str(e).lower() or "embed" in str(e).lower():
+            hint = "埋め込み: EMBEDDING_TYPE=openrouter なら OPENROUTER_API_KEY のみ。openai なら OPENAI_API_KEY を設定してください。"
+        elif "OpenRouter" in err_type or "openrouter" in str(e).lower():
+            hint = "Cloud Run の環境変数 OPENROUTER_API_KEY を確認してください。"
         return JSONResponse(
             status_code=500,
-            content={"detail": f"RAG処理中にエラーが発生しました: {type(e).__name__}"},
+            content={"detail": detail, "error_type": err_type, "hint": hint or None},
             headers=headers,
         )
 
