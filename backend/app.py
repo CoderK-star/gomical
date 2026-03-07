@@ -2,6 +2,7 @@ import json
 import asyncio
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, HTTPException, Request
+from fastapi.exceptions import RequestValidationError
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import JSONResponse
 from fastapi.responses import FileResponse, StreamingResponse
@@ -24,20 +25,34 @@ import requests
 generator = None
 doc_chunks = None  # BM25再構築用にチャンクを保持
 
+# allow_credentials=True のときは "*" は使えないため、常に明示リスト
+DEFAULT_CORS_ORIGINS = [
+    "https://gomical.vercel.app",
+    "http://localhost:8080",
+    "http://localhost:19006",
+    "http://127.0.0.1:8080",
+    "http://127.0.0.1:19006",
+]
+
+
 def _get_cors_origins():
     raw = os.getenv("CORS_ORIGINS", "").strip()
     if raw == "*":
-        return ["*"]
+        return list(DEFAULT_CORS_ORIGINS)  # "*" 指定時も明示リストで返す（credentials のため）
     if raw:
         return [o.strip() for o in raw.split(",") if o.strip()]
-    # 未設定時: Vercel本番 + ローカル開発用（allow_credentials=True のため * は使わない）
-    return [
-        "https://gomical.vercel.app",
-        "http://localhost:8080",
-        "http://localhost:19006",
-        "http://127.0.0.1:8080",
-        "http://127.0.0.1:19006",
-    ]
+    return list(DEFAULT_CORS_ORIGINS)
+
+
+def _cors_headers_for_request(request: Request) -> dict:
+    """リクエストの Origin に合わせて CORS ヘッダーを返す（エラーレスポンス用）"""
+    origin = request.headers.get("origin", "").strip()
+    allowed = _get_cors_origins()
+    if origin in allowed:
+        return {"Access-Control-Allow-Origin": origin}
+    if allowed:
+        return {"Access-Control-Allow-Origin": allowed[0]}
+    return {}
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -88,9 +103,22 @@ async def global_exception_handler(request: Request, exc: Exception):
     """未処理の例外でもJSONとCORSヘッダーが付くようにする（500時にCORSでブロックされない）"""
     import traceback
     print(f"Unhandled error: {exc}\n{traceback.format_exc()}")
+    headers = _cors_headers_for_request(request)
     return JSONResponse(
         status_code=500,
         content={"detail": "Internal server error", "type": type(exc).__name__},
+        headers=headers,
+    )
+
+
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request: Request, exc: RequestValidationError):
+    """422 バリデーションエラーにも CORS を付与"""
+    headers = _cors_headers_for_request(request)
+    return JSONResponse(
+        status_code=422,
+        content={"detail": exc.errors()},
+        headers=headers,
     )
 
 # フロントエンドの静的ファイル配信
@@ -147,17 +175,26 @@ def build_source_list(result):
     """検索結果からソース情報を構築する"""
     sources = []
     seen_snippets = set()
-    for content, meta in zip(result["source_documents"], result["metadata"]):
-        snippet = content[:200].replace("\n", " ").strip()
-        if len(content) > 200:
-            snippet += "..."
-        if snippet not in seen_snippets:
-            seen_snippets.add(snippet)
-            sources.append(SourceInfo(
-                filename=meta.get("source", "Unknown").split("/")[-1].split("\\")[-1],
-                snippet=snippet,
-                page=meta.get("page")
-            ))
+    doc_list = result.get("source_documents") or []
+    meta_list = result.get("metadata") or []
+    for content, meta in zip(doc_list, meta_list):
+        try:
+            text = content if isinstance(content, str) else str(content)
+            snippet = text[:200].replace("\n", " ").strip()
+            if len(text) > 200:
+                snippet += "..."
+            if snippet not in seen_snippets:
+                seen_snippets.add(snippet)
+                meta = meta or {}
+                src = meta.get("source", "Unknown")
+                name = src.split("/")[-1].split("\\")[-1] if isinstance(src, str) else "Unknown"
+                sources.append(SourceInfo(
+                    filename=name,
+                    snippet=snippet,
+                    page=meta.get("page")
+                ))
+        except Exception:
+            continue
     return sources
 
 async def resolve_location(location: Optional[Location]) -> str:
@@ -190,33 +227,39 @@ async def get_config():
     return config.to_dict()
 
 @app.post("/query", response_model=QueryResponse)
-async def query_rag(request: QueryRequest):
+async def query_rag(http_request: Request, request: QueryRequest):
     """通常のRAGクエリ（非ストリーミング）"""
     if generator is None:
         raise HTTPException(
             status_code=503, 
             detail="RAGシステムが初期化されていません。data/raw フォルダにPDFまたはTXTファイルを追加してサーバーを再起動してください。"
         )
-    
-    location_context = await resolve_location(request.location)
-    full_prompt = location_context + request.prompt if location_context else request.prompt
+    try:
+        location_context = await resolve_location(request.location)
+        full_prompt = location_context + request.prompt if location_context else request.prompt
 
-    # 会話履歴を渡す
-    chat_history = None
-    if request.history:
-        chat_history = [{"role": m.role, "text": m.text} for m in request.history]
+        chat_history = None
+        if request.history:
+            chat_history = [{"role": m.role, "text": m.text} for m in request.history]
 
-    result = generator.get_answer(
-        full_prompt, 
-        request.config, 
-        image_data=request.image,
-        chat_history=chat_history
-    )
-    
-    return QueryResponse(
-        answer=result["answer"],
-        sources=build_source_list(result)
-    )
+        result = generator.get_answer(
+            full_prompt,
+            request.config,
+            image_data=request.image,
+            chat_history=chat_history,
+        )
+        answer = result.get("answer") or ""
+        sources = build_source_list(result)
+        return QueryResponse(answer=answer, sources=sources)
+    except Exception as e:
+        import traceback
+        print(f"query_rag error: {e}\n{traceback.format_exc()}")
+        headers = _cors_headers_for_request(http_request)
+        return JSONResponse(
+            status_code=500,
+            content={"detail": f"RAG処理中にエラーが発生しました: {type(e).__name__}"},
+            headers=headers,
+        )
 
 @app.post("/query/stream")
 async def query_rag_stream(request: QueryRequest):
