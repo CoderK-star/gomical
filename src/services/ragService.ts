@@ -6,6 +6,29 @@ function getBackendUrl(): string {
   return (url as string).replace(/\/+$/, '');
 }
 
+/** バックエンド（Cloud Run）の疎通確認。Vercel → Cloud Run 接続テストに利用 */
+export async function testBackendConnection(): Promise<{
+  ok: boolean;
+  status?: string;
+  ragInitialized?: boolean;
+  error?: string;
+}> {
+  try {
+    const baseUrl = getBackendUrl();
+    const res = await fetch(`${baseUrl}/health`, { method: 'GET' });
+    const data = await res.json().catch(() => ({}));
+    return {
+      ok: res.ok,
+      status: data.status ?? (res.ok ? 'ready' : 'error'),
+      ragInitialized: data.rag_initialized,
+      error: res.ok ? undefined : (data.detail ?? `HTTP ${res.status}`),
+    };
+  } catch (e) {
+    const message = e instanceof Error ? e.message : String(e);
+    return { ok: false, error: message };
+  }
+}
+
 export interface ChatMessage {
   id: string;
   role: 'user' | 'assistant';
