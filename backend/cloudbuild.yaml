@@ -1,0 +1,7 @@
+# キャッシュを使わずにビルド（data/raw の変更を確実に反映したいときに使用）
+# 使い方: backend で gcloud builds submit --config=cloudbuild.yaml .
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '--no-cache', '-t', 'asia-northeast1-docker.pkg.dev/gomical-backend/cloud-run-source-deploy/gomical-rag', '.']
+images:
+  - 'asia-northeast1-docker.pkg.dev/gomical-backend/cloud-run-source-deploy/gomical-rag'

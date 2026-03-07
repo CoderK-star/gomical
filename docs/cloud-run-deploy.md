@@ -199,6 +199,28 @@ gcloud run services update gomical-rag `
 | ビルドは成功するがプッシュで権限エラー | Artifact Registry のリポジトリが存在するか、Cloud Build の権限を確認する |
 | 500 エラー・Ollama 接続エラー | ログで `Using embeddings: openrouter` が出ているか確認。出ていなければ `EMBEDDING_TYPE=openrouter` を設定する |
 | Pinecone 400 エラー | 埋め込みモデルを変えた場合は、Pinecone のインデックスを削除してから `/ingest` で再取り込みする |
+| **Container import failed**（リビジョン作成失敗） | 下記「Container import failed の対処」を参照 |
+
+### Container import failed の対処
+
+リビジョン作成で「Container import failed」と出る場合、次の可能性があります。
+
+1. **イメージが大きすぎる**  
+   `data/raw` をイメージに含めたことでサイズが増え、Cloud Run の制限（目安 10GB）に近づいている場合があります。  
+   - **確認**: Artifact Registry でイメージサイズを確認する。  
+   - **対処**: `.dockerignore` で `data/processed` を除外する。それでも大きい場合は、PDF を Cloud Storage に置き起動時に取得する方式を検討する。
+
+2. **起動時のクラッシュやタイムアウト**  
+   起動時の `lifespan` でドキュメント読み込みや Pinecone 接続に時間がかかり、ヘルスチェックに間に合っていない、または OOM で落ちている場合があります。  
+   - **確認**: Cloud Run → 該当サービス → **「ログ」** タブで、失敗したリビジョンのログを確認する。  
+     - フィルタ例: `resource.type="cloud_run_revision"` と `resource.labels.revision_name="gomical-rag-00011-xxx"`（失敗したリビジョン名）。  
+   - **対処**: メモリを増やす（例: 1Gi → 2Gi）。必要なら「最小インスタンス数」を 0 のまま、起動後のタイムアウト設定を確認する。
+
+3. **ファイルパス・文字コード**  
+   `data/raw/柏市/` のように非 ASCII のディレクトリ名を含む場合、まれに環境によって問題になることがあります。  
+   - **対処**: 一時的にフォルダ名をローマ字（例: `kashiwa`）に変えてビルドし直し、同じエラーが出るか確認する。
+
+**まずやること**: Cloud Run の **ログ** で、失敗したリビジョン名を指定してエラーメッセージとスタックトレースを確認してください。原因が特定しやすくなります。
 
 ---
 
@@ -217,3 +239,51 @@ gcloud run deploy gomical-rag --image asia-northeast1-docker.pkg.dev/gomical-bac
 ```
 
 以上が Cloud Run を手動でデプロイする手順です。
+
+---
+
+## Cloud Run の「ソース」に変更が反映されない場合
+
+ローカルで `data/raw/` のディレクトリ名をローマ字（例: `kasiwa`, `nagareyama`）に変えてデプロイしたのに、Cloud Run の **「ソース」タブ** ではまだ日本語（柏市・流山市）のまま見えることがあります。
+
+### 理由
+
+1. **「ソース」は「今動いているイメージ」の内容ではないことがある**  
+   Cloud Run の「ソース」は、**ビルドトリガーでリポジトリと連携している場合、リポジトリ側のコード**を表示していることがあります。手元で `gcloud builds submit` したときにアップロードしたディレクトリとは別の参照元（Git の状態）が表示されている可能性があります。
+
+2. **どのビルドでデプロイしたか**  
+   - **手動で `gcloud builds submit`** している場合: ビルドに使われるのは **そのときのローカル `backend/` の内容**です。ローカルがローマ字なら、イメージにはローマ字が入っています。  
+   - **リポジトリ連携のビルドトリガー**でデプロイしている場合: ビルドに使われるのは **Git に push された時点のリポジトリ**です。ローカルでローマ字に変えても **push していない**と、イメージは古い（日本語のまま）です。
+
+3. **Docker のキャッシュ**  
+   過去の `COPY . .` がキャッシュされていると、古いディレクトリ構成のままイメージが作られることがあります。
+
+### やること
+
+| やり方 | 対応 |
+|--------|------|
+| **手動デプロイだけ** | キャッシュを外してビルドし直す（下記の `--no-cache`）。ローカルがローマ字なら、そのイメージでデプロイされる。 |
+| **リポジトリ連携のトリガーでもデプロイしている** | ローカルの変更（`kasiwa`, `nagareyama` など）を **Git にコミットして push** する。その後トリガーでビルドされる内容がリポジトリと一致する。 |
+
+**キャッシュなしでビルドする例**（`backend` で実行）:
+
+```powershell
+# Cloud Build でキャッシュを使わずにビルド（cloudbuild.yaml を使う場合）
+# または、Dockerfile の COPY の前にキャッシュを無効化するためのダミーを入れる方法もある
+
+# 簡易的に: ビルド時に --no-cache 相当にするには cloudbuild.yaml で docker build に --no-cache を渡す
+# 以下は cloudbuild.yaml を使わない場合の代替: ローカルで確実にローマ字になっているか確認してから submit
+gcloud builds submit --tag asia-northeast1-docker.pkg.dev/gomical-backend/cloud-run-source-deploy/gomical-rag
+```
+
+Cloud Build でキャッシュを無効化するには、`backend/` に次のような `cloudbuild.yaml` を置き、`gcloud builds submit --config=cloudbuild.yaml .` でビルドする方法があります（オプション）:
+
+```yaml
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '--no-cache', '-t', 'asia-northeast1-docker.pkg.dev/gomical-backend/cloud-run-source-deploy/gomical-rag', '.']
+images:
+  - 'asia-northeast1-docker.pkg.dev/gomical-backend/cloud-run-source-deploy/gomical-rag'
+```
+
+**確認**: 実際に動いているコンテナの内容は、「ソース」タブではなく **Artifact Registry にプッシュされたイメージ**（または「ビルド履歴」でどのソースからビルドしたか）で判断する必要があります。ローカルをローマ字にしたうえで手動 `gcloud builds submit` し、その直後にデプロイしたリビジョンであれば、そのイメージにはローマ字のディレクトリが入っています。
