@@ -24,6 +24,7 @@ import requests
 # グローバル変数
 generator = None
 doc_chunks = None  # BM25再構築用にチャンクを保持
+rag_init_reason = None  # RAG が未初期化のときの理由（/health で返す）
 
 # allow_credentials=True のときは "*" は使えないため、常に明示リスト
 DEFAULT_CORS_ORIGINS = [
@@ -57,7 +58,8 @@ def _cors_headers_for_request(request: Request) -> dict:
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """アプリケーションの起動・終了時の処理"""
-    global generator, doc_chunks
+    global generator, doc_chunks, rag_init_reason
+    rag_init_reason = None
     try:
         config = Config()
         processor = DocumentProcessor()
@@ -67,17 +69,23 @@ async def lifespan(app: FastAPI):
         docs = processor.load_documents(config.DATA_RAW_DIR)
         doc_chunks = processor.split_documents(docs)
         
-        # ハイブリッド検索の準備（既存DBがあれば再利用）
-        hybrid_retriever = vs_manager.get_hybrid_retriever(doc_chunks, force_reingest=False)
-
-        if hybrid_retriever:
-            generator = RAGGenerator(retriever=hybrid_retriever)
-            print("✓ RAG components (Hybrid) loaded successfully.")
+        if not docs:
+            rag_init_reason = "no_documents"
+            print("⚠ No documents found in", config.DATA_RAW_DIR, "- Add PDF/TXT and call /ingest.")
         else:
-            print("⚠ No retriever available. Add documents and call /ingest.")
+            # ハイブリッド検索の準備（既存DBがあれば再利用）
+            hybrid_retriever = vs_manager.get_hybrid_retriever(doc_chunks, force_reingest=False)
+            if hybrid_retriever:
+                generator = RAGGenerator(retriever=hybrid_retriever)
+                print("✓ RAG components (Hybrid) loaded successfully.")
+            else:
+                rag_init_reason = "no_retriever"
+                print("⚠ No retriever available. Add documents and call /ingest.")
     except Exception as e:
+        import traceback
+        rag_init_reason = f"error:{type(e).__name__}:{str(e)[:200]}"
         print(f"⚠ Error loading RAG components: {e}")
-        print("  The server will start but queries may not work.")
+        print(traceback.format_exc())
     
     yield  # アプリケーション実行中
     
@@ -215,10 +223,13 @@ async def resolve_location(location: Optional[Location]) -> str:
 @app.get("/health")
 async def health_check():
     """RAGコンポーネントの準備状況を返す"""
-    return {
+    out = {
         "status": "ready" if generator is not None else "loading",
         "rag_initialized": generator is not None
     }
+    if generator is None and rag_init_reason:
+        out["rag_init_reason"] = rag_init_reason
+    return out
 
 @app.get("/config")
 async def get_config():
