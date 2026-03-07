@@ -23,6 +23,9 @@ class Config:
     # 埋め込み: "ollama"（デフォルト）/ "openai" / "openrouter"。openrouter 時は EMBEDDING_MODEL_NAME に "openai/text-embedding-3-small" 等を指定。
     EMBEDDING_TYPE = os.getenv("EMBEDDING_TYPE", "ollama").strip().lower()
     EMBEDDING_MODEL_NAME = os.getenv("EMBEDDING_MODEL_NAME", "nomic-embed-text")
+    # 埋め込みベクトルの次元数（未設定ならモデル規定値）。既存 Pinecone インデックスに合わせる場合は 1024 等を指定
+    _dim = os.getenv("EMBEDDING_DIMENSION", "").strip()
+    EMBEDDING_DIMENSION = int(_dim) if _dim.isdigit() else None
     DATA_RAW_DIR = os.getenv("DATA_RAW_DIR", "data/raw")
     DATA_PROCESSED_DIR = os.getenv("DATA_PROCESSED_DIR", "data/processed")
 
@@ -37,6 +40,7 @@ class Config:
             "model_name": self.LLM_MODEL_NAME,
             "embedding_type": self.EMBEDDING_TYPE,
             "embedding_model": self.EMBEDDING_MODEL_NAME,
+            "embedding_dimension": self.EMBEDDING_DIMENSION,
             "ollama_base_url": self.OLLAMA_BASE_URL,
             "has_openai_key": bool(self.OPENAI_API_KEY and self.OPENAI_API_KEY != "none"),
             "has_openrouter_key": bool(self.OPENROUTER_API_KEY),

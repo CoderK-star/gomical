@@ -15,18 +15,23 @@ class VectorStoreManager:
 
     def _get_embeddings(self):
         # EMBEDDING_TYPE: openai / openrouter（OpenAI互換API）/ ollama（デフォルト）
+        # dimensions: 既存 Pinecone インデックスに合わせる場合に EMBEDDING_DIMENSION で指定（例: 1024）
+        extra_kw = {}
+        if self.config.EMBEDDING_DIMENSION is not None:
+            extra_kw["dimensions"] = self.config.EMBEDDING_DIMENSION
         if self.config.EMBEDDING_TYPE == "openai" and self.config.OPENAI_API_KEY and self.config.OPENAI_API_KEY.strip().lower() != "none":
-            print(f"Using embeddings: openai (model={self.config.EMBEDDING_MODEL_NAME})")
-            return OpenAIEmbeddings(openai_api_key=self.config.OPENAI_API_KEY, model=self.config.EMBEDDING_MODEL_NAME)
+            print(f"Using embeddings: openai (model={self.config.EMBEDDING_MODEL_NAME}, dim={self.config.EMBEDDING_DIMENSION})")
+            return OpenAIEmbeddings(openai_api_key=self.config.OPENAI_API_KEY, model=self.config.EMBEDDING_MODEL_NAME, **extra_kw)
         if self.config.EMBEDDING_TYPE == "openrouter" and self.config.OPENROUTER_API_KEY:
             model = self.config.EMBEDDING_MODEL_NAME
             if model == "nomic-embed-text" or "/" not in model:
                 model = "openai/text-embedding-3-small"
-            print(f"Using embeddings: openrouter (model={model})")
+            print(f"Using embeddings: openrouter (model={model}, dim={self.config.EMBEDDING_DIMENSION})")
             return OpenAIEmbeddings(
                 openai_api_key=self.config.OPENROUTER_API_KEY,
                 openai_api_base=self.config.OPENROUTER_BASE_URL,
                 model=model,
+                **extra_kw,
             )
         print(f"Using embeddings: ollama (base_url={self.config.OLLAMA_BASE_URL}, model={self.config.EMBEDDING_MODEL_NAME})")
         return OllamaEmbeddings(

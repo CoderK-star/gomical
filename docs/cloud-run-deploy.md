@@ -116,6 +116,7 @@ Invoke-RestMethod -Uri "https://gomical-rag-1044619351781.asia-northeast1.run.ap
 | `LLM_MODEL_TYPE` | `openrouter` |
 | `EMBEDDING_TYPE` | `openrouter` または `openai` または `ollama` |
 | `EMBEDDING_MODEL_NAME` | OpenRouter 時: `openai/text-embedding-3-small` |
+| `EMBEDDING_DIMENSION` | 既存 Pinecone インデックスが 1024 次元のときは `1024` を指定（未設定ならモデル規定値・例: 1536） |
 | `CORS_ORIGINS` | 未設定でよい（デフォルトで Vercel を許可） |
 
 5. **「デプロイ」** で新しいリビジョンが作成されます。
