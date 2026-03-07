@@ -16,17 +16,19 @@ class VectorStoreManager:
     def _get_embeddings(self):
         # EMBEDDING_TYPE: openai / openrouter（OpenAI互換API）/ ollama（デフォルト）
         if self.config.EMBEDDING_TYPE == "openai" and self.config.OPENAI_API_KEY and self.config.OPENAI_API_KEY.strip().lower() != "none":
+            print(f"Using embeddings: openai (model={self.config.EMBEDDING_MODEL_NAME})")
             return OpenAIEmbeddings(openai_api_key=self.config.OPENAI_API_KEY, model=self.config.EMBEDDING_MODEL_NAME)
         if self.config.EMBEDDING_TYPE == "openrouter" and self.config.OPENROUTER_API_KEY:
-            # OpenRouter は OpenAI 互換の /embeddings API を提供（要 EMBEDDING_MODEL_NAME 例: openai/text-embedding-3-small）
             model = self.config.EMBEDDING_MODEL_NAME
             if model == "nomic-embed-text" or "/" not in model:
                 model = "openai/text-embedding-3-small"
+            print(f"Using embeddings: openrouter (model={model})")
             return OpenAIEmbeddings(
                 openai_api_key=self.config.OPENROUTER_API_KEY,
                 openai_api_base=self.config.OPENROUTER_BASE_URL,
                 model=model,
             )
+        print(f"Using embeddings: ollama (base_url={self.config.OLLAMA_BASE_URL}, model={self.config.EMBEDDING_MODEL_NAME})")
         return OllamaEmbeddings(
             model=self.config.EMBEDDING_MODEL_NAME,
             base_url=self.config.OLLAMA_BASE_URL,

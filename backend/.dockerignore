@@ -3,7 +3,7 @@ __pycache__/
 .env
 .venv/
 venv/
-data/
+# data/processed だけ除外する場合は data/processed を追加
 *.egg-info/
 .pytest_cache/
 .mypy_cache/
